@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "num": "0101",
+      "title": "Symmetric Tree",
+      "lo_title": "symmetric-tree",
+      "link": "https://leetcode.com/problems/symmetric-tree",
+      "level": "Easy",
+      "acrate": "44.0%"
+    },
+    {
+      "num": "0102",
+      "title": "Binary Tree Level Order Traversal",
+      "lo_title": "binary-tree-level-order-traversal",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+      "level": "Medium",
+      "acrate": "49.5%"
+    },
+    {
+      "num": "0103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "lo_title": "binary-tree-zigzag-level-order-traversal",
+      "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+      "level": "Medium",
+      "acrate": "42.7%"
+    },
+    {
+      "num": "0104",
+      "title": "Maximum Depth of Binary Tree",
+      "lo_title": "maximum-depth-of-binary-tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+      "level": "Easy",
+      "acrate": "61.5%"
+    },
+    {
+      "num": "0105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "lo_title": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+      "level": "Medium",
+      "acrate": "42.4%"
+    },
+    {
+      "num": "0106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "lo_title": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+      "level": "Medium",
+      "acrate": "40.4%"
+    },
+    {
+      "num": "0107",
+      "title": "Binary Tree Level Order Traversal II",
+      "lo_title": "binary-tree-level-order-traversal-ii",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+      "level": "Easy",
+      "acrate": "47.7%"
+    },
+    {
+      "num": "0108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "lo_title": "convert-sorted-array-to-binary-search-tree",
+      "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+      "level": "Easy",
+      "acrate": "52.0%"
+    },
+    {
+      "num": "0109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "lo_title": "convert-sorted-list-to-binary-search-tree",
+      "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+      "level": "Medium",
+      "acrate": "41.9%"
+    },
+    {
+      "num": "0110",
+      "title": "Balanced Binary Tree",
+      "lo_title": "balanced-binary-tree",
+      "link": "https://leetcode.com/problems/balanced-binary-tree",
+      "level": "Easy",
+      "acrate": "41.5%"
+    },
+    {
+      "num": "0111",
+      "title": "Minimum Depth of Binary Tree",
+      "lo_title": "minimum-depth-of-binary-tree",
+      "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+      "level": "Easy",
+      "acrate": "35.7%"
+    },
+    {
+      "num": "0112",
+      "title": "Path Sum",
+      "lo_title": "path-sum",
+      "link": "https://leetcode.com/problems/path-sum",
+      "level": "Easy",
+      "acrate": "38.4%"
+    },
+    {
+      "num": "0113",
+      "title": "Path Sum II",
+      "lo_title": "path-sum-ii",
+      "link": "https://leetcode.com/problems/path-sum-ii",
+      "level": "Medium",
+      "acrate": "41.6%"
+    },
+    {
+      "num": "0114",
+      "title": "Flatten Binary Tree to Linked List",
+      "lo_title": "flatten-binary-tree-to-linked-list",
+      "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+      "level": "Medium",
+      "acrate": "43.5%"
+    },
+    {
+      "num": "0115",
+      "title": "Distinct Subsequences",
+      "lo_title": "distinct-subsequences",
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "level": "Hard",
+      "acrate": "35.5%"
+    },
+    {
+      "num": "0116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "lo_title": "populating-next-right-pointers-in-each-node",
+      "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+      "level": "Medium",
+      "acrate": "38.8%"
+    },
+    {
+      "num": "0117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "lo_title": "populating-next-right-pointers-in-each-node-ii",
+      "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+      "level": "Medium",
+      "acrate": "35.1%"
+    },
+    {
+      "num": "0118",
+      "title": "Pascal's Triangle",
+      "lo_title": "pascals-triangle",
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "level": "Easy",
+      "acrate": "47.2%"
+    },
+    {
+      "num": "0119",
+      "title": "Pascal's Triangle II",
+      "lo_title": "pascals-triangle-ii",
+      "link": "https://leetcode.com/problems/pascals-triangle-ii",
+      "level": "Easy",
+      "acrate": "44.7%"
+    },
+    {
+      "num": "0120",
+      "title": "Triangle",
+      "lo_title": "triangle",
+      "link": "https://leetcode.com/problems/triangle",
+      "level": "Medium",
+      "acrate": "40.2%"
+    },
+    {
+      "num": "0121",
+      "title": "Best Time to Buy and Sell Stock",
+      "lo_title": "best-time-to-buy-and-sell-stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "level": "Easy",
+      "acrate": "47.9%"
+    },
+    {
+      "num": "0122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "lo_title": "best-time-to-buy-and-sell-stock-ii",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "level": "Easy",
+      "acrate": "52.7%"
+    },
+    {
+      "num": "0123",
+      "title": "Best Time to Buy and Sell Stock III",
+      "lo_title": "best-time-to-buy-and-sell-stock-iii",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "level": "Hard",
+      "acrate": "34.4%"
+    },
+    {
+      "num": "0124",
+      "title": "Binary Tree Maximum Path Sum",
+      "lo_title": "binary-tree-maximum-path-sum",
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "level": "Hard",
+      "acrate": "30.6%"
+    },
+    {
+      "num": "0125",
+      "title": "Valid Palindrome",
+      "lo_title": "valid-palindrome",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "level": "Easy",
+      "acrate": "31.9%"
+    },
+    {
+      "num": "0126",
+      "title": "Word Ladder II",
+      "lo_title": "word-ladder-ii",
+      "link": "https://leetcode.com/problems/word-ladder-ii",
+      "level": "Hard",
+      "acrate": "18.4%"
+    },
+    {
+      "num": "0127",
+      "title": "Word Ladder",
+      "lo_title": "word-ladder",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "level": "Medium",
+      "acrate": "25.0%"
+    },
+    {
+      "num": "0128",
+      "title": "Longest Consecutive Sequence",
+      "lo_title": "longest-consecutive-sequence",
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "level": "Hard",
+      "acrate": "42.4%"
+    },
+    {
+      "num": "0129",
+      "title": "Sum Root to Leaf Numbers",
+      "lo_title": "sum-root-to-leaf-numbers",
+      "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0130",
+      "title": "Surrounded Regions",
+      "lo_title": "surrounded-regions",
+      "link": "https://leetcode.com/problems/surrounded-regions",
+      "level": "Medium",
+      "acrate": "23.5%"
+    },
+    {
+      "num": "0131",
+      "title": "Palindrome Partitioning",
+      "lo_title": "palindrome-partitioning",
+      "link": "https://leetcode.com/problems/palindrome-partitioning",
+      "level": "Medium",
+      "acrate": "42.0%"
+    },
+    {
+      "num": "0132",
+      "title": "Palindrome Partitioning II",
+      "lo_title": "palindrome-partitioning-ii",
+      "link": "https://leetcode.com/problems/palindrome-partitioning-ii",
+      "level": "Hard",
+      "acrate": "28.0%"
+    },
+    {
+      "num": "0133",
+      "title": "Clone Graph",
+      "lo_title": "clone-graph",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "level": "Medium",
+      "acrate": "27.7%"
+    },
+    {
+      "num": "0134",
+      "title": "Gas Station",
+      "lo_title": "gas-station",
+      "link": "https://leetcode.com/problems/gas-station",
+      "level": "Medium",
+      "acrate": "34.6%"
+    },
+    {
+      "num": "0135",
+      "title": "Candy",
+      "lo_title": "candy",
+      "link": "https://leetcode.com/problems/candy",
+      "level": "Hard",
+      "acrate": "28.9%"
+    },
+    {
+      "num": "0136",
+      "title": "Single Number",
+      "lo_title": "single-number",
+      "link": "https://leetcode.com/problems/single-number",
+      "level": "Easy",
+      "acrate": "61.0%"
+    },
+    {
+      "num": "0137",
+      "title": "Single Number II",
+      "lo_title": "single-number-ii",
+      "link": "https://leetcode.com/problems/single-number-ii",
+      "level": "Medium",
+      "acrate": "46.6%"
+    },
+    {
+      "num": "0138",
+      "title": "Copy List with Random Pointer",
+      "lo_title": "copy-list-with-random-pointer",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "level": "Medium",
+      "acrate": "28.2%"
+    },
+    {
+      "num": "0139",
+      "title": "Word Break",
+      "lo_title": "word-break",
+      "link": "https://leetcode.com/problems/word-break",
+      "level": "Medium",
+      "acrate": "36.1%"
+    },
+    {
+      "num": "0140",
+      "title": "Word Break II",
+      "lo_title": "word-break-ii",
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "level": "Hard",
+      "acrate": "27.9%"
+    },
+    {
+      "num": "0141",
+      "title": "Linked List Cycle",
+      "lo_title": "linked-list-cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "level": "Easy",
+      "acrate": "37.7%"
+    },
+    {
+      "num": "0142",
+      "title": "Linked List Cycle II",
+      "lo_title": "linked-list-cycle-ii",
+      "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+      "level": "Medium",
+      "acrate": "33.0%"
+    },
+    {
+      "num": "0143",
+      "title": "Reorder List",
+      "lo_title": "reorder-list",
+      "link": "https://leetcode.com/problems/reorder-list",
+      "level": "Medium",
+      "acrate": "31.8%"
+    },
+    {
+      "num": "0144",
+      "title": "Binary Tree Preorder Traversal",
+      "lo_title": "binary-tree-preorder-traversal",
+      "link": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+      "level": "Medium",
+      "acrate": "52.2%"
+    },
+    {
+      "num": "0145",
+      "title": "Binary Tree Postorder Traversal",
+      "lo_title": "binary-tree-postorder-traversal",
+      "link": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+      "level": "Hard",
+      "acrate": "49.6%"
+    },
+    {
+      "num": "0146",
+      "title": "LRU Cache",
+      "lo_title": "lru-cache",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "level": "Medium",
+      "acrate": "26.6%"
+    },
+    {
+      "num": "0147",
+      "title": "Insertion Sort List",
+      "lo_title": "insertion-sort-list",
+      "link": "https://leetcode.com/problems/insertion-sort-list",
+      "level": "Medium",
+      "acrate": "38.0%"
+    },
+    {
+      "num": "0148",
+      "title": "Sort List",
+      "lo_title": "sort-list",
+      "link": "https://leetcode.com/problems/sort-list",
+      "level": "Medium",
+      "acrate": "36.5%"
+    },
+    {
+      "num": "0149",
+      "title": "Max Points on a Line",
+      "lo_title": "max-points-on-a-line",
+      "link": "https://leetcode.com/problems/max-points-on-a-line",
+      "level": "Hard",
+      "acrate": "16.0%"
+    },
+    {
+      "num": "0150",
+      "title": "Evaluate Reverse Polish Notation",
+      "lo_title": "evaluate-reverse-polish-notation",
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "level": "Medium",
+      "acrate": "32.9%"
+    },
+    {
+      "num": "0151",
+      "title": "Reverse Words in a String",
+      "lo_title": "reverse-words-in-a-string",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "level": "Medium",
+      "acrate": "17.4%"
+    },
+    {
+      "num": "0152",
+      "title": "Maximum Product Subarray",
+      "lo_title": "maximum-product-subarray",
+      "link": "https://leetcode.com/problems/maximum-product-subarray",
+      "level": "Medium",
+      "acrate": "29.7%"
+    },
+    {
+      "num": "0153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "lo_title": "find-minimum-in-rotated-sorted-array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+      "level": "Medium",
+      "acrate": "43.4%"
+    },
+    {
+      "num": "0154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "lo_title": "find-minimum-in-rotated-sorted-array-ii",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii",
+      "level": "Hard",
+      "acrate": "39.6%"
+    },
+    {
+      "num": "0155",
+      "title": "Min Stack",
+      "lo_title": "min-stack",
+      "link": "https://leetcode.com/problems/min-stack",
+      "level": "Easy",
+      "acrate": "38.1%"
+    },
+    {
+      "num": "0156",
+      "title": "Binary Tree Upside Down",
+      "lo_title": "binary-tree-upside-down",
+      "link": "https://leetcode.com/problems/binary-tree-upside-down",
+      "level": "Medium",
+      "acrate": "51.6%"
+    },
+    {
+      "num": "0157",
+      "title": "Read N Characters Given Read4",
+      "lo_title": "read-n-characters-given-read4",
+      "link": "https://leetcode.com/problems/read-n-characters-given-read4",
+      "level": "Easy",
+      "acrate": "30.2%"
+    },
+    {
+      "num": "0158",
+      "title": "Read N Characters Given Read4 II - Call multiple times",
+      "lo_title": "read-n-characters-given-read4-ii-call-multiple-times",
+      "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+      "level": "Hard",
+      "acrate": "27.2%"
+    },
+    {
+      "num": "0159",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "lo_title": "longest-substring-with-at-most-two-distinct-characters",
+      "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+      "level": "Hard",
+      "acrate": "47.5%"
+    },
+    {
+      "num": "0160",
+      "title": "Intersection of Two Linked Lists",
+      "lo_title": "intersection-of-two-linked-lists",
+      "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+      "level": "Easy",
+      "acrate": "35.0%"
+    },
+    {
+      "num": "0161",
+      "title": "One Edit Distance",
+      "lo_title": "one-edit-distance",
+      "link": "https://leetcode.com/problems/one-edit-distance",
+      "level": "Medium",
+      "acrate": "31.8%"
+    },
+    {
+      "num": "0162",
+      "title": "Find Peak Element",
+      "lo_title": "find-peak-element",
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "level": "Medium",
+      "acrate": "41.6%"
+    },
+    {
+      "num": "0163",
+      "title": "Missing Ranges",
+      "lo_title": "missing-ranges",
+      "link": "https://leetcode.com/problems/missing-ranges",
+      "level": "Medium",
+      "acrate": "23.4%"
+    },
+    {
+      "num": "0164",
+      "title": "Maximum Gap",
+      "lo_title": "maximum-gap",
+      "link": "https://leetcode.com/problems/maximum-gap",
+      "level": "Hard",
+      "acrate": "33.1%"
+    },
+    {
+      "num": "0165",
+      "title": "Compare Version Numbers",
+      "lo_title": "compare-version-numbers",
+      "link": "https://leetcode.com/problems/compare-version-numbers",
+      "level": "Medium",
+      "acrate": "24.2%"
+    },
+    {
+      "num": "0166",
+      "title": "Fraction to Recurring Decimal",
+      "lo_title": "fraction-to-recurring-decimal",
+      "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+      "level": "Medium",
+      "acrate": "19.7%"
+    },
+    {
+      "num": "0167",
+      "title": "Two Sum II - Input array is sorted",
+      "lo_title": "two-sum-ii-input-array-is-sorted",
+      "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+      "level": "Easy",
+      "acrate": "51.0%"
+    },
+    {
+      "num": "0168",
+      "title": "Excel Sheet Column Title",
+      "lo_title": "excel-sheet-column-title",
+      "link": "https://leetcode.com/problems/excel-sheet-column-title",
+      "level": "Easy",
+      "acrate": "29.3%"
+    },
+    {
+      "num": "0169",
+      "title": "Majority Element",
+      "lo_title": "majority-element",
+      "link": "https://leetcode.com/problems/majority-element",
+      "level": "Easy",
+      "acrate": "53.6%"
+    },
+    {
+      "num": "0170",
+      "title": "Two Sum III - Data structure design",
+      "lo_title": "two-sum-iii-data-structure-design",
+      "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+      "level": "Easy",
+      "acrate": "31.1%"
+    },
+    {
+      "num": "0171",
+      "title": "Excel Sheet Column Number",
+      "lo_title": "excel-sheet-column-number",
+      "link": "https://leetcode.com/problems/excel-sheet-column-number",
+      "level": "Easy",
+      "acrate": "52.0%"
+    },
+    {
+      "num": "0172",
+      "title": "Factorial Trailing Zeroes",
+      "lo_title": "factorial-trailing-zeroes",
+      "link": "https://leetcode.com/problems/factorial-trailing-zeroes",
+      "level": "Easy",
+      "acrate": "37.5%"
+    },
+    {
+      "num": "0173",
+      "title": "Binary Search Tree Iterator",
+      "lo_title": "binary-search-tree-iterator",
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+      "level": "Medium",
+      "acrate": "49.8%"
+    },
+    {
+      "num": "0174",
+      "title": "Dungeon Game",
+      "lo_title": "dungeon-game",
+      "link": "https://leetcode.com/problems/dungeon-game",
+      "level": "Hard",
+      "acrate": "27.6%"
+    },
+    {
+      "num": "0175",
+      "title": "Combine Two Tables",
+      "lo_title": "combine-two-tables",
+      "link": "https://leetcode.com/problems/combine-two-tables",
+      "level": "Easy",
+      "acrate": "53.4%"
+    },
+    {
+      "num": "0176",
+      "title": "Second Highest Salary",
+      "lo_title": "second-highest-salary",
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "level": "Easy",
+      "acrate": "27.9%"
+    },
+    {
+      "num": "0177",
+      "title": "Nth Highest Salary",
+      "lo_title": "nth-highest-salary",
+      "link": "https://leetcode.com/problems/nth-highest-salary",
+      "level": "Medium",
+      "acrate": "27.2%"
+    },
+    {
+      "num": "0178",
+      "title": "Rank Scores",
+      "lo_title": "rank-scores",
+      "link": "https://leetcode.com/problems/rank-scores",
+      "level": "Medium",
+      "acrate": "37.8%"
+    },
+    {
+      "num": "0179",
+      "title": "Largest Number",
+      "lo_title": "largest-number",
+      "link": "https://leetcode.com/problems/largest-number",
+      "level": "Medium",
+      "acrate": "26.3%"
+    },
+    {
+      "num": "0180",
+      "title": "Consecutive Numbers",
+      "lo_title": "consecutive-numbers",
+      "link": "https://leetcode.com/problems/consecutive-numbers",
+      "level": "Medium",
+      "acrate": "34.6%"
+    },
+    {
+      "num": "0181",
+      "title": "Employees Earning More Than Their Managers",
+      "lo_title": "employees-earning-more-than-their-managers",
+      "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+      "level": "Easy",
+      "acrate": "49.7%"
+    },
+    {
+      "num": "0182",
+      "title": "Duplicate Emails",
+      "lo_title": "duplicate-emails",
+      "link": "https://leetcode.com/problems/duplicate-emails",
+      "level": "Easy",
+      "acrate": "56.0%"
+    },
+    {
+      "num": "0183",
+      "title": "Customers Who Never Order",
+      "lo_title": "customers-who-never-order",
+      "link": "https://leetcode.com/problems/customers-who-never-order",
+      "level": "Easy",
+      "acrate": "46.1%"
+    },
+    {
+      "num": "0184",
+      "title": "Department Highest Salary",
+      "lo_title": "department-highest-salary",
+      "link": "https://leetcode.com/problems/department-highest-salary",
+      "level": "Medium",
+      "acrate": "30.1%"
+    },
+    {
+      "num": "0185",
+      "title": "Department Top Three Salaries",
+      "lo_title": "department-top-three-salaries",
+      "link": "https://leetcode.com/problems/department-top-three-salaries",
+      "level": "Hard",
+      "acrate": "27.3%"
+    },
+    {
+      "num": "0186",
+      "title": "Reverse Words in a String II",
+      "lo_title": "reverse-words-in-a-string-ii",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string-ii",
+      "level": "Medium",
+      "acrate": "38.6%"
+    },
+    {
+      "num": "0187",
+      "title": "Repeated DNA Sequences",
+      "lo_title": "repeated-dna-sequences",
+      "link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "level": "Medium",
+      "acrate": "36.6%"
+    },
+    {
+      "num": "0188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "lo_title": "best-time-to-buy-and-sell-stock-iv",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "level": "Hard",
+      "acrate": "26.7%"
+    },
+    {
+      "num": "0189",
+      "title": "Rotate Array",
+      "lo_title": "rotate-array",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "level": "Easy",
+      "acrate": "31.0%"
+    },
+    {
+      "num": "0190",
+      "title": "Reverse Bits",
+      "lo_title": "reverse-bits",
+      "link": "https://leetcode.com/problems/reverse-bits",
+      "level": "Easy",
+      "acrate": "32.4%"
+    },
+    {
+      "num": "0191",
+      "title": "Number of 1 Bits",
+      "lo_title": "number-of-1-bits",
+      "link": "https://leetcode.com/problems/number-of-1-bits",
+      "level": "Easy",
+      "acrate": "44.2%"
+    },
+    {
+      "num": "0192",
+      "title": "Word Frequency",
+      "lo_title": "word-frequency",
+      "link": "https://leetcode.com/problems/word-frequency",
+      "level": "Medium",
+      "acrate": "26.8%"
+    },
+    {
+      "num": "0193",
+      "title": "Valid Phone Numbers",
+      "lo_title": "valid-phone-numbers",
+      "link": "https://leetcode.com/problems/valid-phone-numbers",
+      "level": "Easy",
+      "acrate": "25.4%"
+    },
+    {
+      "num": "0194",
+      "title": "Transpose File",
+      "lo_title": "transpose-file",
+      "link": "https://leetcode.com/problems/transpose-file",
+      "level": "Medium",
+      "acrate": "23.3%"
+    },
+    {
+      "num": "0195",
+      "title": "Tenth Line",
+      "lo_title": "tenth-line",
+      "link": "https://leetcode.com/problems/tenth-line",
+      "level": "Easy",
+      "acrate": "33.9%"
+    },
+    {
+      "num": "0196",
+      "title": "Delete Duplicate Emails",
+      "lo_title": "delete-duplicate-emails",
+      "link": "https://leetcode.com/problems/delete-duplicate-emails",
+      "level": "Easy",
+      "acrate": "34.2%"
+    },
+    {
+      "num": "0197",
+      "title": "Rising Temperature",
+      "lo_title": "rising-temperature",
+      "link": "https://leetcode.com/problems/rising-temperature",
+      "level": "Easy",
+      "acrate": "35.5%"
+    },
+    {
+      "num": "0198",
+      "title": "House Robber",
+      "lo_title": "house-robber",
+      "link": "https://leetcode.com/problems/house-robber",
+      "level": "Easy",
+      "acrate": "41.2%"
+    },
+    {
+      "num": "0199",
+      "title": "Binary Tree Right Side View",
+      "lo_title": "binary-tree-right-side-view",
+      "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+      "level": "Medium",
+      "acrate": "48.9%"
+    },
+    {
+      "num": "0200",
+      "title": "Number of Islands",
+      "lo_title": "number-of-islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "level": "Medium",
+      "acrate": "42.4%"
+    }
+  ]
+}

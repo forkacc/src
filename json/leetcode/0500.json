@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "num": "0401",
+      "title": "Binary Watch",
+      "lo_title": "binary-watch",
+      "link": "https://leetcode.com/problems/binary-watch",
+      "level": "Easy",
+      "acrate": "45.6%"
+    },
+    {
+      "num": "0402",
+      "title": "Remove K Digits",
+      "lo_title": "remove-k-digits",
+      "link": "https://leetcode.com/problems/remove-k-digits",
+      "level": "Medium",
+      "acrate": "26.9%"
+    },
+    {
+      "num": "0403",
+      "title": "Frog Jump",
+      "lo_title": "frog-jump",
+      "link": "https://leetcode.com/problems/frog-jump",
+      "level": "Hard",
+      "acrate": "36.7%"
+    },
+    {
+      "num": "0404",
+      "title": "Sum of Left Leaves",
+      "lo_title": "sum-of-left-leaves",
+      "link": "https://leetcode.com/problems/sum-of-left-leaves",
+      "level": "Easy",
+      "acrate": "49.5%"
+    },
+    {
+      "num": "0405",
+      "title": "Convert a Number to Hexadecimal",
+      "lo_title": "convert-a-number-to-hexadecimal",
+      "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
+      "level": "Easy",
+      "acrate": "42.3%"
+    },
+    {
+      "num": "0406",
+      "title": "Queue Reconstruction by Height",
+      "lo_title": "queue-reconstruction-by-height",
+      "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+      "level": "Medium",
+      "acrate": "60.5%"
+    },
+    {
+      "num": "0407",
+      "title": "Trapping Rain Water II",
+      "lo_title": "trapping-rain-water-ii",
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "level": "Hard",
+      "acrate": "39.7%"
+    },
+    {
+      "num": "0408",
+      "title": "Valid Word Abbreviation",
+      "lo_title": "valid-word-abbreviation",
+      "link": "https://leetcode.com/problems/valid-word-abbreviation",
+      "level": "Easy",
+      "acrate": "29.8%"
+    },
+    {
+      "num": "0409",
+      "title": "Longest Palindrome",
+      "lo_title": "longest-palindrome",
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "level": "Easy",
+      "acrate": "48.4%"
+    },
+    {
+      "num": "0410",
+      "title": "Split Array Largest Sum",
+      "lo_title": "split-array-largest-sum",
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "level": "Hard",
+      "acrate": "42.8%"
+    },
+    {
+      "num": "0411",
+      "title": "Minimum Unique Word Abbreviation",
+      "lo_title": "minimum-unique-word-abbreviation",
+      "link": "https://leetcode.com/problems/minimum-unique-word-abbreviation",
+      "level": "Hard",
+      "acrate": "35.2%"
+    },
+    {
+      "num": "0412",
+      "title": "Fizz Buzz",
+      "lo_title": "fizz-buzz",
+      "link": "https://leetcode.com/problems/fizz-buzz",
+      "level": "Easy",
+      "acrate": "59.9%"
+    },
+    {
+      "num": "0413",
+      "title": "Arithmetic Slices",
+      "lo_title": "arithmetic-slices",
+      "link": "https://leetcode.com/problems/arithmetic-slices",
+      "level": "Medium",
+      "acrate": "56.2%"
+    },
+    {
+      "num": "0414",
+      "title": "Third Maximum Number",
+      "lo_title": "third-maximum-number",
+      "link": "https://leetcode.com/problems/third-maximum-number",
+      "level": "Easy",
+      "acrate": "29.3%"
+    },
+    {
+      "num": "0415",
+      "title": "Add Strings",
+      "lo_title": "add-strings",
+      "link": "https://leetcode.com/problems/add-strings",
+      "level": "Easy",
+      "acrate": "44.2%"
+    },
+    {
+      "num": "0416",
+      "title": "Partition Equal Subset Sum",
+      "lo_title": "partition-equal-subset-sum",
+      "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+      "level": "Medium",
+      "acrate": "41.3%"
+    },
+    {
+      "num": "0417",
+      "title": "Pacific Atlantic Water Flow",
+      "lo_title": "pacific-atlantic-water-flow",
+      "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "level": "Medium",
+      "acrate": "38.0%"
+    },
+    {
+      "num": "0418",
+      "title": "Sentence Screen Fitting",
+      "lo_title": "sentence-screen-fitting",
+      "link": "https://leetcode.com/problems/sentence-screen-fitting",
+      "level": "Medium",
+      "acrate": "31.3%"
+    },
+    {
+      "num": "0419",
+      "title": "Battleships in a Board",
+      "lo_title": "battleships-in-a-board",
+      "link": "https://leetcode.com/problems/battleships-in-a-board",
+      "level": "Medium",
+      "acrate": "66.3%"
+    },
+    {
+      "num": "0420",
+      "title": "Strong Password Checker",
+      "lo_title": "strong-password-checker",
+      "link": "https://leetcode.com/problems/strong-password-checker",
+      "level": "Hard",
+      "acrate": "16.8%"
+    },
+    {
+      "num": "0421",
+      "title": "Maximum XOR of Two Numbers in an Array",
+      "lo_title": "maximum-xor-of-two-numbers-in-an-array",
+      "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+      "level": "Medium",
+      "acrate": "51.5%"
+    },
+    {
+      "num": "0422",
+      "title": "Valid Word Square",
+      "lo_title": "valid-word-square",
+      "link": "https://leetcode.com/problems/valid-word-square",
+      "level": "Easy",
+      "acrate": "36.6%"
+    },
+    {
+      "num": "0423",
+      "title": "Reconstruct Original Digits from English",
+      "lo_title": "reconstruct-original-digits-from-english",
+      "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+      "level": "Medium",
+      "acrate": "45.8%"
+    },
+    {
+      "num": "0424",
+      "title": "Longest Repeating Character Replacement",
+      "lo_title": "longest-repeating-character-replacement",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "level": "Medium",
+      "acrate": "44.7%"
+    },
+    {
+      "num": "0425",
+      "title": "Word Squares",
+      "lo_title": "word-squares",
+      "link": "https://leetcode.com/problems/word-squares",
+      "level": "Hard",
+      "acrate": "44.9%"
+    },
+    {
+      "num": "0426",
+      "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+      "lo_title": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+      "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+      "level": "Medium",
+      "acrate": "53.4%"
+    },
+    {
+      "num": "0427",
+      "title": "Construct Quad Tree",
+      "lo_title": "construct-quad-tree",
+      "link": "https://leetcode.com/problems/construct-quad-tree",
+      "level": "Medium",
+      "acrate": "57.9%"
+    },
+    {
+      "num": "0428",
+      "title": "Serialize and Deserialize N-ary Tree",
+      "lo_title": "serialize-and-deserialize-n-ary-tree",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+      "level": "Hard",
+      "acrate": "55.1%"
+    },
+    {
+      "num": "0429",
+      "title": "N-ary Tree Level Order Traversal",
+      "lo_title": "n-ary-tree-level-order-traversal",
+      "link": "https://leetcode.com/problems/n-ary-tree-level-order-traversal",
+      "level": "Easy",
+      "acrate": "60.2%"
+    },
+    {
+      "num": "0430",
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "lo_title": "flatten-a-multilevel-doubly-linked-list",
+      "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0431",
+      "title": "Encode N-ary Tree to Binary Tree",
+      "lo_title": "encode-n-ary-tree-to-binary-tree",
+      "link": "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree",
+      "level": "Hard",
+      "acrate": "64.6%"
+    },
+    {
+      "num": "0432",
+      "title": "All O`one Data Structure",
+      "lo_title": "all-oone-data-structure",
+      "link": "https://leetcode.com/problems/all-oone-data-structure",
+      "level": "Hard",
+      "acrate": "30.0%"
+    },
+    {
+      "num": "0433",
+      "title": "Minimum Genetic Mutation",
+      "lo_title": "minimum-genetic-mutation",
+      "link": "https://leetcode.com/problems/minimum-genetic-mutation",
+      "level": "Medium",
+      "acrate": "38.8%"
+    },
+    {
+      "num": "0434",
+      "title": "Number of Segments in a String",
+      "lo_title": "number-of-segments-in-a-string",
+      "link": "https://leetcode.com/problems/number-of-segments-in-a-string",
+      "level": "Easy",
+      "acrate": "37.2%"
+    },
+    {
+      "num": "0435",
+      "title": "Non-overlapping Intervals",
+      "lo_title": "non-overlapping-intervals",
+      "link": "https://leetcode.com/problems/non-overlapping-intervals",
+      "level": "Medium",
+      "acrate": "41.8%"
+    },
+    {
+      "num": "0436",
+      "title": "Find Right Interval",
+      "lo_title": "find-right-interval",
+      "link": "https://leetcode.com/problems/find-right-interval",
+      "level": "Medium",
+      "acrate": "43.2%"
+    },
+    {
+      "num": "0437",
+      "title": "Path Sum III",
+      "lo_title": "path-sum-iii",
+      "link": "https://leetcode.com/problems/path-sum-iii",
+      "level": "Easy",
+      "acrate": "43.4%"
+    },
+    {
+      "num": "0438",
+      "title": "Find All Anagrams in a String",
+      "lo_title": "find-all-anagrams-in-a-string",
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "level": "Medium",
+      "acrate": "37.9%"
+    },
+    {
+      "num": "0439",
+      "title": "Ternary Expression Parser",
+      "lo_title": "ternary-expression-parser",
+      "link": "https://leetcode.com/problems/ternary-expression-parser",
+      "level": "Medium",
+      "acrate": "53.9%"
+    },
+    {
+      "num": "0440",
+      "title": "K-th Smallest in Lexicographical Order",
+      "lo_title": "k-th-smallest-in-lexicographical-order",
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "level": "Hard",
+      "acrate": "26.9%"
+    },
+    {
+      "num": "0441",
+      "title": "Arranging Coins",
+      "lo_title": "arranging-coins",
+      "link": "https://leetcode.com/problems/arranging-coins",
+      "level": "Easy",
+      "acrate": "38.4%"
+    },
+    {
+      "num": "0442",
+      "title": "Find All Duplicates in an Array",
+      "lo_title": "find-all-duplicates-in-an-array",
+      "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+      "level": "Medium",
+      "acrate": "61.9%"
+    },
+    {
+      "num": "0443",
+      "title": "String Compression",
+      "lo_title": "string-compression",
+      "link": "https://leetcode.com/problems/string-compression",
+      "level": "Easy",
+      "acrate": "38.2%"
+    },
+    {
+      "num": "0444",
+      "title": "Sequence Reconstruction",
+      "lo_title": "sequence-reconstruction",
+      "link": "https://leetcode.com/problems/sequence-reconstruction",
+      "level": "Medium",
+      "acrate": "20.5%"
+    },
+    {
+      "num": "0445",
+      "title": "Add Two Numbers II",
+      "lo_title": "add-two-numbers-ii",
+      "link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "level": "Medium",
+      "acrate": "50.8%"
+    },
+    {
+      "num": "0446",
+      "title": "Arithmetic Slices II - Subsequence",
+      "lo_title": "arithmetic-slices-ii-subsequence",
+      "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+      "level": "Hard",
+      "acrate": "30.7%"
+    },
+    {
+      "num": "0447",
+      "title": "Number of Boomerangs",
+      "lo_title": "number-of-boomerangs",
+      "link": "https://leetcode.com/problems/number-of-boomerangs",
+      "level": "Easy",
+      "acrate": "50.3%"
+    },
+    {
+      "num": "0448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "lo_title": "find-all-numbers-disappeared-in-an-array",
+      "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+      "level": "Easy",
+      "acrate": "53.9%"
+    },
+    {
+      "num": "0449",
+      "title": "Serialize and Deserialize BST",
+      "lo_title": "serialize-and-deserialize-bst",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "level": "Medium",
+      "acrate": "48.1%"
+    },
+    {
+      "num": "0450",
+      "title": "Delete Node in a BST",
+      "lo_title": "delete-node-in-a-bst",
+      "link": "https://leetcode.com/problems/delete-node-in-a-bst",
+      "level": "Medium",
+      "acrate": "40.4%"
+    },
+    {
+      "num": "0451",
+      "title": "Sort Characters By Frequency",
+      "lo_title": "sort-characters-by-frequency",
+      "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+      "level": "Medium",
+      "acrate": "56.8%"
+    },
+    {
+      "num": "0452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "lo_title": "minimum-number-of-arrows-to-burst-balloons",
+      "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+      "level": "Medium",
+      "acrate": "47.0%"
+    },
+    {
+      "num": "0453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "lo_title": "minimum-moves-to-equal-array-elements",
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "level": "Easy",
+      "acrate": "49.4%"
+    },
+    {
+      "num": "0454",
+      "title": "4Sum II",
+      "lo_title": "4sum-ii",
+      "link": "https://leetcode.com/problems/4sum-ii",
+      "level": "Medium",
+      "acrate": "51.2%"
+    },
+    {
+      "num": "0455",
+      "title": "Assign Cookies",
+      "lo_title": "assign-cookies",
+      "link": "https://leetcode.com/problems/assign-cookies",
+      "level": "Easy",
+      "acrate": "48.7%"
+    },
+    {
+      "num": "0456",
+      "title": "132 Pattern",
+      "lo_title": "132-pattern",
+      "link": "https://leetcode.com/problems/132-pattern",
+      "level": "Medium",
+      "acrate": "27.6%"
+    },
+    {
+      "num": "0457",
+      "title": "Circular Array Loop",
+      "lo_title": "circular-array-loop",
+      "link": "https://leetcode.com/problems/circular-array-loop",
+      "level": "Medium",
+      "acrate": "27.8%"
+    },
+    {
+      "num": "0458",
+      "title": "Poor Pigs",
+      "lo_title": "poor-pigs",
+      "link": "https://leetcode.com/problems/poor-pigs",
+      "level": "Hard",
+      "acrate": "45.9%"
+    },
+    {
+      "num": "0459",
+      "title": "Repeated Substring Pattern",
+      "lo_title": "repeated-substring-pattern",
+      "link": "https://leetcode.com/problems/repeated-substring-pattern",
+      "level": "Easy",
+      "acrate": "40.3%"
+    },
+    {
+      "num": "0460",
+      "title": "LFU Cache",
+      "lo_title": "lfu-cache",
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "level": "Hard",
+      "acrate": "29.5%"
+    },
+    {
+      "num": "0461",
+      "title": "Hamming Distance",
+      "lo_title": "hamming-distance",
+      "link": "https://leetcode.com/problems/hamming-distance",
+      "level": "Easy",
+      "acrate": "70.6%"
+    },
+    {
+      "num": "0462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "lo_title": "minimum-moves-to-equal-array-elements-ii",
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+      "level": "Medium",
+      "acrate": "52.6%"
+    },
+    {
+      "num": "0463",
+      "title": "Island Perimeter",
+      "lo_title": "island-perimeter",
+      "link": "https://leetcode.com/problems/island-perimeter",
+      "level": "Easy",
+      "acrate": "61.5%"
+    },
+    {
+      "num": "0464",
+      "title": "Can I Win",
+      "lo_title": "can-i-win",
+      "link": "https://leetcode.com/problems/can-i-win",
+      "level": "Medium",
+      "acrate": "27.7%"
+    },
+    {
+      "num": "0465",
+      "title": "Optimal Account Balancing",
+      "lo_title": "optimal-account-balancing",
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "level": "Hard",
+      "acrate": "43.4%"
+    },
+    {
+      "num": "0466",
+      "title": "Count The Repetitions",
+      "lo_title": "count-the-repetitions",
+      "link": "https://leetcode.com/problems/count-the-repetitions",
+      "level": "Hard",
+      "acrate": "27.5%"
+    },
+    {
+      "num": "0467",
+      "title": "Unique Substrings in Wraparound String",
+      "lo_title": "unique-substrings-in-wraparound-string",
+      "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+      "level": "Medium",
+      "acrate": "34.3%"
+    },
+    {
+      "num": "0468",
+      "title": "Validate IP Address",
+      "lo_title": "validate-ip-address",
+      "link": "https://leetcode.com/problems/validate-ip-address",
+      "level": "Medium",
+      "acrate": "21.6%"
+    },
+    {
+      "num": "0469",
+      "title": "Convex Polygon",
+      "lo_title": "convex-polygon",
+      "link": "https://leetcode.com/problems/convex-polygon",
+      "level": "Medium",
+      "acrate": "35.8%"
+    },
+    {
+      "num": "0470",
+      "title": "Implement Rand10() Using Rand7()",
+      "lo_title": "implement-rand10-using-rand7",
+      "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+      "level": "Medium",
+      "acrate": "45.2%"
+    },
+    {
+      "num": "0471",
+      "title": "Encode String with Shortest Length",
+      "lo_title": "encode-string-with-shortest-length",
+      "link": "https://leetcode.com/problems/encode-string-with-shortest-length",
+      "level": "Hard",
+      "acrate": "45.6%"
+    },
+    {
+      "num": "0472",
+      "title": "Concatenated Words",
+      "lo_title": "concatenated-words",
+      "link": "https://leetcode.com/problems/concatenated-words",
+      "level": "Hard",
+      "acrate": "36.0%"
+    },
+    {
+      "num": "0473",
+      "title": "Matchsticks to Square",
+      "lo_title": "matchsticks-to-square",
+      "link": "https://leetcode.com/problems/matchsticks-to-square",
+      "level": "Medium",
+      "acrate": "36.3%"
+    },
+    {
+      "num": "0474",
+      "title": "Ones and Zeroes",
+      "lo_title": "ones-and-zeroes",
+      "link": "https://leetcode.com/problems/ones-and-zeroes",
+      "level": "Medium",
+      "acrate": "40.2%"
+    },
+    {
+      "num": "0475",
+      "title": "Heaters",
+      "lo_title": "heaters",
+      "link": "https://leetcode.com/problems/heaters",
+      "level": "Easy",
+      "acrate": "32.1%"
+    },
+    {
+      "num": "0476",
+      "title": "Number Complement",
+      "lo_title": "number-complement",
+      "link": "https://leetcode.com/problems/number-complement",
+      "level": "Easy",
+      "acrate": "62.6%"
+    },
+    {
+      "num": "0477",
+      "title": "Total Hamming Distance",
+      "lo_title": "total-hamming-distance",
+      "link": "https://leetcode.com/problems/total-hamming-distance",
+      "level": "Medium",
+      "acrate": "49.3%"
+    },
+    {
+      "num": "0478",
+      "title": "Generate Random Point in a Circle",
+      "lo_title": "generate-random-point-in-a-circle",
+      "link": "https://leetcode.com/problems/generate-random-point-in-a-circle",
+      "level": "Medium",
+      "acrate": "37.3%"
+    },
+    {
+      "num": "0479",
+      "title": "Largest Palindrome Product",
+      "lo_title": "largest-palindrome-product",
+      "link": "https://leetcode.com/problems/largest-palindrome-product",
+      "level": "Hard",
+      "acrate": "27.7%"
+    },
+    {
+      "num": "0480",
+      "title": "Sliding Window Median",
+      "lo_title": "sliding-window-median",
+      "link": "https://leetcode.com/problems/sliding-window-median",
+      "level": "Hard",
+      "acrate": "33.3%"
+    },
+    {
+      "num": "0481",
+      "title": "Magical String",
+      "lo_title": "magical-string",
+      "link": "https://leetcode.com/problems/magical-string",
+      "level": "Medium",
+      "acrate": "46.4%"
+    },
+    {
+      "num": "0482",
+      "title": "License Key Formatting",
+      "lo_title": "license-key-formatting",
+      "link": "https://leetcode.com/problems/license-key-formatting",
+      "level": "Easy",
+      "acrate": "41.3%"
+    },
+    {
+      "num": "0483",
+      "title": "Smallest Good Base",
+      "lo_title": "smallest-good-base",
+      "link": "https://leetcode.com/problems/smallest-good-base",
+      "level": "Hard",
+      "acrate": "34.4%"
+    },
+    {
+      "num": "0484",
+      "title": "Find Permutation",
+      "lo_title": "find-permutation",
+      "link": "https://leetcode.com/problems/find-permutation",
+      "level": "Medium",
+      "acrate": "58.3%"
+    },
+    {
+      "num": "0485",
+      "title": "Max Consecutive Ones",
+      "lo_title": "max-consecutive-ones",
+      "link": "https://leetcode.com/problems/max-consecutive-ones",
+      "level": "Easy",
+      "acrate": "55.4%"
+    },
+    {
+      "num": "0486",
+      "title": "Predict the Winner",
+      "lo_title": "predict-the-winner",
+      "link": "https://leetcode.com/problems/predict-the-winner",
+      "level": "Medium",
+      "acrate": "47.0%"
+    },
+    {
+      "num": "0487",
+      "title": "Max Consecutive Ones II",
+      "lo_title": "max-consecutive-ones-ii",
+      "link": "https://leetcode.com/problems/max-consecutive-ones-ii",
+      "level": "Medium",
+      "acrate": "47.0%"
+    },
+    {
+      "num": "0488",
+      "title": "Zuma Game",
+      "lo_title": "zuma-game",
+      "link": "https://leetcode.com/problems/zuma-game",
+      "level": "Hard",
+      "acrate": "39.5%"
+    },
+    {
+      "num": "0489",
+      "title": "Robot Room Cleaner",
+      "lo_title": "robot-room-cleaner",
+      "link": "https://leetcode.com/problems/robot-room-cleaner",
+      "level": "Hard",
+      "acrate": "65.5%"
+    },
+    {
+      "num": "0490",
+      "title": "The Maze",
+      "lo_title": "the-maze",
+      "link": "https://leetcode.com/problems/the-maze",
+      "level": "Medium",
+      "acrate": "48.2%"
+    },
+    {
+      "num": "0491",
+      "title": "Increasing Subsequences",
+      "lo_title": "increasing-subsequences",
+      "link": "https://leetcode.com/problems/increasing-subsequences",
+      "level": "Medium",
+      "acrate": "42.6%"
+    },
+    {
+      "num": "0492",
+      "title": "Construct the Rectangle",
+      "lo_title": "construct-the-rectangle",
+      "link": "https://leetcode.com/problems/construct-the-rectangle",
+      "level": "Easy",
+      "acrate": "48.8%"
+    },
+    {
+      "num": "0493",
+      "title": "Reverse Pairs",
+      "lo_title": "reverse-pairs",
+      "link": "https://leetcode.com/problems/reverse-pairs",
+      "level": "Hard",
+      "acrate": "23.5%"
+    },
+    {
+      "num": "0494",
+      "title": "Target Sum",
+      "lo_title": "target-sum",
+      "link": "https://leetcode.com/problems/target-sum",
+      "level": "Medium",
+      "acrate": "45.6%"
+    },
+    {
+      "num": "0495",
+      "title": "Teemo Attacking",
+      "lo_title": "teemo-attacking",
+      "link": "https://leetcode.com/problems/teemo-attacking",
+      "level": "Medium",
+      "acrate": "52.6%"
+    },
+    {
+      "num": "0496",
+      "title": "Next Greater Element I",
+      "lo_title": "next-greater-element-i",
+      "link": "https://leetcode.com/problems/next-greater-element-i",
+      "level": "Easy",
+      "acrate": "60.2%"
+    },
+    {
+      "num": "0497",
+      "title": "Random Point in Non-overlapping Rectangles",
+      "lo_title": "random-point-in-non-overlapping-rectangles",
+      "link": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles",
+      "level": "Medium",
+      "acrate": "36.1%"
+    },
+    {
+      "num": "0498",
+      "title": "Diagonal Traverse",
+      "lo_title": "diagonal-traverse",
+      "link": "https://leetcode.com/problems/diagonal-traverse",
+      "level": "Medium",
+      "acrate": "45.6%"
+    },
+    {
+      "num": "0499",
+      "title": "The Maze III",
+      "lo_title": "the-maze-iii",
+      "link": "https://leetcode.com/problems/the-maze-iii",
+      "level": "Hard",
+      "acrate": "37.7%"
+    },
+    {
+      "num": "0500",
+      "title": "Keyboard Row",
+      "lo_title": "keyboard-row",
+      "link": "https://leetcode.com/problems/keyboard-row",
+      "level": "Easy",
+      "acrate": "62.6%"
+    }
+  ]
+}

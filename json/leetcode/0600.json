@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "num": "0501",
+      "title": "Find Mode in Binary Search Tree",
+      "lo_title": "find-mode-in-binary-search-tree",
+      "link": "https://leetcode.com/problems/find-mode-in-binary-search-tree",
+      "level": "Easy",
+      "acrate": "39.9%"
+    },
+    {
+      "num": "0502",
+      "title": "IPO",
+      "lo_title": "ipo",
+      "link": "https://leetcode.com/problems/ipo",
+      "level": "Hard",
+      "acrate": "38.3%"
+    },
+    {
+      "num": "0503",
+      "title": "Next Greater Element II",
+      "lo_title": "next-greater-element-ii",
+      "link": "https://leetcode.com/problems/next-greater-element-ii",
+      "level": "Medium",
+      "acrate": "51.7%"
+    },
+    {
+      "num": "0504",
+      "title": "Base 7",
+      "lo_title": "base-7",
+      "link": "https://leetcode.com/problems/base-7",
+      "level": "Easy",
+      "acrate": "45.1%"
+    },
+    {
+      "num": "0505",
+      "title": "The Maze II",
+      "lo_title": "the-maze-ii",
+      "link": "https://leetcode.com/problems/the-maze-ii",
+      "level": "Medium",
+      "acrate": "44.8%"
+    },
+    {
+      "num": "0506",
+      "title": "Relative Ranks",
+      "lo_title": "relative-ranks",
+      "link": "https://leetcode.com/problems/relative-ranks",
+      "level": "Easy",
+      "acrate": "48.7%"
+    },
+    {
+      "num": "0507",
+      "title": "Perfect Number",
+      "lo_title": "perfect-number",
+      "link": "https://leetcode.com/problems/perfect-number",
+      "level": "Easy",
+      "acrate": "34.7%"
+    },
+    {
+      "num": "0508",
+      "title": "Most Frequent Subtree Sum",
+      "lo_title": "most-frequent-subtree-sum",
+      "link": "https://leetcode.com/problems/most-frequent-subtree-sum",
+      "level": "Medium",
+      "acrate": "55.2%"
+    },
+    {
+      "num": "0509",
+      "title": "Fibonacci Number",
+      "lo_title": "fibonacci-number",
+      "link": "https://leetcode.com/problems/fibonacci-number",
+      "level": "Easy",
+      "acrate": "66.6%"
+    },
+    {
+      "num": "0510",
+      "title": "Inorder Successor in BST II",
+      "lo_title": "inorder-successor-in-bst-ii",
+      "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+      "level": "Medium",
+      "acrate": "54.1%"
+    },
+    {
+      "num": "0511",
+      "title": "Game Play Analysis I",
+      "lo_title": "game-play-analysis-i",
+      "link": "https://leetcode.com/problems/game-play-analysis-i",
+      "level": "Easy",
+      "acrate": "74.4%"
+    },
+    {
+      "num": "0512",
+      "title": "Game Play Analysis II",
+      "lo_title": "game-play-analysis-ii",
+      "link": "https://leetcode.com/problems/game-play-analysis-ii",
+      "level": "Easy",
+      "acrate": "55.0%"
+    },
+    {
+      "num": "0513",
+      "title": "Find Bottom Left Tree Value",
+      "lo_title": "find-bottom-left-tree-value",
+      "link": "https://leetcode.com/problems/find-bottom-left-tree-value",
+      "level": "Medium",
+      "acrate": "59.0%"
+    },
+    {
+      "num": "0514",
+      "title": "Freedom Trail",
+      "lo_title": "freedom-trail",
+      "link": "https://leetcode.com/problems/freedom-trail",
+      "level": "Hard",
+      "acrate": "41.0%"
+    },
+    {
+      "num": "0515",
+      "title": "Find Largest Value in Each Tree Row",
+      "lo_title": "find-largest-value-in-each-tree-row",
+      "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+      "level": "Medium",
+      "acrate": "58.3%"
+    },
+    {
+      "num": "0516",
+      "title": "Longest Palindromic Subsequence",
+      "lo_title": "longest-palindromic-subsequence",
+      "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+      "level": "Medium",
+      "acrate": "47.8%"
+    },
+    {
+      "num": "0517",
+      "title": "Super Washing Machines",
+      "lo_title": "super-washing-machines",
+      "link": "https://leetcode.com/problems/super-washing-machines",
+      "level": "Hard",
+      "acrate": "37.0%"
+    },
+    {
+      "num": "0518",
+      "title": "Coin Change 2",
+      "lo_title": "coin-change-2",
+      "link": "https://leetcode.com/problems/coin-change-2",
+      "level": "Medium",
+      "acrate": "43.6%"
+    },
+    {
+      "num": "0519",
+      "title": "Random Flip Matrix",
+      "lo_title": "random-flip-matrix",
+      "link": "https://leetcode.com/problems/random-flip-matrix",
+      "level": "Medium",
+      "acrate": "33.6%"
+    },
+    {
+      "num": "0520",
+      "title": "Detect Capital",
+      "lo_title": "detect-capital",
+      "link": "https://leetcode.com/problems/detect-capital",
+      "level": "Easy",
+      "acrate": "52.7%"
+    },
+    {
+      "num": "0521",
+      "title": "Longest Uncommon Subsequence I",
+      "lo_title": "longest-uncommon-subsequence-i",
+      "link": "https://leetcode.com/problems/longest-uncommon-subsequence-i",
+      "level": "Easy",
+      "acrate": "56.7%"
+    },
+    {
+      "num": "0522",
+      "title": "Longest Uncommon Subsequence II",
+      "lo_title": "longest-uncommon-subsequence-ii",
+      "link": "https://leetcode.com/problems/longest-uncommon-subsequence-ii",
+      "level": "Medium",
+      "acrate": "33.1%"
+    },
+    {
+      "num": "0523",
+      "title": "Continuous Subarray Sum",
+      "lo_title": "continuous-subarray-sum",
+      "link": "https://leetcode.com/problems/continuous-subarray-sum",
+      "level": "Medium",
+      "acrate": "24.2%"
+    },
+    {
+      "num": "0524",
+      "title": "Longest Word in Dictionary through Deleting",
+      "lo_title": "longest-word-in-dictionary-through-deleting",
+      "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+      "level": "Medium",
+      "acrate": "46.3%"
+    },
+    {
+      "num": "0525",
+      "title": "Contiguous Array",
+      "lo_title": "contiguous-array",
+      "link": "https://leetcode.com/problems/contiguous-array",
+      "level": "Medium",
+      "acrate": "43.1%"
+    },
+    {
+      "num": "0526",
+      "title": "Beautiful Arrangement",
+      "lo_title": "beautiful-arrangement",
+      "link": "https://leetcode.com/problems/beautiful-arrangement",
+      "level": "Medium",
+      "acrate": "55.2%"
+    },
+    {
+      "num": "0527",
+      "title": "Word Abbreviation",
+      "lo_title": "word-abbreviation",
+      "link": "https://leetcode.com/problems/word-abbreviation",
+      "level": "Hard",
+      "acrate": "51.0%"
+    },
+    {
+      "num": "0528",
+      "title": "Random Pick with Weight",
+      "lo_title": "random-pick-with-weight",
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "level": "Medium",
+      "acrate": "43.0%"
+    },
+    {
+      "num": "0529",
+      "title": "Minesweeper",
+      "lo_title": "minesweeper",
+      "link": "https://leetcode.com/problems/minesweeper",
+      "level": "Medium",
+      "acrate": "53.9%"
+    },
+    {
+      "num": "0530",
+      "title": "Minimum Absolute Difference in BST",
+      "lo_title": "minimum-absolute-difference-in-bst",
+      "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst",
+      "level": "Easy",
+      "acrate": "51.1%"
+    },
+    {
+      "num": "0531",
+      "title": "Lonely Pixel I",
+      "lo_title": "lonely-pixel-i",
+      "link": "https://leetcode.com/problems/lonely-pixel-i",
+      "level": "Medium",
+      "acrate": "57.7%"
+    },
+    {
+      "num": "0532",
+      "title": "K-diff Pairs in an Array",
+      "lo_title": "k-diff-pairs-in-an-array",
+      "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+      "level": "Easy",
+      "acrate": "30.2%"
+    },
+    {
+      "num": "0533",
+      "title": "Lonely Pixel II",
+      "lo_title": "lonely-pixel-ii",
+      "link": "https://leetcode.com/problems/lonely-pixel-ii",
+      "level": "Medium",
+      "acrate": "46.4%"
+    },
+    {
+      "num": "0534",
+      "title": "Game Play Analysis III",
+      "lo_title": "game-play-analysis-iii",
+      "link": "https://leetcode.com/problems/game-play-analysis-iii",
+      "level": "Medium",
+      "acrate": "63.0%"
+    },
+    {
+      "num": "0535",
+      "title": "Encode and Decode TinyURL",
+      "lo_title": "encode-and-decode-tinyurl",
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "level": "Medium",
+      "acrate": "77.4%"
+    },
+    {
+      "num": "0536",
+      "title": "Construct Binary Tree from String",
+      "lo_title": "construct-binary-tree-from-string",
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-string",
+      "level": "Medium",
+      "acrate": "45.8%"
+    },
+    {
+      "num": "0537",
+      "title": "Complex Number Multiplication",
+      "lo_title": "complex-number-multiplication",
+      "link": "https://leetcode.com/problems/complex-number-multiplication",
+      "level": "Medium",
+      "acrate": "65.8%"
+    },
+    {
+      "num": "0538",
+      "title": "Convert BST to Greater Tree",
+      "lo_title": "convert-bst-to-greater-tree",
+      "link": "https://leetcode.com/problems/convert-bst-to-greater-tree",
+      "level": "Easy",
+      "acrate": "51.9%"
+    },
+    {
+      "num": "0539",
+      "title": "Minimum Time Difference",
+      "lo_title": "minimum-time-difference",
+      "link": "https://leetcode.com/problems/minimum-time-difference",
+      "level": "Medium",
+      "acrate": "48.6%"
+    },
+    {
+      "num": "0540",
+      "title": "Single Element in a Sorted Array",
+      "lo_title": "single-element-in-a-sorted-array",
+      "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "level": "Medium",
+      "acrate": "57.4%"
+    },
+    {
+      "num": "0541",
+      "title": "Reverse String II",
+      "lo_title": "reverse-string-ii",
+      "link": "https://leetcode.com/problems/reverse-string-ii",
+      "level": "Easy",
+      "acrate": "45.8%"
+    },
+    {
+      "num": "0542",
+      "title": "01 Matrix",
+      "lo_title": "01-matrix",
+      "link": "https://leetcode.com/problems/01-matrix",
+      "level": "Medium",
+      "acrate": "36.4%"
+    },
+    {
+      "num": "0543",
+      "title": "Diameter of Binary Tree",
+      "lo_title": "diameter-of-binary-tree",
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "level": "Easy",
+      "acrate": "47.2%"
+    },
+    {
+      "num": "0544",
+      "title": "Output Contest Matches",
+      "lo_title": "output-contest-matches",
+      "link": "https://leetcode.com/problems/output-contest-matches",
+      "level": "Medium",
+      "acrate": "73.7%"
+    },
+    {
+      "num": "0545",
+      "title": "Boundary of Binary Tree",
+      "lo_title": "boundary-of-binary-tree",
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "level": "Medium",
+      "acrate": "35.7%"
+    },
+    {
+      "num": "0546",
+      "title": "Remove Boxes",
+      "lo_title": "remove-boxes",
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "level": "Hard",
+      "acrate": "38.9%"
+    },
+    {
+      "num": "0547",
+      "title": "Friend Circles",
+      "lo_title": "friend-circles",
+      "link": "https://leetcode.com/problems/friend-circles",
+      "level": "Medium",
+      "acrate": "54.5%"
+    },
+    {
+      "num": "0548",
+      "title": "Split Array with Equal Sum",
+      "lo_title": "split-array-with-equal-sum",
+      "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+      "level": "Medium",
+      "acrate": "43.8%"
+    },
+    {
+      "num": "0549",
+      "title": "Binary Tree Longest Consecutive Sequence II",
+      "lo_title": "binary-tree-longest-consecutive-sequence-ii",
+      "link": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii",
+      "level": "Medium",
+      "acrate": "44.7%"
+    },
+    {
+      "num": "0550",
+      "title": "Game Play Analysis IV",
+      "lo_title": "game-play-analysis-iv",
+      "link": "https://leetcode.com/problems/game-play-analysis-iv",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0551",
+      "title": "Student Attendance Record I",
+      "lo_title": "student-attendance-record-i",
+      "link": "https://leetcode.com/problems/student-attendance-record-i",
+      "level": "Easy",
+      "acrate": "45.5%"
+    },
+    {
+      "num": "0552",
+      "title": "Student Attendance Record II",
+      "lo_title": "student-attendance-record-ii",
+      "link": "https://leetcode.com/problems/student-attendance-record-ii",
+      "level": "Hard",
+      "acrate": "33.7%"
+    },
+    {
+      "num": "0553",
+      "title": "Optimal Division",
+      "lo_title": "optimal-division",
+      "link": "https://leetcode.com/problems/optimal-division",
+      "level": "Medium",
+      "acrate": "55.7%"
+    },
+    {
+      "num": "0554",
+      "title": "Brick Wall",
+      "lo_title": "brick-wall",
+      "link": "https://leetcode.com/problems/brick-wall",
+      "level": "Medium",
+      "acrate": "48.0%"
+    },
+    {
+      "num": "0555",
+      "title": "Split Concatenated Strings",
+      "lo_title": "split-concatenated-strings",
+      "link": "https://leetcode.com/problems/split-concatenated-strings",
+      "level": "Medium",
+      "acrate": "40.4%"
+    },
+    {
+      "num": "0556",
+      "title": "Next Greater Element III",
+      "lo_title": "next-greater-element-iii",
+      "link": "https://leetcode.com/problems/next-greater-element-iii",
+      "level": "Medium",
+      "acrate": "30.3%"
+    },
+    {
+      "num": "0557",
+      "title": "Reverse Words in a String III",
+      "lo_title": "reverse-words-in-a-string-iii",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "level": "Easy",
+      "acrate": "64.9%"
+    },
+    {
+      "num": "0558",
+      "title": "Quad Tree Intersection",
+      "lo_title": "quad-tree-intersection",
+      "link": "https://leetcode.com/problems/quad-tree-intersection",
+      "level": "Easy",
+      "acrate": "41.6%"
+    },
+    {
+      "num": "0559",
+      "title": "Maximum Depth of N-ary Tree",
+      "lo_title": "maximum-depth-of-n-ary-tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+      "level": "Easy",
+      "acrate": "65.9%"
+    },
+    {
+      "num": "0560",
+      "title": "Subarray Sum Equals K",
+      "lo_title": "subarray-sum-equals-k",
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "level": "Medium",
+      "acrate": "42.6%"
+    },
+    {
+      "num": "0561",
+      "title": "Array Partition I",
+      "lo_title": "array-partition-i",
+      "link": "https://leetcode.com/problems/array-partition-i",
+      "level": "Easy",
+      "acrate": "69.7%"
+    },
+    {
+      "num": "0562",
+      "title": "Longest Line of Consecutive One in Matrix",
+      "lo_title": "longest-line-of-consecutive-one-in-matrix",
+      "link": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix",
+      "level": "Medium",
+      "acrate": "44.1%"
+    },
+    {
+      "num": "0563",
+      "title": "Binary Tree Tilt",
+      "lo_title": "binary-tree-tilt",
+      "link": "https://leetcode.com/problems/binary-tree-tilt",
+      "level": "Easy",
+      "acrate": "47.2%"
+    },
+    {
+      "num": "0564",
+      "title": "Find the Closest Palindrome",
+      "lo_title": "find-the-closest-palindrome",
+      "link": "https://leetcode.com/problems/find-the-closest-palindrome",
+      "level": "Hard",
+      "acrate": "18.9%"
+    },
+    {
+      "num": "0565",
+      "title": "Array Nesting",
+      "lo_title": "array-nesting",
+      "link": "https://leetcode.com/problems/array-nesting",
+      "level": "Medium",
+      "acrate": "53.2%"
+    },
+    {
+      "num": "0566",
+      "title": "Reshape the Matrix",
+      "lo_title": "reshape-the-matrix",
+      "link": "https://leetcode.com/problems/reshape-the-matrix",
+      "level": "Easy",
+      "acrate": "59.2%"
+    },
+    {
+      "num": "0567",
+      "title": "Permutation in String",
+      "lo_title": "permutation-in-string",
+      "link": "https://leetcode.com/problems/permutation-in-string",
+      "level": "Medium",
+      "acrate": "38.8%"
+    },
+    {
+      "num": "0568",
+      "title": "Maximum Vacation Days",
+      "lo_title": "maximum-vacation-days",
+      "link": "https://leetcode.com/problems/maximum-vacation-days",
+      "level": "Hard",
+      "acrate": "38.5%"
+    },
+    {
+      "num": "0569",
+      "title": "Median Employee Salary",
+      "lo_title": "median-employee-salary",
+      "link": "https://leetcode.com/problems/median-employee-salary",
+      "level": "Hard",
+      "acrate": "48.9%"
+    },
+    {
+      "num": "0570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "lo_title": "managers-with-at-least-5-direct-reports",
+      "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "level": "Medium",
+      "acrate": "63.4%"
+    },
+    {
+      "num": "0571",
+      "title": "Find Median Given Frequency of Numbers",
+      "lo_title": "find-median-given-frequency-of-numbers",
+      "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+      "level": "Hard",
+      "acrate": "46.5%"
+    },
+    {
+      "num": "0572",
+      "title": "Subtree of Another Tree",
+      "lo_title": "subtree-of-another-tree",
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "level": "Easy",
+      "acrate": "42.0%"
+    },
+    {
+      "num": "0573",
+      "title": "Squirrel Simulation",
+      "lo_title": "squirrel-simulation",
+      "link": "https://leetcode.com/problems/squirrel-simulation",
+      "level": "Medium",
+      "acrate": "54.2%"
+    },
+    {
+      "num": "0574",
+      "title": "Winning Candidate",
+      "lo_title": "winning-candidate",
+      "link": "https://leetcode.com/problems/winning-candidate",
+      "level": "Medium",
+      "acrate": "37.2%"
+    },
+    {
+      "num": "0575",
+      "title": "Distribute Candies",
+      "lo_title": "distribute-candies",
+      "link": "https://leetcode.com/problems/distribute-candies",
+      "level": "Easy",
+      "acrate": "60.1%"
+    },
+    {
+      "num": "0576",
+      "title": "Out of Boundary Paths",
+      "lo_title": "out-of-boundary-paths",
+      "link": "https://leetcode.com/problems/out-of-boundary-paths",
+      "level": "Medium",
+      "acrate": "32.6%"
+    },
+    {
+      "num": "0577",
+      "title": "Employee Bonus",
+      "lo_title": "employee-bonus",
+      "link": "https://leetcode.com/problems/employee-bonus",
+      "level": "Easy",
+      "acrate": "60.6%"
+    },
+    {
+      "num": "0578",
+      "title": "Get Highest Answer Rate Question",
+      "lo_title": "get-highest-answer-rate-question",
+      "link": "https://leetcode.com/problems/get-highest-answer-rate-question",
+      "level": "Medium",
+      "acrate": "35.7%"
+    },
+    {
+      "num": "0579",
+      "title": "Find Cumulative Salary of an Employee",
+      "lo_title": "find-cumulative-salary-of-an-employee",
+      "link": "https://leetcode.com/problems/find-cumulative-salary-of-an-employee",
+      "level": "Hard",
+      "acrate": "34.4%"
+    },
+    {
+      "num": "0580",
+      "title": "Count Student Number in Departments",
+      "lo_title": "count-student-number-in-departments",
+      "link": "https://leetcode.com/problems/count-student-number-in-departments",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "lo_title": "shortest-unsorted-continuous-subarray",
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "level": "Easy",
+      "acrate": "30.3%"
+    },
+    {
+      "num": "0582",
+      "title": "Kill Process",
+      "lo_title": "kill-process",
+      "link": "https://leetcode.com/problems/kill-process",
+      "level": "Medium",
+      "acrate": "56.9%"
+    },
+    {
+      "num": "0583",
+      "title": "Delete Operation for Two Strings",
+      "lo_title": "delete-operation-for-two-strings",
+      "link": "https://leetcode.com/problems/delete-operation-for-two-strings",
+      "level": "Medium",
+      "acrate": "45.4%"
+    },
+    {
+      "num": "0584",
+      "title": "Find Customer Referee",
+      "lo_title": "find-customer-referee",
+      "link": "https://leetcode.com/problems/find-customer-referee",
+      "level": "Easy",
+      "acrate": "68.1%"
+    },
+    {
+      "num": "0585",
+      "title": "Investments in 2016",
+      "lo_title": "investments-in-2016",
+      "link": "https://leetcode.com/problems/investments-in-2016",
+      "level": "Medium",
+      "acrate": "48.4%"
+    },
+    {
+      "num": "0586",
+      "title": "Customer Placing the Largest Number of Orders",
+      "lo_title": "customer-placing-the-largest-number-of-orders",
+      "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+      "level": "Easy",
+      "acrate": "67.5%"
+    },
+    {
+      "num": "0587",
+      "title": "Erect the Fence",
+      "lo_title": "erect-the-fence",
+      "link": "https://leetcode.com/problems/erect-the-fence",
+      "level": "Hard",
+      "acrate": "34.5%"
+    },
+    {
+      "num": "0588",
+      "title": "Design In-Memory File System",
+      "lo_title": "design-in-memory-file-system",
+      "link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "level": "Hard",
+      "acrate": "40.8%"
+    },
+    {
+      "num": "0589",
+      "title": "N-ary Tree Preorder Traversal",
+      "lo_title": "n-ary-tree-preorder-traversal",
+      "link": "https://leetcode.com/problems/n-ary-tree-preorder-traversal",
+      "level": "Easy",
+      "acrate": "68.4%"
+    },
+    {
+      "num": "0590",
+      "title": "N-ary Tree Postorder Traversal",
+      "lo_title": "n-ary-tree-postorder-traversal",
+      "link": "https://leetcode.com/problems/n-ary-tree-postorder-traversal",
+      "level": "Easy",
+      "acrate": "68.4%"
+    },
+    {
+      "num": "0591",
+      "title": "Tag Validator",
+      "lo_title": "tag-validator",
+      "link": "https://leetcode.com/problems/tag-validator",
+      "level": "Hard",
+      "acrate": "33.5%"
+    },
+    {
+      "num": "0592",
+      "title": "Fraction Addition and Subtraction",
+      "lo_title": "fraction-addition-and-subtraction",
+      "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "level": "Medium",
+      "acrate": "47.4%"
+    },
+    {
+      "num": "0593",
+      "title": "Valid Square",
+      "lo_title": "valid-square",
+      "link": "https://leetcode.com/problems/valid-square",
+      "level": "Medium",
+      "acrate": "40.9%"
+    },
+    {
+      "num": "0594",
+      "title": "Longest Harmonious Subsequence",
+      "lo_title": "longest-harmonious-subsequence",
+      "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "level": "Easy",
+      "acrate": "44.3%"
+    },
+    {
+      "num": "0595",
+      "title": "Big Countries",
+      "lo_title": "big-countries",
+      "link": "https://leetcode.com/problems/big-countries",
+      "level": "Easy",
+      "acrate": "74.4%"
+    },
+    {
+      "num": "0596",
+      "title": "Classes More Than 5 Students",
+      "lo_title": "classes-more-than-5-students",
+      "link": "https://leetcode.com/problems/classes-more-than-5-students",
+      "level": "Easy",
+      "acrate": "36.1%"
+    },
+    {
+      "num": "0597",
+      "title": "Friend Requests I: Overall Acceptance Rate",
+      "lo_title": "friend-requests-i-overall-acceptance-rate",
+      "link": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate",
+      "level": "Easy",
+      "acrate": "40.1%"
+    },
+    {
+      "num": "0598",
+      "title": "Range Addition II",
+      "lo_title": "range-addition-ii",
+      "link": "https://leetcode.com/problems/range-addition-ii",
+      "level": "Easy",
+      "acrate": "48.9%"
+    },
+    {
+      "num": "0599",
+      "title": "Minimum Index Sum of Two Lists",
+      "lo_title": "minimum-index-sum-of-two-lists",
+      "link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists",
+      "level": "Easy",
+      "acrate": "48.4%"
+    },
+    {
+      "num": "0600",
+      "title": "Non-negative Integers without Consecutive Ones",
+      "lo_title": "non-negative-integers-without-consecutive-ones",
+      "link": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+      "level": "Hard",
+      "acrate": "33.1%"
+    }
+  ]
+}

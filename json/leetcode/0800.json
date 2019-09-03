@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "num": "0701",
+      "title": "Insert into a Binary Search Tree",
+      "lo_title": "insert-into-a-binary-search-tree",
+      "link": "https://leetcode.com/problems/insert-into-a-binary-search-tree",
+      "level": "Medium",
+      "acrate": "76.6%"
+    },
+    {
+      "num": "0702",
+      "title": "Search in a Sorted Array of Unknown Size",
+      "lo_title": "search-in-a-sorted-array-of-unknown-size",
+      "link": "https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size",
+      "level": "Medium",
+      "acrate": "60.4%"
+    },
+    {
+      "num": "0703",
+      "title": "Kth Largest Element in a Stream",
+      "lo_title": "kth-largest-element-in-a-stream",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+      "level": "Easy",
+      "acrate": "46.8%"
+    },
+    {
+      "num": "0704",
+      "title": "Binary Search",
+      "lo_title": "binary-search",
+      "link": "https://leetcode.com/problems/binary-search",
+      "level": "Easy",
+      "acrate": "48.8%"
+    },
+    {
+      "num": "0705",
+      "title": "Design HashSet",
+      "lo_title": "design-hashset",
+      "link": "https://leetcode.com/problems/design-hashset",
+      "level": "Easy",
+      "acrate": "54.9%"
+    },
+    {
+      "num": "0706",
+      "title": "Design HashMap",
+      "lo_title": "design-hashmap",
+      "link": "https://leetcode.com/problems/design-hashmap",
+      "level": "Easy",
+      "acrate": "56.8%"
+    },
+    {
+      "num": "0707",
+      "title": "Design Linked List",
+      "lo_title": "design-linked-list",
+      "link": "https://leetcode.com/problems/design-linked-list",
+      "level": "Easy",
+      "acrate": "21.2%"
+    },
+    {
+      "num": "0708",
+      "title": "Insert into a Cyclic Sorted List",
+      "lo_title": "insert-into-a-cyclic-sorted-list",
+      "link": "https://leetcode.com/problems/insert-into-a-cyclic-sorted-list",
+      "level": "Medium",
+      "acrate": "29.7%"
+    },
+    {
+      "num": "0709",
+      "title": "To Lower Case",
+      "lo_title": "to-lower-case",
+      "link": "https://leetcode.com/problems/to-lower-case",
+      "level": "Easy",
+      "acrate": "77.3%"
+    },
+    {
+      "num": "0710",
+      "title": "Random Pick with Blacklist",
+      "lo_title": "random-pick-with-blacklist",
+      "link": "https://leetcode.com/problems/random-pick-with-blacklist",
+      "level": "Hard",
+      "acrate": "31.9%"
+    },
+    {
+      "num": "0711",
+      "title": "Number of Distinct Islands II",
+      "lo_title": "number-of-distinct-islands-ii",
+      "link": "https://leetcode.com/problems/number-of-distinct-islands-ii",
+      "level": "Hard",
+      "acrate": "46.9%"
+    },
+    {
+      "num": "0712",
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "lo_title": "minimum-ascii-delete-sum-for-two-strings",
+      "link": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings",
+      "level": "Medium",
+      "acrate": "55.3%"
+    },
+    {
+      "num": "0713",
+      "title": "Subarray Product Less Than K",
+      "lo_title": "subarray-product-less-than-k",
+      "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "level": "Medium",
+      "acrate": "37.2%"
+    },
+    {
+      "num": "0714",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "lo_title": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "level": "Medium",
+      "acrate": "51.1%"
+    },
+    {
+      "num": "0715",
+      "title": "Range Module",
+      "lo_title": "range-module",
+      "link": "https://leetcode.com/problems/range-module",
+      "level": "Hard",
+      "acrate": "36.0%"
+    },
+    {
+      "num": "0716",
+      "title": "Max Stack",
+      "lo_title": "max-stack",
+      "link": "https://leetcode.com/problems/max-stack",
+      "level": "Easy",
+      "acrate": "40.6%"
+    },
+    {
+      "num": "0717",
+      "title": "1-bit and 2-bit Characters",
+      "lo_title": "1-bit-and-2-bit-characters",
+      "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+      "level": "Easy",
+      "acrate": "49.3%"
+    },
+    {
+      "num": "0718",
+      "title": "Maximum Length of Repeated Subarray",
+      "lo_title": "maximum-length-of-repeated-subarray",
+      "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+      "level": "Medium",
+      "acrate": "46.8%"
+    },
+    {
+      "num": "0719",
+      "title": "Find K-th Smallest Pair Distance",
+      "lo_title": "find-k-th-smallest-pair-distance",
+      "link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+      "level": "Hard",
+      "acrate": "29.5%"
+    },
+    {
+      "num": "0720",
+      "title": "Longest Word in Dictionary",
+      "lo_title": "longest-word-in-dictionary",
+      "link": "https://leetcode.com/problems/longest-word-in-dictionary",
+      "level": "Easy",
+      "acrate": "45.3%"
+    },
+    {
+      "num": "0721",
+      "title": "Accounts Merge",
+      "lo_title": "accounts-merge",
+      "link": "https://leetcode.com/problems/accounts-merge",
+      "level": "Medium",
+      "acrate": "41.6%"
+    },
+    {
+      "num": "0722",
+      "title": "Remove Comments",
+      "lo_title": "remove-comments",
+      "link": "https://leetcode.com/problems/remove-comments",
+      "level": "Medium",
+      "acrate": "31.7%"
+    },
+    {
+      "num": "0723",
+      "title": "Candy Crush",
+      "lo_title": "candy-crush",
+      "link": "https://leetcode.com/problems/candy-crush",
+      "level": "Medium",
+      "acrate": "63.9%"
+    },
+    {
+      "num": "0724",
+      "title": "Find Pivot Index",
+      "lo_title": "find-pivot-index",
+      "link": "https://leetcode.com/problems/find-pivot-index",
+      "level": "Easy",
+      "acrate": "41.6%"
+    },
+    {
+      "num": "0725",
+      "title": "Split Linked List in Parts",
+      "lo_title": "split-linked-list-in-parts",
+      "link": "https://leetcode.com/problems/split-linked-list-in-parts",
+      "level": "Medium",
+      "acrate": "49.4%"
+    },
+    {
+      "num": "0726",
+      "title": "Number of Atoms",
+      "lo_title": "number-of-atoms",
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "level": "Hard",
+      "acrate": "45.3%"
+    },
+    {
+      "num": "0727",
+      "title": "Minimum Window Subsequence",
+      "lo_title": "minimum-window-subsequence",
+      "link": "https://leetcode.com/problems/minimum-window-subsequence",
+      "level": "Hard",
+      "acrate": "37.9%"
+    },
+    {
+      "num": "0728",
+      "title": "Self Dividing Numbers",
+      "lo_title": "self-dividing-numbers",
+      "link": "https://leetcode.com/problems/self-dividing-numbers",
+      "level": "Easy",
+      "acrate": "71.0%"
+    },
+    {
+      "num": "0729",
+      "title": "My Calendar I",
+      "lo_title": "my-calendar-i",
+      "link": "https://leetcode.com/problems/my-calendar-i",
+      "level": "Medium",
+      "acrate": "48.1%"
+    },
+    {
+      "num": "0730",
+      "title": "Count Different Palindromic Subsequences",
+      "lo_title": "count-different-palindromic-subsequences",
+      "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
+      "level": "Hard",
+      "acrate": "39.6%"
+    },
+    {
+      "num": "0731",
+      "title": "My Calendar II",
+      "lo_title": "my-calendar-ii",
+      "link": "https://leetcode.com/problems/my-calendar-ii",
+      "level": "Medium",
+      "acrate": "45.5%"
+    },
+    {
+      "num": "0732",
+      "title": "My Calendar III",
+      "lo_title": "my-calendar-iii",
+      "link": "https://leetcode.com/problems/my-calendar-iii",
+      "level": "Hard",
+      "acrate": "56.2%"
+    },
+    {
+      "num": "0733",
+      "title": "Flood Fill",
+      "lo_title": "flood-fill",
+      "link": "https://leetcode.com/problems/flood-fill",
+      "level": "Easy",
+      "acrate": "51.5%"
+    },
+    {
+      "num": "0734",
+      "title": "Sentence Similarity",
+      "lo_title": "sentence-similarity",
+      "link": "https://leetcode.com/problems/sentence-similarity",
+      "level": "Easy",
+      "acrate": "40.9%"
+    },
+    {
+      "num": "0735",
+      "title": "Asteroid Collision",
+      "lo_title": "asteroid-collision",
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "level": "Medium",
+      "acrate": "38.9%"
+    },
+    {
+      "num": "0736",
+      "title": "Parse Lisp Expression",
+      "lo_title": "parse-lisp-expression",
+      "link": "https://leetcode.com/problems/parse-lisp-expression",
+      "level": "Hard",
+      "acrate": "44.6%"
+    },
+    {
+      "num": "0737",
+      "title": "Sentence Similarity II",
+      "lo_title": "sentence-similarity-ii",
+      "link": "https://leetcode.com/problems/sentence-similarity-ii",
+      "level": "Medium",
+      "acrate": "43.8%"
+    },
+    {
+      "num": "0738",
+      "title": "Monotone Increasing Digits",
+      "lo_title": "monotone-increasing-digits",
+      "link": "https://leetcode.com/problems/monotone-increasing-digits",
+      "level": "Medium",
+      "acrate": "42.4%"
+    },
+    {
+      "num": "0739",
+      "title": "Daily Temperatures",
+      "lo_title": "daily-temperatures",
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "level": "Medium",
+      "acrate": "60.4%"
+    },
+    {
+      "num": "0740",
+      "title": "Delete and Earn",
+      "lo_title": "delete-and-earn",
+      "link": "https://leetcode.com/problems/delete-and-earn",
+      "level": "Medium",
+      "acrate": "46.4%"
+    },
+    {
+      "num": "0741",
+      "title": "Cherry Pickup",
+      "lo_title": "cherry-pickup",
+      "link": "https://leetcode.com/problems/cherry-pickup",
+      "level": "Hard",
+      "acrate": "30.4%"
+    },
+    {
+      "num": "0742",
+      "title": "Closest Leaf in a Binary Tree",
+      "lo_title": "closest-leaf-in-a-binary-tree",
+      "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+      "level": "Medium",
+      "acrate": "40.0%"
+    },
+    {
+      "num": "0743",
+      "title": "Network Delay Time",
+      "lo_title": "network-delay-time",
+      "link": "https://leetcode.com/problems/network-delay-time",
+      "level": "Medium",
+      "acrate": "43.2%"
+    },
+    {
+      "num": "0744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "lo_title": "find-smallest-letter-greater-than-target",
+      "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target",
+      "level": "Easy",
+      "acrate": "44.4%"
+    },
+    {
+      "num": "0745",
+      "title": "Prefix and Suffix Search",
+      "lo_title": "prefix-and-suffix-search",
+      "link": "https://leetcode.com/problems/prefix-and-suffix-search",
+      "level": "Hard",
+      "acrate": "31.3%"
+    },
+    {
+      "num": "0746",
+      "title": "Min Cost Climbing Stairs",
+      "lo_title": "min-cost-climbing-stairs",
+      "link": "https://leetcode.com/problems/min-cost-climbing-stairs",
+      "level": "Easy",
+      "acrate": "47.9%"
+    },
+    {
+      "num": "0747",
+      "title": "Largest Number At Least Twice of Others",
+      "lo_title": "largest-number-at-least-twice-of-others",
+      "link": "https://leetcode.com/problems/largest-number-at-least-twice-of-others",
+      "level": "Easy",
+      "acrate": "40.8%"
+    },
+    {
+      "num": "0748",
+      "title": "Shortest Completing Word",
+      "lo_title": "shortest-completing-word",
+      "link": "https://leetcode.com/problems/shortest-completing-word",
+      "level": "Easy",
+      "acrate": "54.9%"
+    },
+    {
+      "num": "0749",
+      "title": "Contain Virus",
+      "lo_title": "contain-virus",
+      "link": "https://leetcode.com/problems/contain-virus",
+      "level": "Hard",
+      "acrate": "41.5%"
+    },
+    {
+      "num": "0750",
+      "title": "Number Of Corner Rectangles",
+      "lo_title": "number-of-corner-rectangles",
+      "link": "https://leetcode.com/problems/number-of-corner-rectangles",
+      "level": "Medium",
+      "acrate": "65.0%"
+    },
+    {
+      "num": "0751",
+      "title": "IP to CIDR",
+      "lo_title": "ip-to-cidr",
+      "link": "https://leetcode.com/problems/ip-to-cidr",
+      "level": "Easy",
+      "acrate": "60.2%"
+    },
+    {
+      "num": "0752",
+      "title": "Open the Lock",
+      "lo_title": "open-the-lock",
+      "link": "https://leetcode.com/problems/open-the-lock",
+      "level": "Medium",
+      "acrate": "46.9%"
+    },
+    {
+      "num": "0753",
+      "title": "Cracking the Safe",
+      "lo_title": "cracking-the-safe",
+      "link": "https://leetcode.com/problems/cracking-the-safe",
+      "level": "Hard",
+      "acrate": "47.3%"
+    },
+    {
+      "num": "0754",
+      "title": "Reach a Number",
+      "lo_title": "reach-a-number",
+      "link": "https://leetcode.com/problems/reach-a-number",
+      "level": "Easy",
+      "acrate": "33.1%"
+    },
+    {
+      "num": "0755",
+      "title": "Pour Water",
+      "lo_title": "pour-water",
+      "link": "https://leetcode.com/problems/pour-water",
+      "level": "Medium",
+      "acrate": "41.4%"
+    },
+    {
+      "num": "0756",
+      "title": "Pyramid Transition Matrix",
+      "lo_title": "pyramid-transition-matrix",
+      "link": "https://leetcode.com/problems/pyramid-transition-matrix",
+      "level": "Medium",
+      "acrate": "52.5%"
+    },
+    {
+      "num": "0757",
+      "title": "Set Intersection Size At Least Two",
+      "lo_title": "set-intersection-size-at-least-two",
+      "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+      "level": "Hard",
+      "acrate": "37.1%"
+    },
+    {
+      "num": "0758",
+      "title": "Bold Words in String",
+      "lo_title": "bold-words-in-string",
+      "link": "https://leetcode.com/problems/bold-words-in-string",
+      "level": "Easy",
+      "acrate": "42.7%"
+    },
+    {
+      "num": "0759",
+      "title": "Employee Free Time",
+      "lo_title": "employee-free-time",
+      "link": "https://leetcode.com/problems/employee-free-time",
+      "level": "Hard",
+      "acrate": "62.1%"
+    },
+    {
+      "num": "0760",
+      "title": "Find Anagram Mappings",
+      "lo_title": "find-anagram-mappings",
+      "link": "https://leetcode.com/problems/find-anagram-mappings",
+      "level": "Easy",
+      "acrate": "79.6%"
+    },
+    {
+      "num": "0761",
+      "title": "Special Binary String",
+      "lo_title": "special-binary-string",
+      "link": "https://leetcode.com/problems/special-binary-string",
+      "level": "Hard",
+      "acrate": "52.6%"
+    },
+    {
+      "num": "0762",
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "lo_title": "prime-number-of-set-bits-in-binary-representation",
+      "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation",
+      "level": "Easy",
+      "acrate": "60.1%"
+    },
+    {
+      "num": "0763",
+      "title": "Partition Labels",
+      "lo_title": "partition-labels",
+      "link": "https://leetcode.com/problems/partition-labels",
+      "level": "Medium",
+      "acrate": "71.7%"
+    },
+    {
+      "num": "0764",
+      "title": "Largest Plus Sign",
+      "lo_title": "largest-plus-sign",
+      "link": "https://leetcode.com/problems/largest-plus-sign",
+      "level": "Medium",
+      "acrate": "44.0%"
+    },
+    {
+      "num": "0765",
+      "title": "Couples Holding Hands",
+      "lo_title": "couples-holding-hands",
+      "link": "https://leetcode.com/problems/couples-holding-hands",
+      "level": "Hard",
+      "acrate": "52.0%"
+    },
+    {
+      "num": "0766",
+      "title": "Toeplitz Matrix",
+      "lo_title": "toeplitz-matrix",
+      "link": "https://leetcode.com/problems/toeplitz-matrix",
+      "level": "Easy",
+      "acrate": "62.3%"
+    },
+    {
+      "num": "0767",
+      "title": "Reorganize String",
+      "lo_title": "reorganize-string",
+      "link": "https://leetcode.com/problems/reorganize-string",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0768",
+      "title": "Max Chunks To Make Sorted II",
+      "lo_title": "max-chunks-to-make-sorted-ii",
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+      "level": "Hard",
+      "acrate": "46.6%"
+    },
+    {
+      "num": "0769",
+      "title": "Max Chunks To Make Sorted",
+      "lo_title": "max-chunks-to-make-sorted",
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+      "level": "Medium",
+      "acrate": "52.2%"
+    },
+    {
+      "num": "0770",
+      "title": "Basic Calculator IV",
+      "lo_title": "basic-calculator-iv",
+      "link": "https://leetcode.com/problems/basic-calculator-iv",
+      "level": "Hard",
+      "acrate": "45.9%"
+    },
+    {
+      "num": "0771",
+      "title": "Jewels and Stones",
+      "lo_title": "jewels-and-stones",
+      "link": "https://leetcode.com/problems/jewels-and-stones",
+      "level": "Easy",
+      "acrate": "83.4%"
+    },
+    {
+      "num": "0772",
+      "title": "Basic Calculator III",
+      "lo_title": "basic-calculator-iii",
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "level": "Hard",
+      "acrate": "42.2%"
+    },
+    {
+      "num": "0773",
+      "title": "Sliding Puzzle",
+      "lo_title": "sliding-puzzle",
+      "link": "https://leetcode.com/problems/sliding-puzzle",
+      "level": "Hard",
+      "acrate": "53.5%"
+    },
+    {
+      "num": "0774",
+      "title": "Minimize Max Distance to Gas Station",
+      "lo_title": "minimize-max-distance-to-gas-station",
+      "link": "https://leetcode.com/problems/minimize-max-distance-to-gas-station",
+      "level": "Hard",
+      "acrate": "42.6%"
+    },
+    {
+      "num": "0775",
+      "title": "Global and Local Inversions",
+      "lo_title": "global-and-local-inversions",
+      "link": "https://leetcode.com/problems/global-and-local-inversions",
+      "level": "Medium",
+      "acrate": "39.7%"
+    },
+    {
+      "num": "0776",
+      "title": "Split BST",
+      "lo_title": "split-bst",
+      "link": "https://leetcode.com/problems/split-bst",
+      "level": "Medium",
+      "acrate": "52.9%"
+    },
+    {
+      "num": "0777",
+      "title": "Swap Adjacent in LR String",
+      "lo_title": "swap-adjacent-in-lr-string",
+      "link": "https://leetcode.com/problems/swap-adjacent-in-lr-string",
+      "level": "Medium",
+      "acrate": "33.6%"
+    },
+    {
+      "num": "0778",
+      "title": "Swim in Rising Water",
+      "lo_title": "swim-in-rising-water",
+      "link": "https://leetcode.com/problems/swim-in-rising-water",
+      "level": "Hard",
+      "acrate": "48.5%"
+    },
+    {
+      "num": "0779",
+      "title": "K-th Symbol in Grammar",
+      "lo_title": "k-th-symbol-in-grammar",
+      "link": "https://leetcode.com/problems/k-th-symbol-in-grammar",
+      "level": "Medium",
+      "acrate": "37.6%"
+    },
+    {
+      "num": "0780",
+      "title": "Reaching Points",
+      "lo_title": "reaching-points",
+      "link": "https://leetcode.com/problems/reaching-points",
+      "level": "Hard",
+      "acrate": "27.7%"
+    },
+    {
+      "num": "0781",
+      "title": "Rabbits in Forest",
+      "lo_title": "rabbits-in-forest",
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "level": "Medium",
+      "acrate": "52.2%"
+    },
+    {
+      "num": "0782",
+      "title": "Transform to Chessboard",
+      "lo_title": "transform-to-chessboard",
+      "link": "https://leetcode.com/problems/transform-to-chessboard",
+      "level": "Hard",
+      "acrate": "40.0%"
+    },
+    {
+      "num": "0783",
+      "title": "Minimum Distance Between BST Nodes",
+      "lo_title": "minimum-distance-between-bst-nodes",
+      "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes",
+      "level": "Easy",
+      "acrate": "50.8%"
+    },
+    {
+      "num": "0784",
+      "title": "Letter Case Permutation",
+      "lo_title": "letter-case-permutation",
+      "link": "https://leetcode.com/problems/letter-case-permutation",
+      "level": "Easy",
+      "acrate": "58.2%"
+    },
+    {
+      "num": "0785",
+      "title": "Is Graph Bipartite?",
+      "lo_title": "is-graph-bipartite",
+      "link": "https://leetcode.com/problems/is-graph-bipartite",
+      "level": "Medium",
+      "acrate": "44.1%"
+    },
+    {
+      "num": "0786",
+      "title": "K-th Smallest Prime Fraction",
+      "lo_title": "k-th-smallest-prime-fraction",
+      "link": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+      "level": "Hard",
+      "acrate": "40.4%"
+    },
+    {
+      "num": "0787",
+      "title": "Cheapest Flights Within K Stops",
+      "lo_title": "cheapest-flights-within-k-stops",
+      "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+      "level": "Medium",
+      "acrate": "35.7%"
+    },
+    {
+      "num": "0788",
+      "title": "Rotated Digits",
+      "lo_title": "rotated-digits",
+      "link": "https://leetcode.com/problems/rotated-digits",
+      "level": "Easy",
+      "acrate": "54.9%"
+    },
+    {
+      "num": "0789",
+      "title": "Escape The Ghosts",
+      "lo_title": "escape-the-ghosts",
+      "link": "https://leetcode.com/problems/escape-the-ghosts",
+      "level": "Medium",
+      "acrate": "55.7%"
+    },
+    {
+      "num": "0790",
+      "title": "Domino and Tromino Tiling",
+      "lo_title": "domino-and-tromino-tiling",
+      "link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+      "level": "Medium",
+      "acrate": "36.5%"
+    },
+    {
+      "num": "0791",
+      "title": "Custom Sort String",
+      "lo_title": "custom-sort-string",
+      "link": "https://leetcode.com/problems/custom-sort-string",
+      "level": "Medium",
+      "acrate": "62.8%"
+    },
+    {
+      "num": "0792",
+      "title": "Number of Matching Subsequences",
+      "lo_title": "number-of-matching-subsequences",
+      "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+      "level": "Medium",
+      "acrate": "44.1%"
+    },
+    {
+      "num": "0793",
+      "title": "Preimage Size of Factorial Zeroes Function",
+      "lo_title": "preimage-size-of-factorial-zeroes-function",
+      "link": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function",
+      "level": "Hard",
+      "acrate": "39.2%"
+    },
+    {
+      "num": "0794",
+      "title": "Valid Tic-Tac-Toe State",
+      "lo_title": "valid-tic-tac-toe-state",
+      "link": "https://leetcode.com/problems/valid-tic-tac-toe-state",
+      "level": "Medium",
+      "acrate": "30.3%"
+    },
+    {
+      "num": "0795",
+      "title": "Number of Subarrays with Bounded Maximum",
+      "lo_title": "number-of-subarrays-with-bounded-maximum",
+      "link": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum",
+      "level": "Medium",
+      "acrate": "43.8%"
+    },
+    {
+      "num": "0796",
+      "title": "Rotate String",
+      "lo_title": "rotate-string",
+      "link": "https://leetcode.com/problems/rotate-string",
+      "level": "Easy",
+      "acrate": "49.2%"
+    },
+    {
+      "num": "0797",
+      "title": "All Paths From Source to Target",
+      "lo_title": "all-paths-from-source-to-target",
+      "link": "https://leetcode.com/problems/all-paths-from-source-to-target",
+      "level": "Medium",
+      "acrate": "71.0%"
+    },
+    {
+      "num": "0798",
+      "title": "Smallest Rotation with Highest Score",
+      "lo_title": "smallest-rotation-with-highest-score",
+      "link": "https://leetcode.com/problems/smallest-rotation-with-highest-score",
+      "level": "Hard",
+      "acrate": "40.9%"
+    },
+    {
+      "num": "0799",
+      "title": "Champagne Tower",
+      "lo_title": "champagne-tower",
+      "link": "https://leetcode.com/problems/champagne-tower",
+      "level": "Medium",
+      "acrate": "34.5%"
+    },
+    {
+      "num": "0800",
+      "title": "Similar RGB Color",
+      "lo_title": "similar-rgb-color",
+      "link": "https://leetcode.com/problems/similar-rgb-color",
+      "level": "Easy",
+      "acrate": "60.1%"
+    }
+  ]
+}
