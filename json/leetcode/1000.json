@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "num": "0901",
+      "title": "Online Stock Span",
+      "lo_title": "online-stock-span",
+      "link": "https://leetcode.com/problems/online-stock-span",
+      "level": "Medium",
+      "acrate": "50.5%"
+    },
+    {
+      "num": "0902",
+      "title": "Numbers At Most N Given Digit Set",
+      "lo_title": "numbers-at-most-n-given-digit-set",
+      "link": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set",
+      "level": "Hard",
+      "acrate": "28.8%"
+    },
+    {
+      "num": "0903",
+      "title": "Valid Permutations for DI Sequence",
+      "lo_title": "valid-permutations-for-di-sequence",
+      "link": "https://leetcode.com/problems/valid-permutations-for-di-sequence",
+      "level": "Hard",
+      "acrate": "45.5%"
+    },
+    {
+      "num": "0904",
+      "title": "Fruit Into Baskets",
+      "lo_title": "fruit-into-baskets",
+      "link": "https://leetcode.com/problems/fruit-into-baskets",
+      "level": "Medium",
+      "acrate": "41.8%"
+    },
+    {
+      "num": "0905",
+      "title": "Sort Array By Parity",
+      "lo_title": "sort-array-by-parity",
+      "link": "https://leetcode.com/problems/sort-array-by-parity",
+      "level": "Easy",
+      "acrate": "72.7%"
+    },
+    {
+      "num": "0906",
+      "title": "Super Palindromes",
+      "lo_title": "super-palindromes",
+      "link": "https://leetcode.com/problems/super-palindromes",
+      "level": "Hard",
+      "acrate": "30.6%"
+    },
+    {
+      "num": "0907",
+      "title": "Sum of Subarray Minimums",
+      "lo_title": "sum-of-subarray-minimums",
+      "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "level": "Medium",
+      "acrate": "28.6%"
+    },
+    {
+      "num": "0908",
+      "title": "Smallest Range I",
+      "lo_title": "smallest-range-i",
+      "link": "https://leetcode.com/problems/smallest-range-i",
+      "level": "Easy",
+      "acrate": "64.9%"
+    },
+    {
+      "num": "0909",
+      "title": "Snakes and Ladders",
+      "lo_title": "snakes-and-ladders",
+      "link": "https://leetcode.com/problems/snakes-and-ladders",
+      "level": "Medium",
+      "acrate": "34.8%"
+    },
+    {
+      "num": "0910",
+      "title": "Smallest Range II",
+      "lo_title": "smallest-range-ii",
+      "link": "https://leetcode.com/problems/smallest-range-ii",
+      "level": "Medium",
+      "acrate": "24.3%"
+    },
+    {
+      "num": "0911",
+      "title": "Online Election",
+      "lo_title": "online-election",
+      "link": "https://leetcode.com/problems/online-election",
+      "level": "Medium",
+      "acrate": "47.7%"
+    },
+    {
+      "num": "0912",
+      "title": "Sort an Array",
+      "lo_title": "sort-an-array",
+      "link": "https://leetcode.com/problems/sort-an-array",
+      "level": "Medium",
+      "acrate": "63.4%"
+    },
+    {
+      "num": "0913",
+      "title": "Cat and Mouse",
+      "lo_title": "cat-and-mouse",
+      "link": "https://leetcode.com/problems/cat-and-mouse",
+      "level": "Hard",
+      "acrate": "29.0%"
+    },
+    {
+      "num": "0914",
+      "title": "X of a Kind in a Deck of Cards",
+      "lo_title": "x-of-a-kind-in-a-deck-of-cards",
+      "link": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards",
+      "level": "Easy",
+      "acrate": "33.9%"
+    },
+    {
+      "num": "0915",
+      "title": "Partition Array into Disjoint Intervals",
+      "lo_title": "partition-array-into-disjoint-intervals",
+      "link": "https://leetcode.com/problems/partition-array-into-disjoint-intervals",
+      "level": "Medium",
+      "acrate": "43.8%"
+    },
+    {
+      "num": "0916",
+      "title": "Word Subsets",
+      "lo_title": "word-subsets",
+      "link": "https://leetcode.com/problems/word-subsets",
+      "level": "Medium",
+      "acrate": "45.5%"
+    },
+    {
+      "num": "0917",
+      "title": "Reverse Only Letters",
+      "lo_title": "reverse-only-letters",
+      "link": "https://leetcode.com/problems/reverse-only-letters",
+      "level": "Easy",
+      "acrate": "56.1%"
+    },
+    {
+      "num": "0918",
+      "title": "Maximum Sum Circular Subarray",
+      "lo_title": "maximum-sum-circular-subarray",
+      "link": "https://leetcode.com/problems/maximum-sum-circular-subarray",
+      "level": "Medium",
+      "acrate": "32.4%"
+    },
+    {
+      "num": "0919",
+      "title": "Complete Binary Tree Inserter",
+      "lo_title": "complete-binary-tree-inserter",
+      "link": "https://leetcode.com/problems/complete-binary-tree-inserter",
+      "level": "Medium",
+      "acrate": "55.7%"
+    },
+    {
+      "num": "0920",
+      "title": "Number of Music Playlists",
+      "lo_title": "number-of-music-playlists",
+      "link": "https://leetcode.com/problems/number-of-music-playlists",
+      "level": "Hard",
+      "acrate": "44.1%"
+    },
+    {
+      "num": "0921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "lo_title": "minimum-add-to-make-parentheses-valid",
+      "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+      "level": "Medium",
+      "acrate": "70.4%"
+    },
+    {
+      "num": "0922",
+      "title": "Sort Array By Parity II",
+      "lo_title": "sort-array-by-parity-ii",
+      "link": "https://leetcode.com/problems/sort-array-by-parity-ii",
+      "level": "Easy",
+      "acrate": "67.2%"
+    },
+    {
+      "num": "0923",
+      "title": "3Sum With Multiplicity",
+      "lo_title": "3sum-with-multiplicity",
+      "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+      "level": "Medium",
+      "acrate": "34.2%"
+    },
+    {
+      "num": "0924",
+      "title": "Minimize Malware Spread",
+      "lo_title": "minimize-malware-spread",
+      "link": "https://leetcode.com/problems/minimize-malware-spread",
+      "level": "Hard",
+      "acrate": "40.4%"
+    },
+    {
+      "num": "0925",
+      "title": "Long Pressed Name",
+      "lo_title": "long-pressed-name",
+      "link": "https://leetcode.com/problems/long-pressed-name",
+      "level": "Easy",
+      "acrate": "44.5%"
+    },
+    {
+      "num": "0926",
+      "title": "Flip String to Monotone Increasing",
+      "lo_title": "flip-string-to-monotone-increasing",
+      "link": "https://leetcode.com/problems/flip-string-to-monotone-increasing",
+      "level": "Medium",
+      "acrate": "50.3%"
+    },
+    {
+      "num": "0927",
+      "title": "Three Equal Parts",
+      "lo_title": "three-equal-parts",
+      "link": "https://leetcode.com/problems/three-equal-parts",
+      "level": "Hard",
+      "acrate": "30.8%"
+    },
+    {
+      "num": "0928",
+      "title": "Minimize Malware Spread II",
+      "lo_title": "minimize-malware-spread-ii",
+      "link": "https://leetcode.com/problems/minimize-malware-spread-ii",
+      "level": "Hard",
+      "acrate": "39.6%"
+    },
+    {
+      "num": "0929",
+      "title": "Unique Email Addresses",
+      "lo_title": "unique-email-addresses",
+      "link": "https://leetcode.com/problems/unique-email-addresses",
+      "level": "Easy",
+      "acrate": "69.5%"
+    },
+    {
+      "num": "0930",
+      "title": "Binary Subarrays With Sum",
+      "lo_title": "binary-subarrays-with-sum",
+      "link": "https://leetcode.com/problems/binary-subarrays-with-sum",
+      "level": "Medium",
+      "acrate": "39.1%"
+    },
+    {
+      "num": "0931",
+      "title": "Minimum Falling Path Sum",
+      "lo_title": "minimum-falling-path-sum",
+      "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+      "level": "Medium",
+      "acrate": "59.2%"
+    },
+    {
+      "num": "0932",
+      "title": "Beautiful Array",
+      "lo_title": "beautiful-array",
+      "link": "https://leetcode.com/problems/beautiful-array",
+      "level": "Medium",
+      "acrate": "54.1%"
+    },
+    {
+      "num": "0933",
+      "title": "Number of Recent Calls",
+      "lo_title": "number-of-recent-calls",
+      "link": "https://leetcode.com/problems/number-of-recent-calls",
+      "level": "Easy",
+      "acrate": "69.3%"
+    },
+    {
+      "num": "0934",
+      "title": "Shortest Bridge",
+      "lo_title": "shortest-bridge",
+      "link": "https://leetcode.com/problems/shortest-bridge",
+      "level": "Medium",
+      "acrate": "44.4%"
+    },
+    {
+      "num": "0935",
+      "title": "Knight Dialer",
+      "lo_title": "knight-dialer",
+      "link": "https://leetcode.com/problems/knight-dialer",
+      "level": "Medium",
+      "acrate": "41.7%"
+    },
+    {
+      "num": "0936",
+      "title": "Stamping The Sequence",
+      "lo_title": "stamping-the-sequence",
+      "link": "https://leetcode.com/problems/stamping-the-sequence",
+      "level": "Hard",
+      "acrate": "36.3%"
+    },
+    {
+      "num": "0937",
+      "title": "Reorder Log Files",
+      "lo_title": "reorder-log-files",
+      "link": "https://leetcode.com/problems/reorder-log-files",
+      "level": "Easy",
+      "acrate": "56.1%"
+    },
+    {
+      "num": "0938",
+      "title": "Range Sum of BST",
+      "lo_title": "range-sum-of-bst",
+      "link": "https://leetcode.com/problems/range-sum-of-bst",
+      "level": "Easy",
+      "acrate": "78.2%"
+    },
+    {
+      "num": "0939",
+      "title": "Minimum Area Rectangle",
+      "lo_title": "minimum-area-rectangle",
+      "link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "level": "Medium",
+      "acrate": "51.0%"
+    },
+    {
+      "num": "0940",
+      "title": "Distinct Subsequences II",
+      "lo_title": "distinct-subsequences-ii",
+      "link": "https://leetcode.com/problems/distinct-subsequences-ii",
+      "level": "Hard",
+      "acrate": "40.1%"
+    },
+    {
+      "num": "0941",
+      "title": "Valid Mountain Array",
+      "lo_title": "valid-mountain-array",
+      "link": "https://leetcode.com/problems/valid-mountain-array",
+      "level": "Easy",
+      "acrate": "35.4%"
+    },
+    {
+      "num": "0942",
+      "title": "DI String Match",
+      "lo_title": "di-string-match",
+      "link": "https://leetcode.com/problems/di-string-match",
+      "level": "Easy",
+      "acrate": "70.0%"
+    },
+    {
+      "num": "0943",
+      "title": "Find the Shortest Superstring",
+      "lo_title": "find-the-shortest-superstring",
+      "link": "https://leetcode.com/problems/find-the-shortest-superstring",
+      "level": "Hard",
+      "acrate": "38.7%"
+    },
+    {
+      "num": "0944",
+      "title": "Delete Columns to Make Sorted",
+      "lo_title": "delete-columns-to-make-sorted",
+      "link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+      "level": "Easy",
+      "acrate": "69.4%"
+    },
+    {
+      "num": "0945",
+      "title": "Minimum Increment to Make Array Unique",
+      "lo_title": "minimum-increment-to-make-array-unique",
+      "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "level": "Medium",
+      "acrate": "43.3%"
+    },
+    {
+      "num": "0946",
+      "title": "Validate Stack Sequences",
+      "lo_title": "validate-stack-sequences",
+      "link": "https://leetcode.com/problems/validate-stack-sequences",
+      "level": "Medium",
+      "acrate": "58.2%"
+    },
+    {
+      "num": "0947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "lo_title": "most-stones-removed-with-same-row-or-column",
+      "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+      "level": "Medium",
+      "acrate": "54.4%"
+    },
+    {
+      "num": "0948",
+      "title": "Bag of Tokens",
+      "lo_title": "bag-of-tokens",
+      "link": "https://leetcode.com/problems/bag-of-tokens",
+      "level": "Medium",
+      "acrate": "39.6%"
+    },
+    {
+      "num": "0949",
+      "title": "Largest Time for Given Digits",
+      "lo_title": "largest-time-for-given-digits",
+      "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+      "level": "Easy",
+      "acrate": "34.4%"
+    },
+    {
+      "num": "0950",
+      "title": "Reveal Cards In Increasing Order",
+      "lo_title": "reveal-cards-in-increasing-order",
+      "link": "https://leetcode.com/problems/reveal-cards-in-increasing-order",
+      "level": "Medium",
+      "acrate": "72.2%"
+    },
+    {
+      "num": "0951",
+      "title": "Flip Equivalent Binary Trees",
+      "lo_title": "flip-equivalent-binary-trees",
+      "link": "https://leetcode.com/problems/flip-equivalent-binary-trees",
+      "level": "Medium",
+      "acrate": "64.8%"
+    },
+    {
+      "num": "0952",
+      "title": "Largest Component Size by Common Factor",
+      "lo_title": "largest-component-size-by-common-factor",
+      "link": "https://leetcode.com/problems/largest-component-size-by-common-factor",
+      "level": "Hard",
+      "acrate": "26.5%"
+    },
+    {
+      "num": "0953",
+      "title": "Verifying an Alien Dictionary",
+      "lo_title": "verifying-an-alien-dictionary",
+      "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
+      "level": "Easy",
+      "acrate": "55.9%"
+    },
+    {
+      "num": "0954",
+      "title": "Array of Doubled Pairs",
+      "lo_title": "array-of-doubled-pairs",
+      "link": "https://leetcode.com/problems/array-of-doubled-pairs",
+      "level": "Medium",
+      "acrate": "35.0%"
+    },
+    {
+      "num": "0955",
+      "title": "Delete Columns to Make Sorted II",
+      "lo_title": "delete-columns-to-make-sorted-ii",
+      "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii",
+      "level": "Medium",
+      "acrate": "31.9%"
+    },
+    {
+      "num": "0956",
+      "title": "Tallest Billboard",
+      "lo_title": "tallest-billboard",
+      "link": "https://leetcode.com/problems/tallest-billboard",
+      "level": "Hard",
+      "acrate": "38.7%"
+    },
+    {
+      "num": "0957",
+      "title": "Prison Cells After N Days",
+      "lo_title": "prison-cells-after-n-days",
+      "link": "https://leetcode.com/problems/prison-cells-after-n-days",
+      "level": "Medium",
+      "acrate": "37.4%"
+    },
+    {
+      "num": "0958",
+      "title": "Check Completeness of a Binary Tree",
+      "lo_title": "check-completeness-of-a-binary-tree",
+      "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+      "level": "Medium",
+      "acrate": "48.2%"
+    },
+    {
+      "num": "0959",
+      "title": "Regions Cut By Slashes",
+      "lo_title": "regions-cut-by-slashes",
+      "link": "https://leetcode.com/problems/regions-cut-by-slashes",
+      "level": "Medium",
+      "acrate": "62.7%"
+    },
+    {
+      "num": "0960",
+      "title": "Delete Columns to Make Sorted III",
+      "lo_title": "delete-columns-to-make-sorted-iii",
+      "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii",
+      "level": "Hard",
+      "acrate": "53.3%"
+    },
+    {
+      "num": "0961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "lo_title": "n-repeated-element-in-size-2n-array",
+      "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "level": "Easy",
+      "acrate": "72.4%"
+    },
+    {
+      "num": "0962",
+      "title": "Maximum Width Ramp",
+      "lo_title": "maximum-width-ramp",
+      "link": "https://leetcode.com/problems/maximum-width-ramp",
+      "level": "Medium",
+      "acrate": "42.4%"
+    },
+    {
+      "num": "0963",
+      "title": "Minimum Area Rectangle II",
+      "lo_title": "minimum-area-rectangle-ii",
+      "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+      "level": "Medium",
+      "acrate": "46.5%"
+    },
+    {
+      "num": "0964",
+      "title": "Least Operators to Express Number",
+      "lo_title": "least-operators-to-express-number",
+      "link": "https://leetcode.com/problems/least-operators-to-express-number",
+      "level": "Hard",
+      "acrate": "41.1%"
+    },
+    {
+      "num": "0965",
+      "title": "Univalued Binary Tree",
+      "lo_title": "univalued-binary-tree",
+      "link": "https://leetcode.com/problems/univalued-binary-tree",
+      "level": "Easy",
+      "acrate": "66.9%"
+    },
+    {
+      "num": "0966",
+      "title": "Vowel Spellchecker",
+      "lo_title": "vowel-spellchecker",
+      "link": "https://leetcode.com/problems/vowel-spellchecker",
+      "level": "Medium",
+      "acrate": "42.8%"
+    },
+    {
+      "num": "0967",
+      "title": "Numbers With Same Consecutive Differences",
+      "lo_title": "numbers-with-same-consecutive-differences",
+      "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+      "level": "Medium",
+      "acrate": "37.5%"
+    },
+    {
+      "num": "0968",
+      "title": "Binary Tree Cameras",
+      "lo_title": "binary-tree-cameras",
+      "link": "https://leetcode.com/problems/binary-tree-cameras",
+      "level": "Hard",
+      "acrate": "35.6%"
+    },
+    {
+      "num": "0969",
+      "title": "Pancake Sorting",
+      "lo_title": "pancake-sorting",
+      "link": "https://leetcode.com/problems/pancake-sorting",
+      "level": "Medium",
+      "acrate": "62.5%"
+    },
+    {
+      "num": "0970",
+      "title": "Powerful Integers",
+      "lo_title": "powerful-integers",
+      "link": "https://leetcode.com/problems/powerful-integers",
+      "level": "Easy",
+      "acrate": "39.4%"
+    },
+    {
+      "num": "0971",
+      "title": "Flip Binary Tree To Match Preorder Traversal",
+      "lo_title": "flip-binary-tree-to-match-preorder-traversal",
+      "link": "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal",
+      "level": "Medium",
+      "acrate": "43.0%"
+    },
+    {
+      "num": "0972",
+      "title": "Equal Rational Numbers",
+      "lo_title": "equal-rational-numbers",
+      "link": "https://leetcode.com/problems/equal-rational-numbers",
+      "level": "Hard",
+      "acrate": "40.2%"
+    },
+    {
+      "num": "0973",
+      "title": "K Closest Points to Origin",
+      "lo_title": "k-closest-points-to-origin",
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "level": "Medium",
+      "acrate": "61.5%"
+    },
+    {
+      "num": "0974",
+      "title": "Subarray Sums Divisible by K",
+      "lo_title": "subarray-sums-divisible-by-k",
+      "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+      "level": "Medium",
+      "acrate": "46.2%"
+    },
+    {
+      "num": "0975",
+      "title": "Odd Even Jump",
+      "lo_title": "odd-even-jump",
+      "link": "https://leetcode.com/problems/odd-even-jump",
+      "level": "Hard",
+      "acrate": "46.3%"
+    },
+    {
+      "num": "0976",
+      "title": "Largest Perimeter Triangle",
+      "lo_title": "largest-perimeter-triangle",
+      "link": "https://leetcode.com/problems/largest-perimeter-triangle",
+      "level": "Easy",
+      "acrate": "56.9%"
+    },
+    {
+      "num": "0977",
+      "title": "Squares of a Sorted Array",
+      "lo_title": "squares-of-a-sorted-array",
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "level": "Easy",
+      "acrate": "71.9%"
+    },
+    {
+      "num": "0978",
+      "title": "Longest Turbulent Subarray",
+      "lo_title": "longest-turbulent-subarray",
+      "link": "https://leetcode.com/problems/longest-turbulent-subarray",
+      "level": "Medium",
+      "acrate": "45.6%"
+    },
+    {
+      "num": "0979",
+      "title": "Distribute Coins in Binary Tree",
+      "lo_title": "distribute-coins-in-binary-tree",
+      "link": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
+      "level": "Medium",
+      "acrate": "67.6%"
+    },
+    {
+      "num": "0980",
+      "title": "Unique Paths III",
+      "lo_title": "unique-paths-iii",
+      "link": "https://leetcode.com/problems/unique-paths-iii",
+      "level": "Hard",
+      "acrate": "71.2%"
+    },
+    {
+      "num": "0981",
+      "title": "Time Based Key-Value Store",
+      "lo_title": "time-based-key-value-store",
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "level": "Medium",
+      "acrate": "51.3%"
+    },
+    {
+      "num": "0982",
+      "title": "Triples with Bitwise AND Equal To Zero",
+      "lo_title": "triples-with-bitwise-and-equal-to-zero",
+      "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero",
+      "level": "Hard",
+      "acrate": "54.3%"
+    },
+    {
+      "num": "0983",
+      "title": "Minimum Cost For Tickets",
+      "lo_title": "minimum-cost-for-tickets",
+      "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+      "level": "Medium",
+      "acrate": "57.5%"
+    },
+    {
+      "num": "0984",
+      "title": "String Without AAA or BBB",
+      "lo_title": "string-without-aaa-or-bbb",
+      "link": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+      "level": "Medium",
+      "acrate": "34.4%"
+    },
+    {
+      "num": "0985",
+      "title": "Sum of Even Numbers After Queries",
+      "lo_title": "sum-of-even-numbers-after-queries",
+      "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "level": "Easy",
+      "acrate": "62.8%"
+    },
+    {
+      "num": "0986",
+      "title": "Interval List Intersections",
+      "lo_title": "interval-list-intersections",
+      "link": "https://leetcode.com/problems/interval-list-intersections",
+      "level": "Medium",
+      "acrate": "63.7%"
+    },
+    {
+      "num": "0987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "lo_title": "vertical-order-traversal-of-a-binary-tree",
+      "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+      "level": "Medium",
+      "acrate": "32.0%"
+    },
+    {
+      "num": "0988",
+      "title": "Smallest String Starting From Leaf",
+      "lo_title": "smallest-string-starting-from-leaf",
+      "link": "https://leetcode.com/problems/smallest-string-starting-from-leaf",
+      "level": "Medium",
+      "acrate": "45.5%"
+    },
+    {
+      "num": "0989",
+      "title": "Add to Array-Form of Integer",
+      "lo_title": "add-to-array-form-of-integer",
+      "link": "https://leetcode.com/problems/add-to-array-form-of-integer",
+      "level": "Easy",
+      "acrate": "44.2%"
+    },
+    {
+      "num": "0990",
+      "title": "Satisfiability of Equality Equations",
+      "lo_title": "satisfiability-of-equality-equations",
+      "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "level": "Medium",
+      "acrate": "40.7%"
+    },
+    {
+      "num": "0991",
+      "title": "Broken Calculator",
+      "lo_title": "broken-calculator",
+      "link": "https://leetcode.com/problems/broken-calculator",
+      "level": "Medium",
+      "acrate": "41.0%"
+    },
+    {
+      "num": "0992",
+      "title": "Subarrays with K Different Integers",
+      "lo_title": "subarrays-with-k-different-integers",
+      "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+      "level": "Hard",
+      "acrate": "44.9%"
+    },
+    {
+      "num": "0993",
+      "title": "Cousins in Binary Tree",
+      "lo_title": "cousins-in-binary-tree",
+      "link": "https://leetcode.com/problems/cousins-in-binary-tree",
+      "level": "Easy",
+      "acrate": "52.2%"
+    },
+    {
+      "num": "0994",
+      "title": "Rotting Oranges",
+      "lo_title": "rotting-oranges",
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "level": "Easy",
+      "acrate": "46.4%"
+    },
+    {
+      "num": "0995",
+      "title": "Minimum Number of K Consecutive Bit Flips",
+      "lo_title": "minimum-number-of-k-consecutive-bit-flips",
+      "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+      "level": "Hard",
+      "acrate": "48.3%"
+    },
+    {
+      "num": "0996",
+      "title": "Number of Squareful Arrays",
+      "lo_title": "number-of-squareful-arrays",
+      "link": "https://leetcode.com/problems/number-of-squareful-arrays",
+      "level": "Hard",
+      "acrate": "47.8%"
+    },
+    {
+      "num": "0997",
+      "title": "Find the Town Judge",
+      "lo_title": "find-the-town-judge",
+      "link": "https://leetcode.com/problems/find-the-town-judge",
+      "level": "Easy",
+      "acrate": "49.4%"
+    },
+    {
+      "num": "0998",
+      "title": "Maximum Binary Tree II",
+      "lo_title": "maximum-binary-tree-ii",
+      "link": "https://leetcode.com/problems/maximum-binary-tree-ii",
+      "level": "Medium",
+      "acrate": "61.6%"
+    },
+    {
+      "num": "0999",
+      "title": "Available Captures for Rook",
+      "lo_title": "available-captures-for-rook",
+      "link": "https://leetcode.com/problems/available-captures-for-rook",
+      "level": "Easy",
+      "acrate": "66.0%"
+    },
+    {
+      "num": "1000",
+      "title": "Minimum Cost to Merge Stones",
+      "lo_title": "minimum-cost-to-merge-stones",
+      "link": "https://leetcode.com/problems/minimum-cost-to-merge-stones",
+      "level": "Hard",
+      "acrate": "33.8%"
+    }
+  ]
+}
