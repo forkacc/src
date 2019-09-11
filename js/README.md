@@ -3,15 +3,16 @@
 - Snippet in the original and updated js file
 
     ```js
-    copyHandler:function(t){var e=window.getSelection(),
-    i="<p>极客时间版权所有: "+document.location.href+"</p>",r=n.a.getSelectionText();
-    if(r){var o=r.substr(0,30),a="<p>"+o+(o===r?"":"...")+"</p>"+i,
+    ...
+    if(t){var o=t.substr(0,30),
+    a="<p>"+o+(t.length>30?"":"...")+"</p><p>极客时间版权所有: "+document.location.href+"</p>"
+    ...
     ```
     
     ```js
-    copyHandler:function(t){var e=window.getSelection(),
-    r=n.a.getSelectionText();
-    if(r){var a="<p>"+r+"</p>",
+    ...
+    if(t){var a="<p>"+t+"</p>"
+    ...
     ```
 
 - Recipe
