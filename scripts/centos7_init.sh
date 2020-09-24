@@ -2,11 +2,11 @@
 
 sudo yum update && sudo yum -y upgrade
 
-mkdir -p /root/.ssh
-chmod 600 /root/.ssh
-touch /root/.ssh/authorized_keys
-echo "ssh-rsa *** i@zsliang.me" > /root/.ssh/authorized_keys
-chmod 700 /root/.ssh/authorized_keys
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+touch ~/.ssh/authorized_keys
+echo "ssh-rsa *** i@zsliang.me" > ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
 
 sudo yum -y install firewalld firewall-config
 systemctl start firewalld
@@ -14,7 +14,8 @@ systemctl enable firewalld
 firewall-cmd --zone=public --add-port=34567/tcp --permanent
 firewall-cmd --zone=public --add-port=80/tcp --permanent
 firewall-cmd --zone=public --add-port=443/tcp --permanent
-
+firewall-cmd --zone=public --permanent --add-service=http
+firewall-cmd --zone=public --permanent --add-service=https
 firewall-cmd --reload
 
 sshd_conf=/etc/ssh/sshd_config
