@@ -1,0 +1,540 @@
+{
+    "questions": [
+        {
+            "num": 2201,
+            "title": "Count Artifacts That Can Be Extracted",
+            "lo_title": "count-artifacts-that-can-be-extracted",
+            "link": "https://leetcode.com/problems//problems/count-artifacts-that-can-be-extracted",
+            "level": "Medium",
+            "acrate": "54.0%"
+        },
+        {
+            "num": 2202,
+            "title": "Maximize the Topmost Element After K Moves",
+            "lo_title": "maximize-the-topmost-element-after-k-moves",
+            "link": "https://leetcode.com/problems//problems/maximize-the-topmost-element-after-k-moves",
+            "level": "Medium",
+            "acrate": "22.0%"
+        },
+        {
+            "num": 2203,
+            "title": "Minimum Weighted Subgraph With the Required Paths",
+            "lo_title": "minimum-weighted-subgraph-with-the-required-paths",
+            "link": "https://leetcode.com/problems//problems/minimum-weighted-subgraph-with-the-required-paths",
+            "level": "Hard",
+            "acrate": "35.2%"
+        },
+        {
+            "num": 2204,
+            "title": "Distance to a Cycle in Undirected Graph",
+            "lo_title": "distance-to-a-cycle-in-undirected-graph",
+            "link": "https://leetcode.com/problems//problems/distance-to-a-cycle-in-undirected-graph",
+            "level": "Hard",
+            "acrate": "69.5%"
+        },
+        {
+            "num": 2205,
+            "title": "The Number of Users That Are Eligible for Discount",
+            "lo_title": "the-number-of-users-that-are-eligible-for-discount",
+            "link": "https://leetcode.com/problems//problems/the-number-of-users-that-are-eligible-for-discount",
+            "level": "Easy",
+            "acrate": "47.6%"
+        },
+        {
+            "num": 2206,
+            "title": "Divide Array Into Equal Pairs",
+            "lo_title": "divide-array-into-equal-pairs",
+            "link": "https://leetcode.com/problems//problems/divide-array-into-equal-pairs",
+            "level": "Easy",
+            "acrate": "76.9%"
+        },
+        {
+            "num": 2207,
+            "title": "Maximize Number of Subsequences in a String",
+            "lo_title": "maximize-number-of-subsequences-in-a-string",
+            "link": "https://leetcode.com/problems//problems/maximize-number-of-subsequences-in-a-string",
+            "level": "Medium",
+            "acrate": "31.0%"
+        },
+        {
+            "num": 2208,
+            "title": "Minimum Operations to Halve Array Sum",
+            "lo_title": "minimum-operations-to-halve-array-sum",
+            "link": "https://leetcode.com/problems//problems/minimum-operations-to-halve-array-sum",
+            "level": "Medium",
+            "acrate": "43.6%"
+        },
+        {
+            "num": 2209,
+            "title": "Minimum White Tiles After Covering With Carpets",
+            "lo_title": "minimum-white-tiles-after-covering-with-carpets",
+            "link": "https://leetcode.com/problems//problems/minimum-white-tiles-after-covering-with-carpets",
+            "level": "Hard",
+            "acrate": "31.7%"
+        },
+        {
+            "num": 2210,
+            "title": "Count Hills and Valleys in an Array",
+            "lo_title": "count-hills-and-valleys-in-an-array",
+            "link": "https://leetcode.com/problems//problems/count-hills-and-valleys-in-an-array",
+            "level": "Easy",
+            "acrate": "56.5%"
+        },
+        {
+            "num": 2211,
+            "title": "Count Collisions on a Road",
+            "lo_title": "count-collisions-on-a-road",
+            "link": "https://leetcode.com/problems//problems/count-collisions-on-a-road",
+            "level": "Medium",
+            "acrate": "40.0%"
+        },
+        {
+            "num": 2212,
+            "title": "Maximum Points in an Archery Competition",
+            "lo_title": "maximum-points-in-an-archery-competition",
+            "link": "https://leetcode.com/problems//problems/maximum-points-in-an-archery-competition",
+            "level": "Medium",
+            "acrate": "47.4%"
+        },
+        {
+            "num": 2213,
+            "title": "Longest Substring of One Repeating Character",
+            "lo_title": "longest-substring-of-one-repeating-character",
+            "link": "https://leetcode.com/problems//problems/longest-substring-of-one-repeating-character",
+            "level": "Hard",
+            "acrate": "28.5%"
+        },
+        {
+            "num": 2214,
+            "title": "Minimum Health to Beat Game",
+            "lo_title": "minimum-health-to-beat-game",
+            "link": "https://leetcode.com/problems//problems/minimum-health-to-beat-game",
+            "level": "Medium",
+            "acrate": "57.5%"
+        },
+        {
+            "num": 2215,
+            "title": "Find the Difference of Two Arrays",
+            "lo_title": "find-the-difference-of-two-arrays",
+            "link": "https://leetcode.com/problems//problems/find-the-difference-of-two-arrays",
+            "level": "Easy",
+            "acrate": "69.0%"
+        },
+        {
+            "num": 2216,
+            "title": "Minimum Deletions to Make Array Beautiful",
+            "lo_title": "minimum-deletions-to-make-array-beautiful",
+            "link": "https://leetcode.com/problems//problems/minimum-deletions-to-make-array-beautiful",
+            "level": "Medium",
+            "acrate": "43.9%"
+        },
+        {
+            "num": 2217,
+            "title": "Find Palindrome With Fixed Length",
+            "lo_title": "find-palindrome-with-fixed-length",
+            "link": "https://leetcode.com/problems//problems/find-palindrome-with-fixed-length",
+            "level": "Medium",
+            "acrate": "34.2%"
+        },
+        {
+            "num": 2218,
+            "title": "Maximum Value of K Coins From Piles",
+            "lo_title": "maximum-value-of-k-coins-from-piles",
+            "link": "https://leetcode.com/problems//problems/maximum-value-of-k-coins-from-piles",
+            "level": "Hard",
+            "acrate": "49.0%"
+        },
+        {
+            "num": 2219,
+            "title": "Maximum Sum Score of Array",
+            "lo_title": "maximum-sum-score-of-array",
+            "link": "https://leetcode.com/problems//problems/maximum-sum-score-of-array",
+            "level": "Medium",
+            "acrate": "65.7%"
+        },
+        {
+            "num": 2220,
+            "title": "Minimum Bit Flips to Convert Number",
+            "lo_title": "minimum-bit-flips-to-convert-number",
+            "link": "https://leetcode.com/problems//problems/minimum-bit-flips-to-convert-number",
+            "level": "Easy",
+            "acrate": "81.2%"
+        },
+        {
+            "num": 2221,
+            "title": "Find Triangular Sum of an Array",
+            "lo_title": "find-triangular-sum-of-an-array",
+            "link": "https://leetcode.com/problems//problems/find-triangular-sum-of-an-array",
+            "level": "Medium",
+            "acrate": "79.1%"
+        },
+        {
+            "num": 2222,
+            "title": "Number of Ways to Select Buildings",
+            "lo_title": "number-of-ways-to-select-buildings",
+            "link": "https://leetcode.com/problems//problems/number-of-ways-to-select-buildings",
+            "level": "Medium",
+            "acrate": "45.4%"
+        },
+        {
+            "num": 2223,
+            "title": "Sum of Scores of Built Strings",
+            "lo_title": "sum-of-scores-of-built-strings",
+            "link": "https://leetcode.com/problems//problems/sum-of-scores-of-built-strings",
+            "level": "Hard",
+            "acrate": "33.6%"
+        },
+        {
+            "num": 2224,
+            "title": "Minimum Number of Operations to Convert Time",
+            "lo_title": "minimum-number-of-operations-to-convert-time",
+            "link": "https://leetcode.com/problems//problems/minimum-number-of-operations-to-convert-time",
+            "level": "Easy",
+            "acrate": "62.5%"
+        },
+        {
+            "num": 2225,
+            "title": "Find Players With Zero or One Losses",
+            "lo_title": "find-players-with-zero-or-one-losses",
+            "link": "https://leetcode.com/problems//problems/find-players-with-zero-or-one-losses",
+            "level": "Medium",
+            "acrate": "67.7%"
+        },
+        {
+            "num": 2226,
+            "title": "Maximum Candies Allocated to K Children",
+            "lo_title": "maximum-candies-allocated-to-k-children",
+            "link": "https://leetcode.com/problems//problems/maximum-candies-allocated-to-k-children",
+            "level": "Medium",
+            "acrate": "34.9%"
+        },
+        {
+            "num": 2227,
+            "title": "Encrypt and Decrypt Strings",
+            "lo_title": "encrypt-and-decrypt-strings",
+            "link": "https://leetcode.com/problems//problems/encrypt-and-decrypt-strings",
+            "level": "Hard",
+            "acrate": "38.1%"
+        },
+        {
+            "num": 2228,
+            "title": "Users With Two Purchases Within Seven Days",
+            "lo_title": "users-with-two-purchases-within-seven-days",
+            "link": "https://leetcode.com/problems//problems/users-with-two-purchases-within-seven-days",
+            "level": "Medium",
+            "acrate": "46.9%"
+        },
+        {
+            "num": 2229,
+            "title": "Check if an Array Is Consecutive",
+            "lo_title": "check-if-an-array-is-consecutive",
+            "link": "https://leetcode.com/problems//problems/check-if-an-array-is-consecutive",
+            "level": "Easy",
+            "acrate": "62.9%"
+        },
+        {
+            "num": 2230,
+            "title": "The Users That Are Eligible for Discount",
+            "lo_title": "the-users-that-are-eligible-for-discount",
+            "link": "https://leetcode.com/problems//problems/the-users-that-are-eligible-for-discount",
+            "level": "Easy",
+            "acrate": "50.7%"
+        },
+        {
+            "num": 2231,
+            "title": "Largest Number After Digit Swaps by Parity",
+            "lo_title": "largest-number-after-digit-swaps-by-parity",
+            "link": "https://leetcode.com/problems//problems/largest-number-after-digit-swaps-by-parity",
+            "level": "Easy",
+            "acrate": "57.6%"
+        },
+        {
+            "num": 2232,
+            "title": "Minimize Result by Adding Parentheses to Expression",
+            "lo_title": "minimize-result-by-adding-parentheses-to-expression",
+            "link": "https://leetcode.com/problems//problems/minimize-result-by-adding-parentheses-to-expression",
+            "level": "Medium",
+            "acrate": "63.4%"
+        },
+        {
+            "num": 2233,
+            "title": "Maximum Product After K Increments",
+            "lo_title": "maximum-product-after-k-increments",
+            "link": "https://leetcode.com/problems//problems/maximum-product-after-k-increments",
+            "level": "Medium",
+            "acrate": "39.4%"
+        },
+        {
+            "num": 2234,
+            "title": "Maximum Total Beauty of the Gardens",
+            "lo_title": "maximum-total-beauty-of-the-gardens",
+            "link": "https://leetcode.com/problems//problems/maximum-total-beauty-of-the-gardens",
+            "level": "Hard",
+            "acrate": "25.7%"
+        },
+        {
+            "num": 2235,
+            "title": "Add Two Integers",
+            "lo_title": "add-two-integers",
+            "link": "https://leetcode.com/problems//problems/add-two-integers",
+            "level": "Easy",
+            "acrate": "93.0%"
+        },
+        {
+            "num": 2236,
+            "title": "Root Equals Sum of Children",
+            "lo_title": "root-equals-sum-of-children",
+            "link": "https://leetcode.com/problems//problems/root-equals-sum-of-children",
+            "level": "Easy",
+            "acrate": "89.8%"
+        },
+        {
+            "num": 2237,
+            "title": "Count Positions on Street With Required Brightness",
+            "lo_title": "count-positions-on-street-with-required-brightness",
+            "link": "https://leetcode.com/problems//problems/count-positions-on-street-with-required-brightness",
+            "level": "Medium",
+            "acrate": "71.9%"
+        },
+        {
+            "num": 2238,
+            "title": "Number of Times a Driver Was a Passenger",
+            "lo_title": "number-of-times-a-driver-was-a-passenger",
+            "link": "https://leetcode.com/problems//problems/number-of-times-a-driver-was-a-passenger",
+            "level": "Medium",
+            "acrate": "78.0%"
+        },
+        {
+            "num": 2239,
+            "title": "Find Closest Number to Zero",
+            "lo_title": "find-closest-number-to-zero",
+            "link": "https://leetcode.com/problems//problems/find-closest-number-to-zero",
+            "level": "Easy",
+            "acrate": "46.4%"
+        },
+        {
+            "num": 2240,
+            "title": "Number of Ways to Buy Pens and Pencils",
+            "lo_title": "number-of-ways-to-buy-pens-and-pencils",
+            "link": "https://leetcode.com/problems//problems/number-of-ways-to-buy-pens-and-pencils",
+            "level": "Medium",
+            "acrate": "54.9%"
+        },
+        {
+            "num": 2241,
+            "title": "Design an ATM Machine",
+            "lo_title": "design-an-atm-machine",
+            "link": "https://leetcode.com/problems//problems/design-an-atm-machine",
+            "level": "Medium",
+            "acrate": "36.6%"
+        },
+        {
+            "num": 2242,
+            "title": "Maximum Score of a Node Sequence",
+            "lo_title": "maximum-score-of-a-node-sequence",
+            "link": "https://leetcode.com/problems//problems/maximum-score-of-a-node-sequence",
+            "level": "Hard",
+            "acrate": "31.4%"
+        },
+        {
+            "num": 2243,
+            "title": "Calculate Digit Sum of a String",
+            "lo_title": "calculate-digit-sum-of-a-string",
+            "link": "https://leetcode.com/problems//problems/calculate-digit-sum-of-a-string",
+            "level": "Easy",
+            "acrate": "66.0%"
+        },
+        {
+            "num": 2244,
+            "title": "Minimum Rounds to Complete All Tasks",
+            "lo_title": "minimum-rounds-to-complete-all-tasks",
+            "link": "https://leetcode.com/problems//problems/minimum-rounds-to-complete-all-tasks",
+            "level": "Medium",
+            "acrate": "54.1%"
+        },
+        {
+            "num": 2245,
+            "title": "Maximum Trailing Zeros in a Cornered Path",
+            "lo_title": "maximum-trailing-zeros-in-a-cornered-path",
+            "link": "https://leetcode.com/problems//problems/maximum-trailing-zeros-in-a-cornered-path",
+            "level": "Medium",
+            "acrate": "33.8%"
+        },
+        {
+            "num": 2246,
+            "title": "Longest Path With Different Adjacent Characters",
+            "lo_title": "longest-path-with-different-adjacent-characters",
+            "link": "https://leetcode.com/problems//problems/longest-path-with-different-adjacent-characters",
+            "level": "Hard",
+            "acrate": "43.2%"
+        },
+        {
+            "num": 2247,
+            "title": "Maximum Cost of Trip With K Highways",
+            "lo_title": "maximum-cost-of-trip-with-k-highways",
+            "link": "https://leetcode.com/problems//problems/maximum-cost-of-trip-with-k-highways",
+            "level": "Hard",
+            "acrate": "52.4%"
+        },
+        {
+            "num": 2248,
+            "title": "Intersection of Multiple Arrays",
+            "lo_title": "intersection-of-multiple-arrays",
+            "link": "https://leetcode.com/problems//problems/intersection-of-multiple-arrays",
+            "level": "Easy",
+            "acrate": "69.7%"
+        },
+        {
+            "num": 2249,
+            "title": "Count Lattice Points Inside a Circle",
+            "lo_title": "count-lattice-points-inside-a-circle",
+            "link": "https://leetcode.com/problems//problems/count-lattice-points-inside-a-circle",
+            "level": "Medium",
+            "acrate": "49.9%"
+        },
+        {
+            "num": 2250,
+            "title": "Count Number of Rectangles Containing Each Point",
+            "lo_title": "count-number-of-rectangles-containing-each-point",
+            "link": "https://leetcode.com/problems//problems/count-number-of-rectangles-containing-each-point",
+            "level": "Medium",
+            "acrate": "31.5%"
+        },
+        {
+            "num": 2251,
+            "title": "Number of Flowers in Full Bloom",
+            "lo_title": "number-of-flowers-in-full-bloom",
+            "link": "https://leetcode.com/problems//problems/number-of-flowers-in-full-bloom",
+            "level": "Hard",
+            "acrate": "49.9%"
+        },
+        {
+            "num": 2252,
+            "title": "Dynamic Pivoting of a Table",
+            "lo_title": "dynamic-pivoting-of-a-table",
+            "link": "https://leetcode.com/problems//problems/dynamic-pivoting-of-a-table",
+            "level": "Hard",
+            "acrate": "56.8%"
+        },
+        {
+            "num": 2253,
+            "title": "Dynamic Unpivoting of a Table",
+            "lo_title": "dynamic-unpivoting-of-a-table",
+            "link": "https://leetcode.com/problems//problems/dynamic-unpivoting-of-a-table",
+            "level": "Hard",
+            "acrate": "59.0%"
+        },
+        {
+            "num": 2254,
+            "title": "Design Video Sharing Platform",
+            "lo_title": "design-video-sharing-platform",
+            "link": "https://leetcode.com/problems//problems/design-video-sharing-platform",
+            "level": "Hard",
+            "acrate": "68.6%"
+        },
+        {
+            "num": 2255,
+            "title": "Count Prefixes of a Given String",
+            "lo_title": "count-prefixes-of-a-given-string",
+            "link": "https://leetcode.com/problems//problems/count-prefixes-of-a-given-string",
+            "level": "Easy",
+            "acrate": "70.9%"
+        },
+        {
+            "num": 2256,
+            "title": "Minimum Average Difference",
+            "lo_title": "minimum-average-difference",
+            "link": "https://leetcode.com/problems//problems/minimum-average-difference",
+            "level": "Medium",
+            "acrate": "34.4%"
+        },
+        {
+            "num": 2257,
+            "title": "Count Unguarded Cells in the Grid",
+            "lo_title": "count-unguarded-cells-in-the-grid",
+            "link": "https://leetcode.com/problems//problems/count-unguarded-cells-in-the-grid",
+            "level": "Medium",
+            "acrate": "49.8%"
+        },
+        {
+            "num": 2258,
+            "title": "Escape the Spreading Fire",
+            "lo_title": "escape-the-spreading-fire",
+            "link": "https://leetcode.com/problems//problems/escape-the-spreading-fire",
+            "level": "Hard",
+            "acrate": "32.9%"
+        },
+        {
+            "num": 2259,
+            "title": "Remove Digit From Number to Maximize Result",
+            "lo_title": "remove-digit-from-number-to-maximize-result",
+            "link": "https://leetcode.com/problems//problems/remove-digit-from-number-to-maximize-result",
+            "level": "Easy",
+            "acrate": "45.7%"
+        },
+        {
+            "num": 2260,
+            "title": "Minimum Consecutive Cards to Pick Up",
+            "lo_title": "minimum-consecutive-cards-to-pick-up",
+            "link": "https://leetcode.com/problems//problems/minimum-consecutive-cards-to-pick-up",
+            "level": "Medium",
+            "acrate": "53.9%"
+        },
+        {
+            "num": 2261,
+            "title": "K Divisible Elements Subarrays",
+            "lo_title": "k-divisible-elements-subarrays",
+            "link": "https://leetcode.com/problems//problems/k-divisible-elements-subarrays",
+            "level": "Medium",
+            "acrate": "44.7%"
+        },
+        {
+            "num": 2262,
+            "title": "Total Appeal of A String",
+            "lo_title": "total-appeal-of-a-string",
+            "link": "https://leetcode.com/problems//problems/total-appeal-of-a-string",
+            "level": "Hard",
+            "acrate": "50.5%"
+        },
+        {
+            "num": 2263,
+            "title": "Make Array Non-decreasing or Non-increasing",
+            "lo_title": "make-array-non-decreasing-or-non-increasing",
+            "link": "https://leetcode.com/problems//problems/make-array-non-decreasing-or-non-increasing",
+            "level": "Hard",
+            "acrate": "67.9%"
+        },
+        {
+            "num": 2264,
+            "title": "Largest 3-Same-Digit Number in String",
+            "lo_title": "largest-3-same-digit-number-in-string",
+            "link": "https://leetcode.com/problems//problems/largest-3-same-digit-number-in-string",
+            "level": "Easy",
+            "acrate": "58.5%"
+        },
+        {
+            "num": 2265,
+            "title": "Count Nodes Equal to Average of Subtree",
+            "lo_title": "count-nodes-equal-to-average-of-subtree",
+            "link": "https://leetcode.com/problems//problems/count-nodes-equal-to-average-of-subtree",
+            "level": "Medium",
+            "acrate": "84.3%"
+        },
+        {
+            "num": 2266,
+            "title": "Count Number of Texts",
+            "lo_title": "count-number-of-texts",
+            "link": "https://leetcode.com/problems//problems/count-number-of-texts",
+            "level": "Medium",
+            "acrate": "47.6%"
+        },
+        {
+            "num": 2267,
+            "title": "Check if There Is a Valid Parentheses String Path",
+            "lo_title": "check-if-there-is-a-valid-parentheses-string-path",
+            "link": "https://leetcode.com/problems//problems/check-if-there-is-a-valid-parentheses-string-path",
+            "level": "Hard",
+            "acrate": "33.8%"
+        }
+    ]
+}
