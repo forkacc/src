@@ -1,0 +1,804 @@
+{
+    "questions": [
+        {
+            "num": 1301,
+            "title": "Number of Paths with Max Score",
+            "lo_title": "number-of-paths-with-max-score",
+            "link": "https://leetcode.com/problems//problems/number-of-paths-with-max-score",
+            "level": "Hard",
+            "acrate": "38.8%"
+        },
+        {
+            "num": 1302,
+            "title": "Deepest Leaves Sum",
+            "lo_title": "deepest-leaves-sum",
+            "link": "https://leetcode.com/problems//problems/deepest-leaves-sum",
+            "level": "Medium",
+            "acrate": "85.7%"
+        },
+        {
+            "num": 1303,
+            "title": "Find the Team Size",
+            "lo_title": "find-the-team-size",
+            "link": "https://leetcode.com/problems//problems/find-the-team-size",
+            "level": "Easy",
+            "acrate": "90.8%"
+        },
+        {
+            "num": 1304,
+            "title": "Find N Unique Integers Sum up to Zero",
+            "lo_title": "find-n-unique-integers-sum-up-to-zero",
+            "link": "https://leetcode.com/problems//problems/find-n-unique-integers-sum-up-to-zero",
+            "level": "Easy",
+            "acrate": "77.0%"
+        },
+        {
+            "num": 1305,
+            "title": "All Elements in Two Binary Search Trees",
+            "lo_title": "all-elements-in-two-binary-search-trees",
+            "link": "https://leetcode.com/problems//problems/all-elements-in-two-binary-search-trees",
+            "level": "Medium",
+            "acrate": "79.6%"
+        },
+        {
+            "num": 1306,
+            "title": "Jump Game III",
+            "lo_title": "jump-game-iii",
+            "link": "https://leetcode.com/problems//problems/jump-game-iii",
+            "level": "Medium",
+            "acrate": "62.8%"
+        },
+        {
+            "num": 1307,
+            "title": "Verbal Arithmetic Puzzle",
+            "lo_title": "verbal-arithmetic-puzzle",
+            "link": "https://leetcode.com/problems//problems/verbal-arithmetic-puzzle",
+            "level": "Hard",
+            "acrate": "34.7%"
+        },
+        {
+            "num": 1308,
+            "title": "Running Total for Different Genders",
+            "lo_title": "running-total-for-different-genders",
+            "link": "https://leetcode.com/problems//problems/running-total-for-different-genders",
+            "level": "Medium",
+            "acrate": "88.3%"
+        },
+        {
+            "num": 1309,
+            "title": "Decrypt String from Alphabet to Integer Mapping",
+            "lo_title": "decrypt-string-from-alphabet-to-integer-mapping",
+            "link": "https://leetcode.com/problems//problems/decrypt-string-from-alphabet-to-integer-mapping",
+            "level": "Easy",
+            "acrate": "78.8%"
+        },
+        {
+            "num": 1310,
+            "title": "XOR Queries of a Subarray",
+            "lo_title": "xor-queries-of-a-subarray",
+            "link": "https://leetcode.com/problems//problems/xor-queries-of-a-subarray",
+            "level": "Medium",
+            "acrate": "71.2%"
+        },
+        {
+            "num": 1311,
+            "title": "Get Watched Videos by Your Friends",
+            "lo_title": "get-watched-videos-by-your-friends",
+            "link": "https://leetcode.com/problems//problems/get-watched-videos-by-your-friends",
+            "level": "Medium",
+            "acrate": "45.2%"
+        },
+        {
+            "num": 1312,
+            "title": "Minimum Insertion Steps to Make a String Palindrome",
+            "lo_title": "minimum-insertion-steps-to-make-a-string-palindrome",
+            "link": "https://leetcode.com/problems//problems/minimum-insertion-steps-to-make-a-string-palindrome",
+            "level": "Hard",
+            "acrate": "63.8%"
+        },
+        {
+            "num": 1313,
+            "title": "Decompress Run-Length Encoded List",
+            "lo_title": "decompress-run-length-encoded-list",
+            "link": "https://leetcode.com/problems//problems/decompress-run-length-encoded-list",
+            "level": "Easy",
+            "acrate": "85.9%"
+        },
+        {
+            "num": 1314,
+            "title": "Matrix Block Sum",
+            "lo_title": "matrix-block-sum",
+            "link": "https://leetcode.com/problems//problems/matrix-block-sum",
+            "level": "Medium",
+            "acrate": "75.2%"
+        },
+        {
+            "num": 1315,
+            "title": "Sum of Nodes with Even-Valued Grandparent",
+            "lo_title": "sum-of-nodes-with-even-valued-grandparent",
+            "link": "https://leetcode.com/problems//problems/sum-of-nodes-with-even-valued-grandparent",
+            "level": "Medium",
+            "acrate": "85.2%"
+        },
+        {
+            "num": 1316,
+            "title": "Distinct Echo Substrings",
+            "lo_title": "distinct-echo-substrings",
+            "link": "https://leetcode.com/problems//problems/distinct-echo-substrings",
+            "level": "Hard",
+            "acrate": "50.0%"
+        },
+        {
+            "num": 1317,
+            "title": "Convert Integer to the Sum of Two No-Zero Integers",
+            "lo_title": "convert-integer-to-the-sum-of-two-no-zero-integers",
+            "link": "https://leetcode.com/problems//problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+            "level": "Easy",
+            "acrate": "56.9%"
+        },
+        {
+            "num": 1318,
+            "title": "Minimum Flips to Make a OR b Equal to c",
+            "lo_title": "minimum-flips-to-make-a-or-b-equal-to-c",
+            "link": "https://leetcode.com/problems//problems/minimum-flips-to-make-a-or-b-equal-to-c",
+            "level": "Medium",
+            "acrate": "65.4%"
+        },
+        {
+            "num": 1319,
+            "title": "Number of Operations to Make Network Connected",
+            "lo_title": "number-of-operations-to-make-network-connected",
+            "link": "https://leetcode.com/problems//problems/number-of-operations-to-make-network-connected",
+            "level": "Medium",
+            "acrate": "57.8%"
+        },
+        {
+            "num": 1320,
+            "title": "Minimum Distance to Type a Word Using Two Fingers",
+            "lo_title": "minimum-distance-to-type-a-word-using-two-fingers",
+            "link": "https://leetcode.com/problems//problems/minimum-distance-to-type-a-word-using-two-fingers",
+            "level": "Hard",
+            "acrate": "60.3%"
+        },
+        {
+            "num": 1321,
+            "title": "Restaurant Growth",
+            "lo_title": "restaurant-growth",
+            "link": "https://leetcode.com/problems//problems/restaurant-growth",
+            "level": "Medium",
+            "acrate": "72.5%"
+        },
+        {
+            "num": 1322,
+            "title": "Ads Performance",
+            "lo_title": "ads-performance",
+            "link": "https://leetcode.com/problems//problems/ads-performance",
+            "level": "Easy",
+            "acrate": "60.2%"
+        },
+        {
+            "num": 1323,
+            "title": "Maximum 69 Number",
+            "lo_title": "maximum-69-number",
+            "link": "https://leetcode.com/problems//problems/maximum-69-number",
+            "level": "Easy",
+            "acrate": "78.9%"
+        },
+        {
+            "num": 1324,
+            "title": "Print Words Vertically",
+            "lo_title": "print-words-vertically",
+            "link": "https://leetcode.com/problems//problems/print-words-vertically",
+            "level": "Medium",
+            "acrate": "59.7%"
+        },
+        {
+            "num": 1325,
+            "title": "Delete Leaves With a Given Value",
+            "lo_title": "delete-leaves-with-a-given-value",
+            "link": "https://leetcode.com/problems//problems/delete-leaves-with-a-given-value",
+            "level": "Medium",
+            "acrate": "74.8%"
+        },
+        {
+            "num": 1326,
+            "title": "Minimum Number of Taps to Open to Water a Garden",
+            "lo_title": "minimum-number-of-taps-to-open-to-water-a-garden",
+            "link": "https://leetcode.com/problems//problems/minimum-number-of-taps-to-open-to-water-a-garden",
+            "level": "Hard",
+            "acrate": "48.1%"
+        },
+        {
+            "num": 1327,
+            "title": "List the Products Ordered in a Period",
+            "lo_title": "list-the-products-ordered-in-a-period",
+            "link": "https://leetcode.com/problems//problems/list-the-products-ordered-in-a-period",
+            "level": "Easy",
+            "acrate": "77.1%"
+        },
+        {
+            "num": 1328,
+            "title": "Break a Palindrome",
+            "lo_title": "break-a-palindrome",
+            "link": "https://leetcode.com/problems//problems/break-a-palindrome",
+            "level": "Medium",
+            "acrate": "52.3%"
+        },
+        {
+            "num": 1329,
+            "title": "Sort the Matrix Diagonally",
+            "lo_title": "sort-the-matrix-diagonally",
+            "link": "https://leetcode.com/problems//problems/sort-the-matrix-diagonally",
+            "level": "Medium",
+            "acrate": "81.4%"
+        },
+        {
+            "num": 1330,
+            "title": "Reverse Subarray To Maximize Array Value",
+            "lo_title": "reverse-subarray-to-maximize-array-value",
+            "link": "https://leetcode.com/problems//problems/reverse-subarray-to-maximize-array-value",
+            "level": "Hard",
+            "acrate": "39.0%"
+        },
+        {
+            "num": 1331,
+            "title": "Rank Transform of an Array",
+            "lo_title": "rank-transform-of-an-array",
+            "link": "https://leetcode.com/problems//problems/rank-transform-of-an-array",
+            "level": "Easy",
+            "acrate": "58.5%"
+        },
+        {
+            "num": 1332,
+            "title": "Remove Palindromic Subsequences",
+            "lo_title": "remove-palindromic-subsequences",
+            "link": "https://leetcode.com/problems//problems/remove-palindromic-subsequences",
+            "level": "Easy",
+            "acrate": "69.6%"
+        },
+        {
+            "num": 1333,
+            "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+            "lo_title": "filter-restaurants-by-vegan-friendly-price-and-distance",
+            "link": "https://leetcode.com/problems//problems/filter-restaurants-by-vegan-friendly-price-and-distance",
+            "level": "Medium",
+            "acrate": "58.9%"
+        },
+        {
+            "num": 1334,
+            "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+            "lo_title": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+            "link": "https://leetcode.com/problems//problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+            "level": "Medium",
+            "acrate": "51.3%"
+        },
+        {
+            "num": 1335,
+            "title": "Minimum Difficulty of a Job Schedule",
+            "lo_title": "minimum-difficulty-of-a-job-schedule",
+            "link": "https://leetcode.com/problems//problems/minimum-difficulty-of-a-job-schedule",
+            "level": "Hard",
+            "acrate": "56.5%"
+        },
+        {
+            "num": 1336,
+            "title": "Number of Transactions per Visit",
+            "lo_title": "number-of-transactions-per-visit",
+            "link": "https://leetcode.com/problems//problems/number-of-transactions-per-visit",
+            "level": "Hard",
+            "acrate": "51.4%"
+        },
+        {
+            "num": 1337,
+            "title": "The K Weakest Rows in a Matrix",
+            "lo_title": "the-k-weakest-rows-in-a-matrix",
+            "link": "https://leetcode.com/problems//problems/the-k-weakest-rows-in-a-matrix",
+            "level": "Easy",
+            "acrate": "74.3%"
+        },
+        {
+            "num": 1338,
+            "title": "Reduce Array Size to The Half",
+            "lo_title": "reduce-array-size-to-the-half",
+            "link": "https://leetcode.com/problems//problems/reduce-array-size-to-the-half",
+            "level": "Medium",
+            "acrate": "68.4%"
+        },
+        {
+            "num": 1339,
+            "title": "Maximum Product of Splitted Binary Tree",
+            "lo_title": "maximum-product-of-splitted-binary-tree",
+            "link": "https://leetcode.com/problems//problems/maximum-product-of-splitted-binary-tree",
+            "level": "Medium",
+            "acrate": "43.0%"
+        },
+        {
+            "num": 1340,
+            "title": "Jump Game V",
+            "lo_title": "jump-game-v",
+            "link": "https://leetcode.com/problems//problems/jump-game-v",
+            "level": "Hard",
+            "acrate": "62.1%"
+        },
+        {
+            "num": 1341,
+            "title": "Movie Rating",
+            "lo_title": "movie-rating",
+            "link": "https://leetcode.com/problems//problems/movie-rating",
+            "level": "Medium",
+            "acrate": "58.2%"
+        },
+        {
+            "num": 1342,
+            "title": "Number of Steps to Reduce a Number to Zero",
+            "lo_title": "number-of-steps-to-reduce-a-number-to-zero",
+            "link": "https://leetcode.com/problems//problems/number-of-steps-to-reduce-a-number-to-zero",
+            "level": "Easy",
+            "acrate": "85.6%"
+        },
+        {
+            "num": 1343,
+            "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+            "lo_title": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+            "link": "https://leetcode.com/problems//problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+            "level": "Medium",
+            "acrate": "68.0%"
+        },
+        {
+            "num": 1344,
+            "title": "Angle Between Hands of a Clock",
+            "lo_title": "angle-between-hands-of-a-clock",
+            "link": "https://leetcode.com/problems//problems/angle-between-hands-of-a-clock",
+            "level": "Medium",
+            "acrate": "63.3%"
+        },
+        {
+            "num": 1345,
+            "title": "Jump Game IV",
+            "lo_title": "jump-game-iv",
+            "link": "https://leetcode.com/problems//problems/jump-game-iv",
+            "level": "Hard",
+            "acrate": "44.4%"
+        },
+        {
+            "num": 1346,
+            "title": "Check If N and Its Double Exist",
+            "lo_title": "check-if-n-and-its-double-exist",
+            "link": "https://leetcode.com/problems//problems/check-if-n-and-its-double-exist",
+            "level": "Easy",
+            "acrate": "35.7%"
+        },
+        {
+            "num": 1347,
+            "title": "Minimum Number of Steps to Make Two Strings Anagram",
+            "lo_title": "minimum-number-of-steps-to-make-two-strings-anagram",
+            "link": "https://leetcode.com/problems//problems/minimum-number-of-steps-to-make-two-strings-anagram",
+            "level": "Medium",
+            "acrate": "76.4%"
+        },
+        {
+            "num": 1348,
+            "title": "Tweet Counts Per Frequency",
+            "lo_title": "tweet-counts-per-frequency",
+            "link": "https://leetcode.com/problems//problems/tweet-counts-per-frequency",
+            "level": "Medium",
+            "acrate": "43.1%"
+        },
+        {
+            "num": 1349,
+            "title": "Maximum Students Taking Exam",
+            "lo_title": "maximum-students-taking-exam",
+            "link": "https://leetcode.com/problems//problems/maximum-students-taking-exam",
+            "level": "Hard",
+            "acrate": "46.9%"
+        },
+        {
+            "num": 1350,
+            "title": "Students With Invalid Departments",
+            "lo_title": "students-with-invalid-departments",
+            "link": "https://leetcode.com/problems//problems/students-with-invalid-departments",
+            "level": "Easy",
+            "acrate": "90.5%"
+        },
+        {
+            "num": 1351,
+            "title": "Count Negative Numbers in a Sorted Matrix",
+            "lo_title": "count-negative-numbers-in-a-sorted-matrix",
+            "link": "https://leetcode.com/problems//problems/count-negative-numbers-in-a-sorted-matrix",
+            "level": "Easy",
+            "acrate": "75.2%"
+        },
+        {
+            "num": 1352,
+            "title": "Product of the Last K Numbers",
+            "lo_title": "product-of-the-last-k-numbers",
+            "link": "https://leetcode.com/problems//problems/product-of-the-last-k-numbers",
+            "level": "Medium",
+            "acrate": "47.9%"
+        },
+        {
+            "num": 1353,
+            "title": "Maximum Number of Events That Can Be Attended",
+            "lo_title": "maximum-number-of-events-that-can-be-attended",
+            "link": "https://leetcode.com/problems//problems/maximum-number-of-events-that-can-be-attended",
+            "level": "Medium",
+            "acrate": "33.4%"
+        },
+        {
+            "num": 1354,
+            "title": "Construct Target Array With Multiple Sums",
+            "lo_title": "construct-target-array-with-multiple-sums",
+            "link": "https://leetcode.com/problems//problems/construct-target-array-with-multiple-sums",
+            "level": "Hard",
+            "acrate": "31.2%"
+        },
+        {
+            "num": 1355,
+            "title": "Activity Participants",
+            "lo_title": "activity-participants",
+            "link": "https://leetcode.com/problems//problems/activity-participants",
+            "level": "Medium",
+            "acrate": "74.6%"
+        },
+        {
+            "num": 1356,
+            "title": "Sort Integers by The Number of 1 Bits",
+            "lo_title": "sort-integers-by-the-number-of-1-bits",
+            "link": "https://leetcode.com/problems//problems/sort-integers-by-the-number-of-1-bits",
+            "level": "Easy",
+            "acrate": "71.4%"
+        },
+        {
+            "num": 1357,
+            "title": "Apply Discount Every n Orders",
+            "lo_title": "apply-discount-every-n-orders",
+            "link": "https://leetcode.com/problems//problems/apply-discount-every-n-orders",
+            "level": "Medium",
+            "acrate": "69.0%"
+        },
+        {
+            "num": 1358,
+            "title": "Number of Substrings Containing All Three Characters",
+            "lo_title": "number-of-substrings-containing-all-three-characters",
+            "link": "https://leetcode.com/problems//problems/number-of-substrings-containing-all-three-characters",
+            "level": "Medium",
+            "acrate": "62.1%"
+        },
+        {
+            "num": 1359,
+            "title": "Count All Valid Pickup and Delivery Options",
+            "lo_title": "count-all-valid-pickup-and-delivery-options",
+            "link": "https://leetcode.com/problems//problems/count-all-valid-pickup-and-delivery-options",
+            "level": "Hard",
+            "acrate": "63.3%"
+        },
+        {
+            "num": 1360,
+            "title": "Number of Days Between Two Dates",
+            "lo_title": "number-of-days-between-two-dates",
+            "link": "https://leetcode.com/problems//problems/number-of-days-between-two-dates",
+            "level": "Easy",
+            "acrate": "46.8%"
+        },
+        {
+            "num": 1361,
+            "title": "Validate Binary Tree Nodes",
+            "lo_title": "validate-binary-tree-nodes",
+            "link": "https://leetcode.com/problems//problems/validate-binary-tree-nodes",
+            "level": "Medium",
+            "acrate": "41.4%"
+        },
+        {
+            "num": 1362,
+            "title": "Closest Divisors",
+            "lo_title": "closest-divisors",
+            "link": "https://leetcode.com/problems//problems/closest-divisors",
+            "level": "Medium",
+            "acrate": "59.1%"
+        },
+        {
+            "num": 1363,
+            "title": "Largest Multiple of Three",
+            "lo_title": "largest-multiple-of-three",
+            "link": "https://leetcode.com/problems//problems/largest-multiple-of-three",
+            "level": "Hard",
+            "acrate": "34.1%"
+        },
+        {
+            "num": 1364,
+            "title": "Number of Trusted Contacts of a Customer",
+            "lo_title": "number-of-trusted-contacts-of-a-customer",
+            "link": "https://leetcode.com/problems//problems/number-of-trusted-contacts-of-a-customer",
+            "level": "Medium",
+            "acrate": "78.8%"
+        },
+        {
+            "num": 1365,
+            "title": "How Many Numbers Are Smaller Than the Current Number",
+            "lo_title": "how-many-numbers-are-smaller-than-the-current-number",
+            "link": "https://leetcode.com/problems//problems/how-many-numbers-are-smaller-than-the-current-number",
+            "level": "Easy",
+            "acrate": "86.4%"
+        },
+        {
+            "num": 1366,
+            "title": "Rank Teams by Votes",
+            "lo_title": "rank-teams-by-votes",
+            "link": "https://leetcode.com/problems//problems/rank-teams-by-votes",
+            "level": "Medium",
+            "acrate": "58.6%"
+        },
+        {
+            "num": 1367,
+            "title": "Linked List in Binary Tree",
+            "lo_title": "linked-list-in-binary-tree",
+            "link": "https://leetcode.com/problems//problems/linked-list-in-binary-tree",
+            "level": "Medium",
+            "acrate": "42.8%"
+        },
+        {
+            "num": 1368,
+            "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+            "lo_title": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+            "link": "https://leetcode.com/problems//problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+            "level": "Hard",
+            "acrate": "60.7%"
+        },
+        {
+            "num": 1369,
+            "title": "Get the Second Most Recent Activity",
+            "lo_title": "get-the-second-most-recent-activity",
+            "link": "https://leetcode.com/problems//problems/get-the-second-most-recent-activity",
+            "level": "Hard",
+            "acrate": "68.9%"
+        },
+        {
+            "num": 1370,
+            "title": "Increasing Decreasing String",
+            "lo_title": "increasing-decreasing-string",
+            "link": "https://leetcode.com/problems//problems/increasing-decreasing-string",
+            "level": "Easy",
+            "acrate": "77.8%"
+        },
+        {
+            "num": 1371,
+            "title": "Find the Longest Substring Containing Vowels in Even Counts",
+            "lo_title": "find-the-longest-substring-containing-vowels-in-even-counts",
+            "link": "https://leetcode.com/problems//problems/find-the-longest-substring-containing-vowels-in-even-counts",
+            "level": "Medium",
+            "acrate": "62.6%"
+        },
+        {
+            "num": 1372,
+            "title": "Longest ZigZag Path in a Binary Tree",
+            "lo_title": "longest-zigzag-path-in-a-binary-tree",
+            "link": "https://leetcode.com/problems//problems/longest-zigzag-path-in-a-binary-tree",
+            "level": "Medium",
+            "acrate": "58.4%"
+        },
+        {
+            "num": 1373,
+            "title": "Maximum Sum BST in Binary Tree",
+            "lo_title": "maximum-sum-bst-in-binary-tree",
+            "link": "https://leetcode.com/problems//problems/maximum-sum-bst-in-binary-tree",
+            "level": "Hard",
+            "acrate": "38.7%"
+        },
+        {
+            "num": 1374,
+            "title": "Generate a String With Characters That Have Odd Counts",
+            "lo_title": "generate-a-string-with-characters-that-have-odd-counts",
+            "link": "https://leetcode.com/problems//problems/generate-a-string-with-characters-that-have-odd-counts",
+            "level": "Easy",
+            "acrate": "77.4%"
+        },
+        {
+            "num": 1375,
+            "title": "Number of Times Binary String Is Prefix-Aligned",
+            "lo_title": "number-of-times-binary-string-is-prefix-aligned",
+            "link": "https://leetcode.com/problems//problems/number-of-times-binary-string-is-prefix-aligned",
+            "level": "Medium",
+            "acrate": "65.7%"
+        },
+        {
+            "num": 1376,
+            "title": "Time Needed to Inform All Employees",
+            "lo_title": "time-needed-to-inform-all-employees",
+            "link": "https://leetcode.com/problems//problems/time-needed-to-inform-all-employees",
+            "level": "Medium",
+            "acrate": "58.1%"
+        },
+        {
+            "num": 1377,
+            "title": "Frog Position After T Seconds",
+            "lo_title": "frog-position-after-t-seconds",
+            "link": "https://leetcode.com/problems//problems/frog-position-after-t-seconds",
+            "level": "Hard",
+            "acrate": "36.3%"
+        },
+        {
+            "num": 1378,
+            "title": "Replace Employee ID With The Unique Identifier",
+            "lo_title": "replace-employee-id-with-the-unique-identifier",
+            "link": "https://leetcode.com/problems//problems/replace-employee-id-with-the-unique-identifier",
+            "level": "Easy",
+            "acrate": "91.2%"
+        },
+        {
+            "num": 1379,
+            "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+            "lo_title": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+            "link": "https://leetcode.com/problems//problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+            "level": "Medium",
+            "acrate": "85.5%"
+        },
+        {
+            "num": 1380,
+            "title": "Lucky Numbers in a Matrix",
+            "lo_title": "lucky-numbers-in-a-matrix",
+            "link": "https://leetcode.com/problems//problems/lucky-numbers-in-a-matrix",
+            "level": "Easy",
+            "acrate": "70.9%"
+        },
+        {
+            "num": 1381,
+            "title": "Design a Stack With Increment Operation",
+            "lo_title": "design-a-stack-with-increment-operation",
+            "link": "https://leetcode.com/problems//problems/design-a-stack-with-increment-operation",
+            "level": "Medium",
+            "acrate": "77.1%"
+        },
+        {
+            "num": 1382,
+            "title": "Balance a Binary Search Tree",
+            "lo_title": "balance-a-binary-search-tree",
+            "link": "https://leetcode.com/problems//problems/balance-a-binary-search-tree",
+            "level": "Medium",
+            "acrate": "80.3%"
+        },
+        {
+            "num": 1383,
+            "title": "Maximum Performance of a Team",
+            "lo_title": "maximum-performance-of-a-team",
+            "link": "https://leetcode.com/problems//problems/maximum-performance-of-a-team",
+            "level": "Hard",
+            "acrate": "41.5%"
+        },
+        {
+            "num": 1384,
+            "title": "Total Sales Amount by Year",
+            "lo_title": "total-sales-amount-by-year",
+            "link": "https://leetcode.com/problems//problems/total-sales-amount-by-year",
+            "level": "Hard",
+            "acrate": "66.3%"
+        },
+        {
+            "num": 1385,
+            "title": "Find the Distance Value Between Two Arrays",
+            "lo_title": "find-the-distance-value-between-two-arrays",
+            "link": "https://leetcode.com/problems//problems/find-the-distance-value-between-two-arrays",
+            "level": "Easy",
+            "acrate": "65.9%"
+        },
+        {
+            "num": 1386,
+            "title": "Cinema Seat Allocation",
+            "lo_title": "cinema-seat-allocation",
+            "link": "https://leetcode.com/problems//problems/cinema-seat-allocation",
+            "level": "Medium",
+            "acrate": "39.7%"
+        },
+        {
+            "num": 1387,
+            "title": "Sort Integers by The Power Value",
+            "lo_title": "sort-integers-by-the-power-value",
+            "link": "https://leetcode.com/problems//problems/sort-integers-by-the-power-value",
+            "level": "Medium",
+            "acrate": "69.9%"
+        },
+        {
+            "num": 1388,
+            "title": "Pizza With 3n Slices",
+            "lo_title": "pizza-with-3n-slices",
+            "link": "https://leetcode.com/problems//problems/pizza-with-3n-slices",
+            "level": "Hard",
+            "acrate": "48.8%"
+        },
+        {
+            "num": 1389,
+            "title": "Create Target Array in the Given Order",
+            "lo_title": "create-target-array-in-the-given-order",
+            "link": "https://leetcode.com/problems//problems/create-target-array-in-the-given-order",
+            "level": "Easy",
+            "acrate": "85.6%"
+        },
+        {
+            "num": 1390,
+            "title": "Four Divisors",
+            "lo_title": "four-divisors",
+            "link": "https://leetcode.com/problems//problems/four-divisors",
+            "level": "Medium",
+            "acrate": "40.9%"
+        },
+        {
+            "num": 1391,
+            "title": "Check if There is a Valid Path in a Grid",
+            "lo_title": "check-if-there-is-a-valid-path-in-a-grid",
+            "link": "https://leetcode.com/problems//problems/check-if-there-is-a-valid-path-in-a-grid",
+            "level": "Medium",
+            "acrate": "46.6%"
+        },
+        {
+            "num": 1392,
+            "title": "Longest Happy Prefix",
+            "lo_title": "longest-happy-prefix",
+            "link": "https://leetcode.com/problems//problems/longest-happy-prefix",
+            "level": "Hard",
+            "acrate": "44.4%"
+        },
+        {
+            "num": 1393,
+            "title": "Capital Gain/Loss",
+            "lo_title": "capital-gainloss",
+            "link": "https://leetcode.com/problems//problems/capital-gainloss",
+            "level": "Medium",
+            "acrate": "91.0%"
+        },
+        {
+            "num": 1394,
+            "title": "Find Lucky Integer in an Array",
+            "lo_title": "find-lucky-integer-in-an-array",
+            "link": "https://leetcode.com/problems//problems/find-lucky-integer-in-an-array",
+            "level": "Easy",
+            "acrate": "63.6%"
+        },
+        {
+            "num": 1395,
+            "title": "Count Number of Teams",
+            "lo_title": "count-number-of-teams",
+            "link": "https://leetcode.com/problems//problems/count-number-of-teams",
+            "level": "Medium",
+            "acrate": "69.4%"
+        },
+        {
+            "num": 1396,
+            "title": "Design Underground System",
+            "lo_title": "design-underground-system",
+            "link": "https://leetcode.com/problems//problems/design-underground-system",
+            "level": "Medium",
+            "acrate": "73.5%"
+        },
+        {
+            "num": 1397,
+            "title": "Find All Good Strings",
+            "lo_title": "find-all-good-strings",
+            "link": "https://leetcode.com/problems//problems/find-all-good-strings",
+            "level": "Hard",
+            "acrate": "41.3%"
+        },
+        {
+            "num": 1398,
+            "title": "Customers Who Bought Products A and B but Not C",
+            "lo_title": "customers-who-bought-products-a-and-b-but-not-c",
+            "link": "https://leetcode.com/problems//problems/customers-who-bought-products-a-and-b-but-not-c",
+            "level": "Medium",
+            "acrate": "78.5%"
+        },
+        {
+            "num": 1399,
+            "title": "Count Largest Group",
+            "lo_title": "count-largest-group",
+            "link": "https://leetcode.com/problems//problems/count-largest-group",
+            "level": "Easy",
+            "acrate": "66.8%"
+        },
+        {
+            "num": 1400,
+            "title": "Construct K Palindrome Strings",
+            "lo_title": "construct-k-palindrome-strings",
+            "link": "https://leetcode.com/problems//problems/construct-k-palindrome-strings",
+            "level": "Medium",
+            "acrate": "63.8%"
+        }
+    ]
+}

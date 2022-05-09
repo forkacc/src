@@ -1,0 +1,804 @@
+{
+    "questions": [
+        {
+            "num": 1901,
+            "title": "Find a Peak Element II",
+            "lo_title": "find-a-peak-element-ii",
+            "link": "https://leetcode.com/problems//problems/find-a-peak-element-ii",
+            "level": "Medium",
+            "acrate": "53.6%"
+        },
+        {
+            "num": 1902,
+            "title": "Depth of BST Given Insertion Order",
+            "lo_title": "depth-of-bst-given-insertion-order",
+            "link": "https://leetcode.com/problems//problems/depth-of-bst-given-insertion-order",
+            "level": "Medium",
+            "acrate": "46.2%"
+        },
+        {
+            "num": 1903,
+            "title": "Largest Odd Number in String",
+            "lo_title": "largest-odd-number-in-string",
+            "link": "https://leetcode.com/problems//problems/largest-odd-number-in-string",
+            "level": "Easy",
+            "acrate": "56.7%"
+        },
+        {
+            "num": 1904,
+            "title": "The Number of Full Rounds You Have Played",
+            "lo_title": "the-number-of-full-rounds-you-have-played",
+            "link": "https://leetcode.com/problems//problems/the-number-of-full-rounds-you-have-played",
+            "level": "Medium",
+            "acrate": "46.8%"
+        },
+        {
+            "num": 1905,
+            "title": "Count Sub Islands",
+            "lo_title": "count-sub-islands",
+            "link": "https://leetcode.com/problems//problems/count-sub-islands",
+            "level": "Medium",
+            "acrate": "66.0%"
+        },
+        {
+            "num": 1906,
+            "title": "Minimum Absolute Difference Queries",
+            "lo_title": "minimum-absolute-difference-queries",
+            "link": "https://leetcode.com/problems//problems/minimum-absolute-difference-queries",
+            "level": "Medium",
+            "acrate": "42.9%"
+        },
+        {
+            "num": 1907,
+            "title": "Count Salary Categories",
+            "lo_title": "count-salary-categories",
+            "link": "https://leetcode.com/problems//problems/count-salary-categories",
+            "level": "Medium",
+            "acrate": "66.0%"
+        },
+        {
+            "num": 1908,
+            "title": "Game of Nim",
+            "lo_title": "game-of-nim",
+            "link": "https://leetcode.com/problems//problems/game-of-nim",
+            "level": "Medium",
+            "acrate": "58.1%"
+        },
+        {
+            "num": 1909,
+            "title": "Remove One Element to Make the Array Strictly Increasing",
+            "lo_title": "remove-one-element-to-make-the-array-strictly-increasing",
+            "link": "https://leetcode.com/problems//problems/remove-one-element-to-make-the-array-strictly-increasing",
+            "level": "Easy",
+            "acrate": "27.0%"
+        },
+        {
+            "num": 1910,
+            "title": "Remove All Occurrences of a Substring",
+            "lo_title": "remove-all-occurrences-of-a-substring",
+            "link": "https://leetcode.com/problems//problems/remove-all-occurrences-of-a-substring",
+            "level": "Medium",
+            "acrate": "72.1%"
+        },
+        {
+            "num": 1911,
+            "title": "Maximum Alternating Subsequence Sum",
+            "lo_title": "maximum-alternating-subsequence-sum",
+            "link": "https://leetcode.com/problems//problems/maximum-alternating-subsequence-sum",
+            "level": "Medium",
+            "acrate": "59.1%"
+        },
+        {
+            "num": 1912,
+            "title": "Design Movie Rental System",
+            "lo_title": "design-movie-rental-system",
+            "link": "https://leetcode.com/problems//problems/design-movie-rental-system",
+            "level": "Hard",
+            "acrate": "41.6%"
+        },
+        {
+            "num": 1913,
+            "title": "Maximum Product Difference Between Two Pairs",
+            "lo_title": "maximum-product-difference-between-two-pairs",
+            "link": "https://leetcode.com/problems//problems/maximum-product-difference-between-two-pairs",
+            "level": "Easy",
+            "acrate": "81.2%"
+        },
+        {
+            "num": 1914,
+            "title": "Cyclically Rotating a Grid",
+            "lo_title": "cyclically-rotating-a-grid",
+            "link": "https://leetcode.com/problems//problems/cyclically-rotating-a-grid",
+            "level": "Medium",
+            "acrate": "47.1%"
+        },
+        {
+            "num": 1915,
+            "title": "Number of Wonderful Substrings",
+            "lo_title": "number-of-wonderful-substrings",
+            "link": "https://leetcode.com/problems//problems/number-of-wonderful-substrings",
+            "level": "Medium",
+            "acrate": "43.6%"
+        },
+        {
+            "num": 1916,
+            "title": "Count Ways to Build Rooms in an Ant Colony",
+            "lo_title": "count-ways-to-build-rooms-in-an-ant-colony",
+            "link": "https://leetcode.com/problems//problems/count-ways-to-build-rooms-in-an-ant-colony",
+            "level": "Hard",
+            "acrate": "48.3%"
+        },
+        {
+            "num": 1917,
+            "title": "Leetcodify Friends Recommendations",
+            "lo_title": "leetcodify-friends-recommendations",
+            "link": "https://leetcode.com/problems//problems/leetcodify-friends-recommendations",
+            "level": "Hard",
+            "acrate": "30.3%"
+        },
+        {
+            "num": 1918,
+            "title": "Kth Smallest Subarray Sum",
+            "lo_title": "kth-smallest-subarray-sum",
+            "link": "https://leetcode.com/problems//problems/kth-smallest-subarray-sum",
+            "level": "Medium",
+            "acrate": "53.7%"
+        },
+        {
+            "num": 1919,
+            "title": "Leetcodify Similar Friends",
+            "lo_title": "leetcodify-similar-friends",
+            "link": "https://leetcode.com/problems//problems/leetcodify-similar-friends",
+            "level": "Hard",
+            "acrate": "42.8%"
+        },
+        {
+            "num": 1920,
+            "title": "Build Array from Permutation",
+            "lo_title": "build-array-from-permutation",
+            "link": "https://leetcode.com/problems//problems/build-array-from-permutation",
+            "level": "Easy",
+            "acrate": "91.6%"
+        },
+        {
+            "num": 1921,
+            "title": "Eliminate Maximum Number of Monsters",
+            "lo_title": "eliminate-maximum-number-of-monsters",
+            "link": "https://leetcode.com/problems//problems/eliminate-maximum-number-of-monsters",
+            "level": "Medium",
+            "acrate": "37.5%"
+        },
+        {
+            "num": 1922,
+            "title": "Count Good Numbers",
+            "lo_title": "count-good-numbers",
+            "link": "https://leetcode.com/problems//problems/count-good-numbers",
+            "level": "Medium",
+            "acrate": "38.2%"
+        },
+        {
+            "num": 1923,
+            "title": "Longest Common Subpath",
+            "lo_title": "longest-common-subpath",
+            "link": "https://leetcode.com/problems//problems/longest-common-subpath",
+            "level": "Hard",
+            "acrate": "28.2%"
+        },
+        {
+            "num": 1924,
+            "title": "Erect the Fence II",
+            "lo_title": "erect-the-fence-ii",
+            "link": "https://leetcode.com/problems//problems/erect-the-fence-ii",
+            "level": "Hard",
+            "acrate": "56.1%"
+        },
+        {
+            "num": 1925,
+            "title": "Count Square Sum Triples",
+            "lo_title": "count-square-sum-triples",
+            "link": "https://leetcode.com/problems//problems/count-square-sum-triples",
+            "level": "Easy",
+            "acrate": "67.6%"
+        },
+        {
+            "num": 1926,
+            "title": "Nearest Exit from Entrance in Maze",
+            "lo_title": "nearest-exit-from-entrance-in-maze",
+            "link": "https://leetcode.com/problems//problems/nearest-exit-from-entrance-in-maze",
+            "level": "Medium",
+            "acrate": "40.7%"
+        },
+        {
+            "num": 1927,
+            "title": "Sum Game",
+            "lo_title": "sum-game",
+            "link": "https://leetcode.com/problems//problems/sum-game",
+            "level": "Medium",
+            "acrate": "47.3%"
+        },
+        {
+            "num": 1928,
+            "title": "Minimum Cost to Reach Destination in Time",
+            "lo_title": "minimum-cost-to-reach-destination-in-time",
+            "link": "https://leetcode.com/problems//problems/minimum-cost-to-reach-destination-in-time",
+            "level": "Hard",
+            "acrate": "37.4%"
+        },
+        {
+            "num": 1929,
+            "title": "Concatenation of Array",
+            "lo_title": "concatenation-of-array",
+            "link": "https://leetcode.com/problems//problems/concatenation-of-array",
+            "level": "Easy",
+            "acrate": "91.6%"
+        },
+        {
+            "num": 1930,
+            "title": "Unique Length-3 Palindromic Subsequences",
+            "lo_title": "unique-length-3-palindromic-subsequences",
+            "link": "https://leetcode.com/problems//problems/unique-length-3-palindromic-subsequences",
+            "level": "Medium",
+            "acrate": "51.1%"
+        },
+        {
+            "num": 1931,
+            "title": "Painting a Grid With Three Different Colors",
+            "lo_title": "painting-a-grid-with-three-different-colors",
+            "link": "https://leetcode.com/problems//problems/painting-a-grid-with-three-different-colors",
+            "level": "Hard",
+            "acrate": "57.1%"
+        },
+        {
+            "num": 1932,
+            "title": "Merge BSTs to Create Single BST",
+            "lo_title": "merge-bsts-to-create-single-bst",
+            "link": "https://leetcode.com/problems//problems/merge-bsts-to-create-single-bst",
+            "level": "Hard",
+            "acrate": "34.9%"
+        },
+        {
+            "num": 1933,
+            "title": "Check if String Is Decomposable Into Value-Equal Substrings",
+            "lo_title": "check-if-string-is-decomposable-into-value-equal-substrings",
+            "link": "https://leetcode.com/problems//problems/check-if-string-is-decomposable-into-value-equal-substrings",
+            "level": "Easy",
+            "acrate": "51.1%"
+        },
+        {
+            "num": 1934,
+            "title": "Confirmation Rate",
+            "lo_title": "confirmation-rate",
+            "link": "https://leetcode.com/problems//problems/confirmation-rate",
+            "level": "Medium",
+            "acrate": "77.2%"
+        },
+        {
+            "num": 1935,
+            "title": "Maximum Number of Words You Can Type",
+            "lo_title": "maximum-number-of-words-you-can-type",
+            "link": "https://leetcode.com/problems//problems/maximum-number-of-words-you-can-type",
+            "level": "Easy",
+            "acrate": "71.4%"
+        },
+        {
+            "num": 1936,
+            "title": "Add Minimum Number of Rungs",
+            "lo_title": "add-minimum-number-of-rungs",
+            "link": "https://leetcode.com/problems//problems/add-minimum-number-of-rungs",
+            "level": "Medium",
+            "acrate": "42.4%"
+        },
+        {
+            "num": 1937,
+            "title": "Maximum Number of Points with Cost",
+            "lo_title": "maximum-number-of-points-with-cost",
+            "link": "https://leetcode.com/problems//problems/maximum-number-of-points-with-cost",
+            "level": "Medium",
+            "acrate": "35.5%"
+        },
+        {
+            "num": 1938,
+            "title": "Maximum Genetic Difference Query",
+            "lo_title": "maximum-genetic-difference-query",
+            "link": "https://leetcode.com/problems//problems/maximum-genetic-difference-query",
+            "level": "Hard",
+            "acrate": "39.1%"
+        },
+        {
+            "num": 1939,
+            "title": "Users That Actively Request Confirmation Messages",
+            "lo_title": "users-that-actively-request-confirmation-messages",
+            "link": "https://leetcode.com/problems//problems/users-that-actively-request-confirmation-messages",
+            "level": "Easy",
+            "acrate": "61.6%"
+        },
+        {
+            "num": 1940,
+            "title": "Longest Common Subsequence Between Sorted Arrays",
+            "lo_title": "longest-common-subsequence-between-sorted-arrays",
+            "link": "https://leetcode.com/problems//problems/longest-common-subsequence-between-sorted-arrays",
+            "level": "Medium",
+            "acrate": "79.1%"
+        },
+        {
+            "num": 1941,
+            "title": "Check if All Characters Have Equal Number of Occurrences",
+            "lo_title": "check-if-all-characters-have-equal-number-of-occurrences",
+            "link": "https://leetcode.com/problems//problems/check-if-all-characters-have-equal-number-of-occurrences",
+            "level": "Easy",
+            "acrate": "77.1%"
+        },
+        {
+            "num": 1942,
+            "title": "The Number of the Smallest Unoccupied Chair",
+            "lo_title": "the-number-of-the-smallest-unoccupied-chair",
+            "link": "https://leetcode.com/problems//problems/the-number-of-the-smallest-unoccupied-chair",
+            "level": "Medium",
+            "acrate": "39.1%"
+        },
+        {
+            "num": 1943,
+            "title": "Describe the Painting",
+            "lo_title": "describe-the-painting",
+            "link": "https://leetcode.com/problems//problems/describe-the-painting",
+            "level": "Medium",
+            "acrate": "46.5%"
+        },
+        {
+            "num": 1944,
+            "title": "Number of Visible People in a Queue",
+            "lo_title": "number-of-visible-people-in-a-queue",
+            "link": "https://leetcode.com/problems//problems/number-of-visible-people-in-a-queue",
+            "level": "Hard",
+            "acrate": "70.1%"
+        },
+        {
+            "num": 1945,
+            "title": "Sum of Digits of String After Convert",
+            "lo_title": "sum-of-digits-of-string-after-convert",
+            "link": "https://leetcode.com/problems//problems/sum-of-digits-of-string-after-convert",
+            "level": "Easy",
+            "acrate": "61.4%"
+        },
+        {
+            "num": 1946,
+            "title": "Largest Number After Mutating Substring",
+            "lo_title": "largest-number-after-mutating-substring",
+            "link": "https://leetcode.com/problems//problems/largest-number-after-mutating-substring",
+            "level": "Medium",
+            "acrate": "34.0%"
+        },
+        {
+            "num": 1947,
+            "title": "Maximum Compatibility Score Sum",
+            "lo_title": "maximum-compatibility-score-sum",
+            "link": "https://leetcode.com/problems//problems/maximum-compatibility-score-sum",
+            "level": "Medium",
+            "acrate": "60.2%"
+        },
+        {
+            "num": 1948,
+            "title": "Delete Duplicate Folders in System",
+            "lo_title": "delete-duplicate-folders-in-system",
+            "link": "https://leetcode.com/problems//problems/delete-duplicate-folders-in-system",
+            "level": "Hard",
+            "acrate": "58.9%"
+        },
+        {
+            "num": 1949,
+            "title": "Strong Friendship",
+            "lo_title": "strong-friendship",
+            "link": "https://leetcode.com/problems//problems/strong-friendship",
+            "level": "Medium",
+            "acrate": "59.5%"
+        },
+        {
+            "num": 1950,
+            "title": "Maximum of Minimum Values in All Subarrays",
+            "lo_title": "maximum-of-minimum-values-in-all-subarrays",
+            "link": "https://leetcode.com/problems//problems/maximum-of-minimum-values-in-all-subarrays",
+            "level": "Medium",
+            "acrate": "51.2%"
+        },
+        {
+            "num": 1951,
+            "title": "All the Pairs With the Maximum Number of Common Followers",
+            "lo_title": "all-the-pairs-with-the-maximum-number-of-common-followers",
+            "link": "https://leetcode.com/problems//problems/all-the-pairs-with-the-maximum-number-of-common-followers",
+            "level": "Medium",
+            "acrate": "72.7%"
+        },
+        {
+            "num": 1952,
+            "title": "Three Divisors",
+            "lo_title": "three-divisors",
+            "link": "https://leetcode.com/problems//problems/three-divisors",
+            "level": "Easy",
+            "acrate": "56.5%"
+        },
+        {
+            "num": 1953,
+            "title": "Maximum Number of Weeks for Which You Can Work",
+            "lo_title": "maximum-number-of-weeks-for-which-you-can-work",
+            "link": "https://leetcode.com/problems//problems/maximum-number-of-weeks-for-which-you-can-work",
+            "level": "Medium",
+            "acrate": "37.7%"
+        },
+        {
+            "num": 1954,
+            "title": "Minimum Garden Perimeter to Collect Enough Apples",
+            "lo_title": "minimum-garden-perimeter-to-collect-enough-apples",
+            "link": "https://leetcode.com/problems//problems/minimum-garden-perimeter-to-collect-enough-apples",
+            "level": "Medium",
+            "acrate": "52.5%"
+        },
+        {
+            "num": 1955,
+            "title": "Count Number of Special Subsequences",
+            "lo_title": "count-number-of-special-subsequences",
+            "link": "https://leetcode.com/problems//problems/count-number-of-special-subsequences",
+            "level": "Hard",
+            "acrate": "50.8%"
+        },
+        {
+            "num": 1956,
+            "title": "Minimum Time For K Virus Variants to Spread",
+            "lo_title": "minimum-time-for-k-virus-variants-to-spread",
+            "link": "https://leetcode.com/problems//problems/minimum-time-for-k-virus-variants-to-spread",
+            "level": "Hard",
+            "acrate": "43.8%"
+        },
+        {
+            "num": 1957,
+            "title": "Delete Characters to Make Fancy String",
+            "lo_title": "delete-characters-to-make-fancy-string",
+            "link": "https://leetcode.com/problems//problems/delete-characters-to-make-fancy-string",
+            "level": "Easy",
+            "acrate": "57.0%"
+        },
+        {
+            "num": 1958,
+            "title": "Check if Move is Legal",
+            "lo_title": "check-if-move-is-legal",
+            "link": "https://leetcode.com/problems//problems/check-if-move-is-legal",
+            "level": "Medium",
+            "acrate": "43.5%"
+        },
+        {
+            "num": 1959,
+            "title": "Minimum Total Space Wasted With K Resizing Operations",
+            "lo_title": "minimum-total-space-wasted-with-k-resizing-operations",
+            "link": "https://leetcode.com/problems//problems/minimum-total-space-wasted-with-k-resizing-operations",
+            "level": "Medium",
+            "acrate": "41.8%"
+        },
+        {
+            "num": 1960,
+            "title": "Maximum Product of the Length of Two Palindromic Substrings",
+            "lo_title": "maximum-product-of-the-length-of-two-palindromic-substrings",
+            "link": "https://leetcode.com/problems//problems/maximum-product-of-the-length-of-two-palindromic-substrings",
+            "level": "Hard",
+            "acrate": "29.2%"
+        },
+        {
+            "num": 1961,
+            "title": "Check If String Is a Prefix of Array",
+            "lo_title": "check-if-string-is-a-prefix-of-array",
+            "link": "https://leetcode.com/problems//problems/check-if-string-is-a-prefix-of-array",
+            "level": "Easy",
+            "acrate": "54.6%"
+        },
+        {
+            "num": 1962,
+            "title": "Remove Stones to Minimize the Total",
+            "lo_title": "remove-stones-to-minimize-the-total",
+            "link": "https://leetcode.com/problems//problems/remove-stones-to-minimize-the-total",
+            "level": "Medium",
+            "acrate": "56.6%"
+        },
+        {
+            "num": 1963,
+            "title": "Minimum Number of Swaps to Make the String Balanced",
+            "lo_title": "minimum-number-of-swaps-to-make-the-string-balanced",
+            "link": "https://leetcode.com/problems//problems/minimum-number-of-swaps-to-make-the-string-balanced",
+            "level": "Medium",
+            "acrate": "67.5%"
+        },
+        {
+            "num": 1964,
+            "title": "Find the Longest Valid Obstacle Course at Each Position",
+            "lo_title": "find-the-longest-valid-obstacle-course-at-each-position",
+            "link": "https://leetcode.com/problems//problems/find-the-longest-valid-obstacle-course-at-each-position",
+            "level": "Hard",
+            "acrate": "45.4%"
+        },
+        {
+            "num": 1965,
+            "title": "Employees With Missing Information",
+            "lo_title": "employees-with-missing-information",
+            "link": "https://leetcode.com/problems//problems/employees-with-missing-information",
+            "level": "Easy",
+            "acrate": "81.6%"
+        },
+        {
+            "num": 1966,
+            "title": "Binary Searchable Numbers in an Unsorted Array",
+            "lo_title": "binary-searchable-numbers-in-an-unsorted-array",
+            "link": "https://leetcode.com/problems//problems/binary-searchable-numbers-in-an-unsorted-array",
+            "level": "Medium",
+            "acrate": "66.2%"
+        },
+        {
+            "num": 1967,
+            "title": "Number of Strings That Appear as Substrings in Word",
+            "lo_title": "number-of-strings-that-appear-as-substrings-in-word",
+            "link": "https://leetcode.com/problems//problems/number-of-strings-that-appear-as-substrings-in-word",
+            "level": "Easy",
+            "acrate": "79.5%"
+        },
+        {
+            "num": 1968,
+            "title": "Array With Elements Not Equal to Average of Neighbors",
+            "lo_title": "array-with-elements-not-equal-to-average-of-neighbors",
+            "link": "https://leetcode.com/problems//problems/array-with-elements-not-equal-to-average-of-neighbors",
+            "level": "Medium",
+            "acrate": "48.5%"
+        },
+        {
+            "num": 1969,
+            "title": "Minimum Non-Zero Product of the Array Elements",
+            "lo_title": "minimum-non-zero-product-of-the-array-elements",
+            "link": "https://leetcode.com/problems//problems/minimum-non-zero-product-of-the-array-elements",
+            "level": "Medium",
+            "acrate": "32.5%"
+        },
+        {
+            "num": 1970,
+            "title": "Last Day Where You Can Still Cross",
+            "lo_title": "last-day-where-you-can-still-cross",
+            "link": "https://leetcode.com/problems//problems/last-day-where-you-can-still-cross",
+            "level": "Hard",
+            "acrate": "48.9%"
+        },
+        {
+            "num": 1971,
+            "title": "Find if Path Exists in Graph",
+            "lo_title": "find-if-path-exists-in-graph",
+            "link": "https://leetcode.com/problems//problems/find-if-path-exists-in-graph",
+            "level": "Easy",
+            "acrate": "50.1%"
+        },
+        {
+            "num": 1972,
+            "title": "First and Last Call On the Same Day",
+            "lo_title": "first-and-last-call-on-the-same-day",
+            "link": "https://leetcode.com/problems//problems/first-and-last-call-on-the-same-day",
+            "level": "Hard",
+            "acrate": "52.6%"
+        },
+        {
+            "num": 1973,
+            "title": "Count Nodes Equal to Sum of Descendants",
+            "lo_title": "count-nodes-equal-to-sum-of-descendants",
+            "link": "https://leetcode.com/problems//problems/count-nodes-equal-to-sum-of-descendants",
+            "level": "Medium",
+            "acrate": "75.5%"
+        },
+        {
+            "num": 1974,
+            "title": "Minimum Time to Type Word Using Special Typewriter",
+            "lo_title": "minimum-time-to-type-word-using-special-typewriter",
+            "link": "https://leetcode.com/problems//problems/minimum-time-to-type-word-using-special-typewriter",
+            "level": "Easy",
+            "acrate": "71.5%"
+        },
+        {
+            "num": 1975,
+            "title": "Maximum Matrix Sum",
+            "lo_title": "maximum-matrix-sum",
+            "link": "https://leetcode.com/problems//problems/maximum-matrix-sum",
+            "level": "Medium",
+            "acrate": "44.8%"
+        },
+        {
+            "num": 1976,
+            "title": "Number of Ways to Arrive at Destination",
+            "lo_title": "number-of-ways-to-arrive-at-destination",
+            "link": "https://leetcode.com/problems//problems/number-of-ways-to-arrive-at-destination",
+            "level": "Medium",
+            "acrate": "32.9%"
+        },
+        {
+            "num": 1977,
+            "title": "Number of Ways to Separate Numbers",
+            "lo_title": "number-of-ways-to-separate-numbers",
+            "link": "https://leetcode.com/problems//problems/number-of-ways-to-separate-numbers",
+            "level": "Hard",
+            "acrate": "22.2%"
+        },
+        {
+            "num": 1978,
+            "title": "Employees Whose Manager Left the Company",
+            "lo_title": "employees-whose-manager-left-the-company",
+            "link": "https://leetcode.com/problems//problems/employees-whose-manager-left-the-company",
+            "level": "Easy",
+            "acrate": "50.2%"
+        },
+        {
+            "num": 1979,
+            "title": "Find Greatest Common Divisor of Array",
+            "lo_title": "find-greatest-common-divisor-of-array",
+            "link": "https://leetcode.com/problems//problems/find-greatest-common-divisor-of-array",
+            "level": "Easy",
+            "acrate": "77.8%"
+        },
+        {
+            "num": 1980,
+            "title": "Find Unique Binary String",
+            "lo_title": "find-unique-binary-string",
+            "link": "https://leetcode.com/problems//problems/find-unique-binary-string",
+            "level": "Medium",
+            "acrate": "63.4%"
+        },
+        {
+            "num": 1981,
+            "title": "Minimize the Difference Between Target and Chosen Elements",
+            "lo_title": "minimize-the-difference-between-target-and-chosen-elements",
+            "link": "https://leetcode.com/problems//problems/minimize-the-difference-between-target-and-chosen-elements",
+            "level": "Medium",
+            "acrate": "32.7%"
+        },
+        {
+            "num": 1982,
+            "title": "Find Array Given Subset Sums",
+            "lo_title": "find-array-given-subset-sums",
+            "link": "https://leetcode.com/problems//problems/find-array-given-subset-sums",
+            "level": "Hard",
+            "acrate": "48.3%"
+        },
+        {
+            "num": 1983,
+            "title": "Widest Pair of Indices With Equal Range Sum",
+            "lo_title": "widest-pair-of-indices-with-equal-range-sum",
+            "link": "https://leetcode.com/problems//problems/widest-pair-of-indices-with-equal-range-sum",
+            "level": "Medium",
+            "acrate": "53.9%"
+        },
+        {
+            "num": 1984,
+            "title": "Minimum Difference Between Highest and Lowest of K Scores",
+            "lo_title": "minimum-difference-between-highest-and-lowest-of-k-scores",
+            "link": "https://leetcode.com/problems//problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+            "level": "Easy",
+            "acrate": "53.4%"
+        },
+        {
+            "num": 1985,
+            "title": "Find the Kth Largest Integer in the Array",
+            "lo_title": "find-the-kth-largest-integer-in-the-array",
+            "link": "https://leetcode.com/problems//problems/find-the-kth-largest-integer-in-the-array",
+            "level": "Medium",
+            "acrate": "44.6%"
+        },
+        {
+            "num": 1986,
+            "title": "Minimum Number of Work Sessions to Finish the Tasks",
+            "lo_title": "minimum-number-of-work-sessions-to-finish-the-tasks",
+            "link": "https://leetcode.com/problems//problems/minimum-number-of-work-sessions-to-finish-the-tasks",
+            "level": "Medium",
+            "acrate": "31.7%"
+        },
+        {
+            "num": 1987,
+            "title": "Number of Unique Good Subsequences",
+            "lo_title": "number-of-unique-good-subsequences",
+            "link": "https://leetcode.com/problems//problems/number-of-unique-good-subsequences",
+            "level": "Hard",
+            "acrate": "52.1%"
+        },
+        {
+            "num": 1988,
+            "title": "Find Cutoff Score for Each School",
+            "lo_title": "find-cutoff-score-for-each-school",
+            "link": "https://leetcode.com/problems//problems/find-cutoff-score-for-each-school",
+            "level": "Medium",
+            "acrate": "69.4%"
+        },
+        {
+            "num": 1989,
+            "title": "Maximum Number of People That Can Be Caught in Tag",
+            "lo_title": "maximum-number-of-people-that-can-be-caught-in-tag",
+            "link": "https://leetcode.com/problems//problems/maximum-number-of-people-that-can-be-caught-in-tag",
+            "level": "Medium",
+            "acrate": "53.7%"
+        },
+        {
+            "num": 1990,
+            "title": "Count the Number of Experiments",
+            "lo_title": "count-the-number-of-experiments",
+            "link": "https://leetcode.com/problems//problems/count-the-number-of-experiments",
+            "level": "Medium",
+            "acrate": "51.3%"
+        },
+        {
+            "num": 1991,
+            "title": "Find the Middle Index in Array",
+            "lo_title": "find-the-middle-index-in-array",
+            "link": "https://leetcode.com/problems//problems/find-the-middle-index-in-array",
+            "level": "Easy",
+            "acrate": "66.3%"
+        },
+        {
+            "num": 1992,
+            "title": "Find All Groups of Farmland",
+            "lo_title": "find-all-groups-of-farmland",
+            "link": "https://leetcode.com/problems//problems/find-all-groups-of-farmland",
+            "level": "Medium",
+            "acrate": "67.2%"
+        },
+        {
+            "num": 1993,
+            "title": "Operations on Tree",
+            "lo_title": "operations-on-tree",
+            "link": "https://leetcode.com/problems//problems/operations-on-tree",
+            "level": "Medium",
+            "acrate": "42.2%"
+        },
+        {
+            "num": 1994,
+            "title": "The Number of Good Subsets",
+            "lo_title": "the-number-of-good-subsets",
+            "link": "https://leetcode.com/problems//problems/the-number-of-good-subsets",
+            "level": "Hard",
+            "acrate": "34.1%"
+        },
+        {
+            "num": 1995,
+            "title": "Count Special Quadruplets",
+            "lo_title": "count-special-quadruplets",
+            "link": "https://leetcode.com/problems//problems/count-special-quadruplets",
+            "level": "Easy",
+            "acrate": "57.9%"
+        },
+        {
+            "num": 1996,
+            "title": "The Number of Weak Characters in the Game",
+            "lo_title": "the-number-of-weak-characters-in-the-game",
+            "link": "https://leetcode.com/problems//problems/the-number-of-weak-characters-in-the-game",
+            "level": "Medium",
+            "acrate": "33.6%"
+        },
+        {
+            "num": 1997,
+            "title": "First Day Where You Have Been in All the Rooms",
+            "lo_title": "first-day-where-you-have-been-in-all-the-rooms",
+            "link": "https://leetcode.com/problems//problems/first-day-where-you-have-been-in-all-the-rooms",
+            "level": "Medium",
+            "acrate": "35.4%"
+        },
+        {
+            "num": 1998,
+            "title": "GCD Sort of an Array",
+            "lo_title": "gcd-sort-of-an-array",
+            "link": "https://leetcode.com/problems//problems/gcd-sort-of-an-array",
+            "level": "Hard",
+            "acrate": "45.5%"
+        },
+        {
+            "num": 1999,
+            "title": "Smallest Greater Multiple Made of Two Digits",
+            "lo_title": "smallest-greater-multiple-made-of-two-digits",
+            "link": "https://leetcode.com/problems//problems/smallest-greater-multiple-made-of-two-digits",
+            "level": "Medium",
+            "acrate": "52.4%"
+        },
+        {
+            "num": 2000,
+            "title": "Reverse Prefix of Word",
+            "lo_title": "reverse-prefix-of-word",
+            "link": "https://leetcode.com/problems//problems/reverse-prefix-of-word",
+            "level": "Easy",
+            "acrate": "77.9%"
+        }
+    ]
+}
